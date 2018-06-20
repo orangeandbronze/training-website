@@ -1,0 +1,126 @@
+---
+layout:             training-tracks
+class:              trackdetails
+title:              Git
+short_description:  This course introduces version control best practices as well as best practices specific to Git, and introduces Git’s powerful features.
+image:              assets/img/course-git.png
+date:               2018-06-13 08:00:00 +0800
+categories:         other_courses
+---
+<div class="section-content">
+    <div class="container-fluid auto-1110">
+        <div class="row">
+            <div class="col">
+                <div class="panel-content">
+                    <div class="title-section">
+                        <img src="{{ "assets/img/title-software.png" | relative_url }}" alt="">
+                        <div class="title">
+                            <h6>
+                                < OUR MOST POPULAR TRAINING COURSE />
+                            </h6>
+                            <h2>Git Course</h2>
+                        </div>
+                    </div>
+                    <div class="row" data-sticky-container>
+                        <div class="track-panel">
+                            <div class="track-content">
+                                <section id="overview">
+                                    <h3>Overview</h3>
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                    <p>
+                                        Git has quickly become the most popular version control system for new projects. It is open source, distributed, and has a rich set of modern features unseen in previous version control systems like Subversion, Mercurial or Microsoft TFS.
+                                    </p>
+                                    <p>
+                                        However, many team jump into Git without understanding proper practices in version control, or how workflows in distributed version control differ from those in centralized version control. Also, many developers end up using Git simply to push or pull code, not using it’s many powerful features for such things as finding bugs or resolving conflicts.
+                                    </p>
+                                    <p>
+                                        This course introduces version control best practices as well as best practices specific to Git, and introduces attendees to Git’s less-used but powerful features.
+                                    </p>
+                                    <h4>
+                                        Prerequisite
+                                    </h4>
+                                    <p>
+                                        None
+                                    </p>
+                                </section>
+                                <section id="topic-outline">
+                                    <h3>
+                                        Topic Outline:
+                                    </h3>
+                                    <h5 class="course-title">Day 1 : Introduction to Git</h5>
+                                    <ul class="course-outline">
+                                        <li>Git Overview</li>
+                                        <li>Starting a Fresh Repository</li>
+                                        <li>Checking Status & Staging Your First Commit</li>
+                                        <li>Your First Commit</li>
+                                        <li>Reviewing Commits</li>
+                                        <li>Commit Messages & Atomic Commits</li>
+                                        <li>Making & Reviewing Changes Before Committing</li>
+                                        <li>Unstaging a File</li>
+                                        <li>Revising an Incomplete Commit</li>
+                                        <li>Viewing Changes Between Commits</li>
+                                        <li>Branching</li>
+                                        <li>Merging</li>
+                                        <li>Resolving Merge Conflicts</li>
+                                        <li>Tagging</li>
+                                        <li>Ignoring Files & Directories</li>
+                                        <li>Finding When a Bug Was Introduced</li>
+                                        <li>Sharing a Remote Repository w/ GitLab or GitHub</li>
+                                        <li>Resolving Conflicts</li>
+                                        <li>Linking Commits w/ Issues on GitLab/GitHub</li>
+                                        <li>Closing an Issue on GitLab/GitHub</li>
+                                        <li>Finding Someone to Blame</li>
+                                        <li>Best Practices</li>
+                                    </ul>
+                                </section>
+
+                                <section id="faq">
+                                    <h3>Frequently Asked Questions</h3>
+                                    <div class="faq-list" id="accordion">
+
+                                        <a class="faq-card">
+                                            <div class="faq-header collapsed" id="heading-1" data-toggle="collapse" data-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">
+                                                <h4 class="title">
+                                                    What are the prerequisites needed before I take this training track?
+                                                </h4>
+                                                <img src="{{ "assets/img/ico-chevron-down.svg" | relative_url }}" alt="" class="ico">
+                                            </div>
+                                            <div id="collapse-1" class="collapse faq-body" aria-labelledby="heading-1" data-parent="#accordion">
+                                                <div class="content">
+                                                    <p>
+                                                        Kindly fill-out the online application form and then submit your resume to
+                                                        <a href="mailto:careers@orangeandbronze.com">careers@orangeandbronze.com</a> and indicate the position in the subject line.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                        <a class="faq-card">
+                                            <div class="faq-header collapsed" id="heading-2" data-toggle="collapse" aria-expanded="false" data-target="#collapse-2" aria-controls="collapse-2">
+                                                <h4 class="title">
+                                                    What skills should I expect to possess at the end of the course?
+                                                </h4>
+                                                <img src="{{ "assets/img/ico-chevron-down.svg" | relative_url }}" alt="" class="ico">
+                                            </div>
+                                            <div id="collapse-2" class="collapse faq-body" aria-labelledby="heading-2" data-parent="#accordion">
+                                                <div class="content">
+                                                    <p>
+                                                        You will receive an e-mail acknowledgement about your job application. If you are qualified for the position, you will be contacted by a recruiter to invite you to take our examination.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </a>
+
+                                    </div>
+                                </section>
+
+                            </div>
+
+                            {%- include training-sidebar-nav.html -%}
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

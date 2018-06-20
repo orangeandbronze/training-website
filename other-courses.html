@@ -1,0 +1,81 @@
+---
+layout: trainings
+title: "O&B Trainings"
+class: trainingtrack
+permalink: /training/other
+other_courses: true
+header_title: "software engineering done right"
+header_description: "O&B has built a reputation on hiring and training skilled software engineers. We have experience developing enterprise applications using Java, Spring, Hibernate."
+---
+<section class="section-content">
+    <div class="container">
+        <div class="row">
+            <div class="d-lg-none col-lg-1 d-xl-block"></div>
+            <div class="col-xs-12 col-sm-12 col-md-8 col-lg-6 col-xl-5">
+                <h6>[ SOFTWARE ENGINEERING DONE RIGHT ]</h6>
+                <H3>Other Courses We Offer</H3>
+                <img class="hr" src="{{ "assets/img/hr.svg" | relative_url }}">
+                <p>
+                    O&B University provides a range of other training courses that can serve as a complement or as an enhancement for our main offerings. These classes follow the same format as our other courses - heavy on hands-on exercises and focused discussion of best practices based on the real life working experiences of our instructors.
+                </p>
+                <p>
+                    Gain practical knowledge via lectures, hands-on exercises, and insights from our instructors.
+                </p>
+            </div>
+            <div class="d-none d-sm-none d-md-block col-md-4 col-lg-6 col-xl-5 text-right">
+                <img class="img-fluid" src="{{ "assets/img/img-feature7.png" | relative_url }}" alt="">
+            </div>
+            <div class="d-lg-none col-lg-1 d-xl-block"></div>
+        </div>
+
+    </div>
+</section>
+
+<section class="section-courses">
+    <div class="element-1">
+        <img src="{{ "assets/img/bg-element5.svg" | relative_url }}" alt="">
+    </div>
+    <div class="title-section">
+        <img src="{{ "assets/img/title-software.png" | relative_url }}" alt="">
+        <div class="title">
+            <h6>
+                < OFFERINGS BEYOND JAVA />
+            </h6>
+            <h2>Other Courses</h2>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+
+            {% for course in site.categories.other_courses %}
+                <div class="col-sm-12 col-md-6">
+                    <div class="card-container">
+                        <div class="card-border"></div>
+                        <div class="card-othercourse">
+                            <div class="body">
+                                <div class="image">
+                                    <img src="{{ course.image | relative_url }}" alt="">
+                                </div>
+                                <div class="description">
+                                    <h4>{{ course.title }}</h4>
+                                    <p>
+                                        {{ course.short_description }}
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="footer">
+                                <a href="{{ course.url }}" class="btn -primary mt20">
+                                    <img src="{{ "assets/img/ico-arrow-white.svg" | relative_url }}" class="ico" alt=""> View Details
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            {% endfor %}
+
+        </div>
+    </div>
+</section>
+
+{%- include training-steps.html -%}

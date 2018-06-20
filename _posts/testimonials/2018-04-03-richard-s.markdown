@@ -1,0 +1,18 @@
+---
+date:         2018-04-03 08:01:00 +0800
+categories:   testimonial
+---
+<!-- Do not leave new lines after each element. Elements after new lines will not be rendered. -->
+<div class="testimonial-panel">
+    <div class="testimonial-content">
+        <img class="design-element1" src="{{ "assets/img/ico-blockquote.svg" | relative_url }}" alt="">
+        <blockquote>
+            No doubt, Orange and Bronze are experts in their field. We have improved our software engineering practices to heights we can only dream of. We are able to deliver all our projects on time and on schedule.
+        </blockquote>
+        <h6 class="name">Richard S.</h6>
+        <span> Platforms Development Manager</span>
+    </div>
+    <div class="testimonial-image">
+        <img src="{{ "assets/img/client-3.png" | relative_url }}" alt="">
+    </div>
+</div>

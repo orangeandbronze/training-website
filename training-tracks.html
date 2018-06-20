@@ -1,0 +1,86 @@
+---
+layout: trainings
+title: "O&B Trainings Courses"
+class: trainingtrack
+permalink: /training/tracks
+header_title: "software engineering done right"
+header_description: "Our training courses were developed using knowledge gained from real-world software development projects. We offer classes in Java, Spring, Hibernate, Agile, and other related technologies."
+---
+<section class="section-content">
+    <div class="container">
+        <div class="row">
+            <div class="d-lg-none col-lg-1 d-xl-block"></div>
+            <div class="col-xs-12 col-sm-12 col-md-8 col-lg-6 col-xl-5">
+                <h6>[ A TRUSTED LEARNING PATH ]</h6>
+                <H3>What are Training Tracks?</H3>
+                <img class="hr" src="{{ "assets/img/hr.svg" | relative_url }}">
+                <p>
+                    Each training track is designed to guide a student on which courses to enroll in, depending on his or her learning goals. O&B also includes recommendations on prerequisite and related courses.
+                </p>
+            </div>
+            <div class="d-none d-sm-none d-md-block col-md-4 col-lg-6 col-xl-5 text-right">
+                <img class="img-fluid" src="{{ "assets/img/img-feature7.png" | relative_url }}" alt="">
+            </div>
+            <div class="d-lg-none col-lg-1 d-xl-block"></div>
+        </div>
+
+    </div>
+</section>
+
+<section class="section-training" id="training-tracks">
+    <div class="element-1">
+        <img src="{{ "assets/img/bg-element5.svg" | relative_url }}" alt="">
+    </div>
+    <div class="element-2">
+        <img src="{{ "assets/img/bg-element3.svg" | relative_url }}" alt="">
+    </div>
+    <div class="title-section">
+        <img src="{{ "assets/img/title-software.png" | relative_url }}" alt="">
+        <div class="title">
+            <h6>
+                < DEVELOPER TRAINING TRACKS />
+            </h6>
+            <h2>Our Training Tracks</h2>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="d-md-none d-lg-block col-lg-1 col-xl-1"></div>
+            <div class="col-sm-12 col-md-12 col-lg-10 col-xl-10">
+
+                {% for training_track in site.categories.training_tracks %}
+
+                    <div class="card-track">
+                        <div class="track-content">
+                            <h3>{{ training_track.title }}</h3>
+                            <div class="track-details">
+                                <div class="details mr40">
+                                    <img src="{{ "assets/img/ico-calendar.svg" | relative_url }}" alt="">
+                                    <h6>{{ training_track.course_duration | upcase }}</h6>
+                                </div>
+                                <div class="details">
+                                    <img src="{{ "assets/img/ico-book.svg" | relative_url }}" alt="">
+                                    <h6>{{ training_track.course_count | upcase }}</h6>
+                                </div>
+                            </div>
+                            <p>
+                                {{ training_track.short_description }}
+                            </p>
+                            <a href="{{ training_track.url }}" class="btn -primary">
+                                <img src="{{ "assets/img/ico-arrow-white.svg" | relative_url }}" class="ico" alt=""> View Training Track
+                            </a>
+                        </div>
+                        <div class="image">
+                            <img src="{{ "assets/img/img-trainingcard-1.jpg" | relative_url }}" alt="">
+                        </div>
+                    </div>
+
+                {% endfor %}
+
+            </div>
+            <div class="d-md-none d-lg-block col-lg-1 col-xl-1"></div>
+        </div>
+    </div>
+</section>
+
+{%- include training-steps.html -%}

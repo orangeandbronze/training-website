@@ -1,0 +1,21 @@
+<section class="section-testimonial">
+    <div class="element-1">
+        <img class="rotate" src="{{ "assets/img/bg-element4.png" | relative_url }}" alt="">
+    </div>
+    <div class="container">
+        <div class="row mb60">
+            <div class="col-1"></div>
+            <div class="col-10">
+                <div class="testimonial-slider">
+
+                    {% for testimonial in site.categories.testimonial %}
+
+                    {{ testimonial.content }}
+
+                    {% endfor %}
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

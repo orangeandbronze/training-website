@@ -1,0 +1,59 @@
+<div class="top-nav">
+    <div class="container ">
+        <div class="row">
+            <div class="col">
+                <div class="navigation-bar">
+                    <a class="logo" href="/">
+                        <img src="{{ "assets/img/logo.svg" | relative_url }}" alt=""> </a>
+                    <div class="d-none d-sm-block d-md-block d-lg-none contact-details">
+                        <img src="{{ "assets/img/ico-phone.svg" | relative_url }}" alt="">
+                        <span>{{ site.contact_number | default: "" }}</span>
+                    </div>
+                    <nav>
+                        <ul class="navbar-menu d-none d-lg-flex">
+                            {% for path in site.data.navigation.paths %}
+
+                                {% if path.title == "About" %}
+
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="{{ path.items[0].url }}">{{ path.title }}</a>
+                                    </li>
+
+                                {% elsif path.items %}
+
+                                    <li class="nav-item dropdown">
+                                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            {{ path.title }}
+                                        </a>
+                                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                            {% for item in path.items %}
+                                                <a class="dropdown-item" href="{{ item.url }}">{{ item.page }}</a>
+                                            {% endfor %}
+                                        </div>
+                                    </li>
+
+                                {% else %}
+
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="{{ path.url }}">{{ path.title }}</a>
+                                    </li>
+
+                                {% endif %}
+
+                            {% endfor %}
+                        </ul>
+                        <div class="d-lg-none button_container" id="toggle">
+                            <span class="top"></span>
+                            <span class="middle"></span>
+                            <span class="bottom"></span>
+                        </div>
+                    </nav>
+                    <div class="d-none d-sm-none d-md-none d-lg-block d-xl-block contact-details">
+                        <img src="{{ "assets/img/ico-phone.svg" | relative_url }}" alt="">
+                        <span>{{ site.contact_number | default: "" }}</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

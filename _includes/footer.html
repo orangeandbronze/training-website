@@ -1,0 +1,114 @@
+<footer>
+    <div class="footer-upper">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 col-md-12 col-lg-4 col-xl-5">
+                    <h6>ABOUT O&B UNIVERSITY</h6>
+                    <p>
+                        We are the trusted Java development consulting and training facility in the Philippines, developed these courses to address the need for well-trained Java developers who can build web applications and have a good grasp of the requirements and environment for enterprise systems development.
+                    </p>
+                </div>
+
+                {%- assign about_path = site.data.navigation.paths | where: "title", "About" -%}
+
+                {% for info in about_path %}
+
+                    <div class="col-sm-12 col-md-3 col-lg-2 col-xl-2">
+                        <h6>{{ info.title | upcase }}</h6>
+                        <ul>
+                            {% for item in info.items %}
+                                <li>
+                                    <a href="{{ item.url }}">{{ item.page }}</a>
+                                </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+
+                {% endfor %}
+
+                <div class="col-sm-12 col-md-3 col-lg-2 col-xl-2">
+
+                    {% for path in site.data.navigation.paths %}
+
+                        {% if path.title == "Business" %}
+
+                           {% assign test = true %}
+
+                        {% endif %}
+
+                        {% if path.title == "Trainings" %}
+
+                            {% assign test = true %}
+
+                        {% endif %}
+
+                        {% if test %}
+
+                            <h6>{{ path.title | upcase }}</h6>
+                            <ul>
+                                {% for item in path.items %}
+                                    <li>
+                                        <a href="{{ item.url }}">{{ item.page }}</a>
+                                    </li>
+                                {% endfor %}
+                            </ul>
+
+                            {% assign test = false %}
+
+                        {% endif %}
+
+                    {% endfor %}
+
+                </div>
+
+                <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3">
+                    <h6>Contact Us</h6>
+                    <p>{{ site.address_ph | default: "" }}</p>
+                    <ul class="mt30">
+                        <li>
+                            <img class="mr10" src="{{ "assets/img/ico-miniphone.svg" | relative_url }}" alt="">{{ site.contact_number | default: "" }}
+                        </li>
+                        <li>
+                            <img class="mr10" src="{{ "assets/img/ico-minimail.svg" | relative_url }}" alt="">{{ site.email | default: "" }}
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <div class="social-media">
+                        <a target="_blank" href="https://www.facebook.com/{{ site.facebook_username | cgi_escape | escape }}">
+                            <img src="{{ "assets/img/social-fb.svg" | relative_url }}" alt="">
+                        </a>
+                        <a target="_blank" href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}">
+                            <img src="{{ "assets/img/social-twitter.svg" | relative_url }}" alt="">
+                        </a>
+                        <a target="_blank" href="https://plus.google.com/{{ site.googleplus_username| escape }}">
+                            <img src="{{ "assets/img/social-google.svg" | relative_url }}" alt="">
+                        </a>
+                        <a target="_blank" href="https://ph.linkedin.com/company/{{ site.linkedin_username| cgi_escape | escape }}">
+                            <img src="{{ "assets/img/social-linkedin.svg" | relative_url }}" alt="">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-lower">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 footer-lower-content">
+                    <p>
+                        © <script type="text/javascript">
+                            document.write(new Date().getFullYear());
+                            </script> {{ site.title | escape}}. All rights reserved.
+                    </p>
+                    <p>
+                        <a class="mr10" href="/terms">Terms & Conditions</a> |
+                        <a class="ml10" href="/privacy">Privacy Policy</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>

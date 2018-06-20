@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body class="page-{{ page.class }}">
+
+    <header>
+
+      {%- include header-main-nav.html -%}
+
+      {%- include header-sub-nav.html -%}
+
+      <div class="element-1">
+          <img src="{{ "assets/img/bg-element1.svg" | relative_url }}" alt="">
+      </div>
+
+    </header>
+
+    <main>
+
+      {{ content }}
+
+      {%- include footer.html -%}
+
+    </main>
+
+    <script src="{{ "assets/js/vendor/jquery-3.3.1.min.js" | relative_url }}"></script>
+    <script src="{{ "assets/js/vendor/bootstrap.bundle.min.js" | relative_url }}"></script>
+    <script src="{{ "assets/js/vendor/slick.min.js" | relative_url }}"></script>
+    <script src="{{ "assets/js/main.js" | relative_url }}"></script>
+  </body>
+
+</html>

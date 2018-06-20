@@ -1,0 +1,42 @@
+---
+layout: default
+title: "Contact Us"
+class: contact
+permalink: /contact
+header_title: "software engineering done right"
+header_description: "Our training courses were developed using knowledge gained from real-world software development projects. We offer classes in Java, Spring, Hibernate, Agile, and other related technologies."
+---
+<section class="section-content">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-md-6 col-xl-5">
+                <H6>[ A TRUSTED PARTNER FOR COMPANIES ]</H6>
+                <H3 class="mt10">Give Us A Call Now!</H3>
+                <img class="hr" src="{{ "assets/img/hr.svg" | relative_url }}">
+                <p>
+                    Developed by the country’s most respected Java developers, and is the format trusted by some of the best companies in the Philippines.
+                </p>
+                <ul>
+                    <li>
+                        <img src="{{ "assets/img/ico-marker.svg" | relative_url }}" alt="">
+                        <span>{{ site.address_ph }}</span>
+                    </li>
+                    <li>
+                        <img src="{{ "assets/img/ico-phone2.svg" | relative_url }}" alt="">
+                        <span>Telephone: {{ site.contact_number }}</span>&nbsp;<span>Fax: {{ site.fax_number }}</span>
+                    </li>
+                    <li>
+                        <img src="{{ "assets/img/ico-mail.svg" | relative_url }}" alt="">
+                        <span>{{ site.email }}</span>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-sm-12 col-md-6 col-xl-7">
+                <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15447.238205844506!2d121.0173883!3d14.5528809!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7b2417bf65e6fe5e!2sOrange+%26+Bronze+Software+Labs+Inc!5e0!3m2!1sen!2sph!4v1528785692858" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+            </div>
+            <div class="col-1"></div>
+        </div>
+    </div>
+</section>
+
+{%- include contact-form.html -%}

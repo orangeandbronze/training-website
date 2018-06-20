@@ -1,0 +1,37 @@
+<div class="overlay" id="overlay">
+    <nav class="overlay-menu">
+        <ul>
+            <li>
+                <a href="/">Home</a>
+            </li>
+
+            {% for path in site.data.navigation.paths %}
+
+                {% if path.title == "About" %}
+
+                    <li>
+                        <a href="{{ path.items[0].url }}">{{ path.title }}</a>
+                    </li>
+
+                {% elsif path.items %}
+
+                    {% for item in path.items %}
+
+                        <li>
+                            <a href="{{ item.url }}">{{ item.page }}</a>
+                        </li>
+
+                    {% endfor %}
+
+                {% else %}
+
+                    <li>
+                        <a href="{{ path.url }}">{{ path.title }}</a>
+                    </li>
+
+                {% endif %}
+
+            {% endfor %}
+        </ul>
+    </nav>
+</div>

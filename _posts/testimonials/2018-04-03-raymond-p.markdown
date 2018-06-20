@@ -1,0 +1,18 @@
+---
+date:         2018-04-03 08:00:00 +0800
+categories:   testimonial
+---
+<!-- Do not leave new lines after each element. Elements after new lines will not be rendered. -->
+<div class="testimonial-panel">
+    <div class="testimonial-content">
+        <img class="design-element1" src="{{ "assets/img/ico-blockquote.svg" | relative_url }}" alt="">
+        <blockquote>
+            Google Apps is the best solution for us. The company is projected to have a population of 1000 at the end of the year, coincidentally on its 10th year in the business, and we are confident that only Google can scale with our needs.
+        </blockquote>
+        <h6 class="name">Raymond P.</h6>
+        <span>Project Manager</span>
+    </div>
+    <div class="testimonial-image">
+        <img src="{{ "assets/img/client-2.png" | relative_url }}" alt="">
+    </div>
+</div>

@@ -1,0 +1,24 @@
+paths:
+  - title: Trainings
+    items:
+      - page: Training Tracks
+        url: /training/tracks
+      - page: Other Courses
+        url: /training/other
+  - title: Business
+    items:
+      - page: Business Solutions
+        url: /business/solutions
+      - page: Corporate Trainings
+        url: /corporate/trainings
+  - title: About
+    items:
+      - page: Our Story
+        url: /about/story
+      - page: Our Mission
+        url: /about/mission
+      - page: Our People
+        url: /about/people
+  - title: Contact
+    page: Contact
+    url: /contact

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="102px" height="4px" viewBox="0 0 102 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>elements/hr</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FFD13D" offset="0%"></stop>
+            <stop stop-color="#FF962C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Design-v1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.0.0-Homepage" transform="translate(-260.000000, -1378.000000)" fill="url(#linearGradient-1)">
+            <g id="Features-1-Section" transform="translate(220.000000, 1248.000000)">
+                <g id="feature-1" transform="translate(40.000000, 0.000000)">
+                    <g id="desc">
+                        <g id="elements/hr" transform="translate(0.000000, 130.000000)">
+                            <path d="M0,0 L81,0 L81,4 L0,4 L0,0 Z M88,0 L102,0 L102,4 L88,4 L88,0 Z" id="Combined-Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,73 @@
+<div class="header-content">
+    <div class="container">
+
+        {% if page.class == "front" %}
+
+            <div class="row">
+                <div class="col-sm-12 col-md-7 col-lg-6">
+                    <H6>
+                        < {{ page.header_title }} />
+                    </H6>
+                    <H1>
+                        {{ page.title }}
+                    </H1>
+                    <P>
+                        {{ page.header_description }}
+                    </P>
+                    <a href="/training/tracks" class="btn -secondary mt10">
+                        <img src="{{ "assets/img/ico-arrow.svg" | relative_url }}" alt="" class="ico svg"> Browse Training Tracks & Courses
+                    </a>
+                </div>
+            </div>
+
+        {% else %}
+
+            <div class="row">
+                <div class="col-12 text-center">
+                    <H6>
+                        < {{ page.header_title }} />
+                    </H6>
+                    <H1>
+                        {{ page.title }}
+                    </H1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-2 col-xl-3"></div>
+                <div class="col-lg-8 col-xl-6 text-center">
+                    <P>
+                        {{ page.header_description }}
+                    </P>
+
+                    {% if page.class == "contact" %}
+
+                        <a href="/training/tracks" class="btn -secondary">
+                            <img src="{{ "assets/img/ico-arrow.svg" | relative_url }}" alt="" class="ico svg"> Browse Training Tracks & Courses
+                        </a>
+
+                    {% elsif page.class == "trainingtrack" %}
+
+                        <a href="{% if page.other_courses %}/training/tracks{% else %}#training-tracks{% endif %}" class="btn -secondary">
+                            <img src="{{ "assets/img/ico-arrow.svg" | relative_url }}" alt="" class="ico svg"> Browse Training Tracks & Courses
+                        </a>
+
+                    {% elsif page.class == "business" %}
+
+                        <a href="/training/tracks" class="btn -secondary">
+                            <img src="{{ "assets/img/ico-arrow.svg" | relative_url }}" alt="" class="ico svg"> Browse Training Tracks & Courses
+                        </a>
+
+                    {% elsif page.class == "corporate" %}
+
+                        <a href="/training/tracks" class="btn -secondary">
+                            <img src="{{ "assets/img/ico-arrow.svg" | relative_url }}" alt="" class="ico svg"> Browse Training Tracks & Courses
+                        </a>
+
+                    {% endif %}
+                </div>
+            </div>
+
+        {% endif %}
+
+    </div>
+</div>

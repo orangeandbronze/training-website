@@ -1,0 +1,116 @@
+---
+layout:             training-tracks
+class:              trackdetails
+title:              Android
+short_description:  This Android training courses are meant to provide both beginners and advanced students with a practical foundation for building mobile applications.
+image:              assets/img/course-android.png
+date:               2018-06-15 08:00:00 +0800
+categories:         other_courses
+---
+<div class="section-content">
+        <div class="container-fluid auto-1110">
+            <div class="row">
+                <div class="col">
+                    <div class="panel-content">
+                        <div class="title-section">
+                            <img src="{{ "assets/img/title-software.png" | relative_url }}" alt="">
+                            <div class="title">
+                                <h6>
+                                    < OUR MOST POPULAR TRAINING COURSE />
+                                </h6>
+                                <h2>Android Course</h2>
+                            </div>
+                        </div>
+                        <div class="row" data-sticky-container>
+                            <div class="track-panel">
+                                <div class="track-content">
+                                    <section id="overview">
+                                        <h3>Overview</h3>
+                                        <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                        <p>
+                                            An intensive mobile application platform training course geared towards building basic practical knowledge on how to build mobile applications on Android platform. This course is meant to provide current developers a practical foundation in order to learn how to build Android mobile applications. This training course was developed and is taught by some of the Philippines' well-known and respected Android software engineers and architects, and uses the format trusted by some of the best companies in the Philippines.
+                                        </p>
+                                        <h4>
+                                            Benefits of the Program
+                                        </h4>
+                                        <p>
+                                            Participants will be able to have a practical foundation in order to learn how to build Android mobile application.
+                                        </p>
+                                        <h4>
+                                            Prerequisite
+                                        </h4>
+                                        <p>
+                                            Participants must already have a strong programming aptitude in Java and familiarity with the Eclipse IDE.
+                                        </p>
+                                    </section>
+                                    <section id="topic-outline">
+                                        <h3>
+                                            Course Outline:
+                                        </h3>
+                                        <h5 class="course-title">Day 1 -5 : Android Course</h5>
+                                        <ul class="course-outline">
+                                            <li>Android Overview</li>
+                                            <li>Development Environment Setup</li>
+                                            <li>Android Application Basics</li>
+                                            <li>Resources</li>
+                                            <li>User Interface and Controls</li>
+                                            <li>SQLite Database</li>
+                                            <li>Intents</li>
+                                            <li>Dialogs & Menus</li>
+                                            <li>Content Providers</li>
+                                            <li>Special Topics</li>
+                                            <li>Machine Problem for Android</li>
+                                            <li>Code Review for Android Machine Problem</li>
+                                        </ul>
+                                    </section>
+
+                                    <section id="faq">
+                                        <h3>Frequently Asked Questions</h3>
+                                        <div class="faq-list" id="accordion">
+
+                                            <a class="faq-card">
+                                                <div class="faq-header collapsed" id="heading-1" data-toggle="collapse" data-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">
+                                                    <h4 class="title">
+                                                        What are the prerequisites needed before I take this training track?
+                                                    </h4>
+                                                    <img src="{{ "assets/img/ico-chevron-down.svg" | relative_url }}" alt="" class="ico">
+                                                </div>
+                                                <div id="collapse-1" class="collapse faq-body" aria-labelledby="heading-1" data-parent="#accordion">
+                                                    <div class="content">
+                                                        <p>
+                                                            Kindly fill-out the online application form and then submit your resume to
+                                                            <a href="mailto:careers@orangeandbronze.com">careers@orangeandbronze.com</a> and indicate the position in the subject line.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                            <a class="faq-card">
+                                                <div class="faq-header collapsed" id="heading-2" data-toggle="collapse" aria-expanded="false" data-target="#collapse-2" aria-controls="collapse-2">
+                                                    <h4 class="title">
+                                                        What skills should I expect to possess at the end of the course?
+                                                    </h4>
+                                                    <img src="{{ "assets/img/ico-chevron-down.svg" | relative_url }}" alt="" class="ico">
+                                                </div>
+                                                <div id="collapse-2" class="collapse faq-body" aria-labelledby="heading-2" data-parent="#accordion">
+                                                    <div class="content">
+                                                        <p>
+                                                            You will receive an e-mail acknowledgement about your job application. If you are qualified for the position, you will be contacted by a recruiter to invite you to take our examination.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </a>
+
+                                        </div>
+                                    </section>
+
+                                </div>
+
+                                {%- include training-sidebar-nav.html -%}
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
