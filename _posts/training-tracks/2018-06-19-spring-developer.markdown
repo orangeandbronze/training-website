@@ -5,6 +5,7 @@ title:              Spring Developer Track
 course_count:       3 courses
 course_duration:    3 weeks
 short_description:  The Spring Developer Track is designed for experienced Java developers who would like to gain more depth on Spring, know how to build loosely-coupled and testable applications, as well as learn aspect oriented programming.
+image:              assets/img/img-trainingcard-3.jpg
 date:               2018-06-19 08:00:00 +0800
 categories:         training_tracks
 ---

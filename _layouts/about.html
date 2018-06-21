@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body class="page-{{ page.class }}">
+
+    <header>
+
+      {%- include header-main-nav.html -%}
+
+      {%- include header-sub-nav.html -%}
+
+      <div class="header-content">
+          <div class="container">
+              <div class="row">
+                  <div class="col-12 text-center">
+                      <H6>
+                          < A NEW SCHOOL FOR THE INFORMATION AGE />
+                      </H6>
+                      <H1>
+                          About Us
+                      </H1>
+                  </div>
+              </div>
+              <div class="row">
+                  <div class="col-md-1 col-lg-2"></div>
+                  <div class="col-xs-12 col-sm-12 col-md-10 col-lg-8 text-center">
+                      <p>
+                          O&B has built a reputation on hiring and training skilled software engineers. We have experience developing enterprise applications using Java, Spring, Hibernate,.
+                      </p>
+                      <div class="menu-about">
+                          <a href="/about/story" {% if page.url == "/about/story" %}class="active"{% endif %}>Our Story</a>
+                          <a href="/about/mission" {% if page.url == "/about/mission" %}class="active"{% endif %}>Our Mission</a>
+                          <a href="/about/people" {% if page.url == "/about/people" %}class="active"{% endif %}>Our People</a>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+      <div class="element-1">
+          <img src="{{ "assets/img/bg-element1.svg" | relative_url }}" alt="" />
+      </div>
+
+    </header>
+
+    <main>
+
+      {{ content }}
+
+      {%- include get-started.html -%}
+
+      {%- include footer.html -%}
+
+    </main>
+
+    <script src="{{ "assets/js/vendor/jquery-3.3.1.min.js" | relative_url }}"></script>
+    <script src="{{ "assets/js/vendor/bootstrap.bundle.min.js" | relative_url }}"></script>
+    <script src="{{ "assets/js/vendor/slick.min.js" | relative_url }}"></script>
+    <script src="{{ "assets/js/main.js" | relative_url }}"></script>
+  </body>
+
+</html>
