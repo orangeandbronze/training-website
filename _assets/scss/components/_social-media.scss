@@ -1,0 +1,11 @@
+.social-media {
+  a {
+    margin-right: 15px;
+    &:hover {
+      text-decoration: none;
+    }
+    &:last-of-type {
+      margin-right: 0;
+    }
+  }
+}

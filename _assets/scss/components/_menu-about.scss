@@ -1,0 +1,40 @@
+.menu-about {
+  display: flex;
+  max-width: 500px;
+  justify-content: space-around;
+  padding: 20px;
+  border-radius: 49.5px;
+  background-color: #ffffff;
+  box-shadow: 0 5px 30px 0 rgba(130, 132, 134, 0.13);
+  margin: 0 auto;
+  margin-bottom: 20px;
+  @include breakpoint(xs) {
+    flex-direction: column;
+    border-radius: 16px;
+    padding: 20px;
+  }
+  > a {
+    padding: 16px 24px;
+    font-size: 13px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 1.1px;
+    color: #606e7b;
+    text-transform: uppercase;
+    &:hover {
+      color: #ff962c;
+      text-decoration: none;
+    }
+    &.active {
+      border-radius: 25px;
+      background-image: linear-gradient(to right, #ffd13d, #ff962c);
+      box-shadow: 0 2px 30px 0 #f0f2f5;
+      color: #fff;
+    }
+    @include breakpoint(xs) {
+      margin: 10px;
+    }
+  }
+}

@@ -1,0 +1,7 @@
+.testimonial-panel {
+  display: flex !important;
+  justify-content: space-between !important;
+  @include breakpoint(xs) {
+    flex-direction: column-reverse;
+  }
+}

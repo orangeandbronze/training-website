@@ -1,0 +1,29 @@
+.card-advantage {
+  text-align: center;
+  padding: 30px;
+  margin-bottom: 15px;
+  height: 100%;
+  transition: 0.4s ease-in;
+  @include breakpoint(xs) {
+    margin-bottom: 15px;
+    height: auto;
+  }
+  &:hover {
+    box-shadow: 0 5px 40px 0 rgba(130, 132, 134, 0.13);
+    transition: 0.2s ease-in;
+  }
+  > img {
+  }
+  > p {
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.87;
+    letter-spacing: normal;
+    text-align: center;
+    color: #606e7b;
+    margin-bottom: 0;
+  }
+}

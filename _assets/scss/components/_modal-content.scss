@@ -1,0 +1,19 @@
+.modal-content {
+  section {
+    padding: 0;
+  }
+  hr {
+    height: 5px;
+    display: block;
+    width: 100%;
+    background-image: linear-gradient(to right, #ffd13d, #ff962c);
+    border: none;
+    margin: 0;
+  }
+  select.form-control {
+    font-size: 24px;
+  }
+  select.form-control:not([size]):not([multiple]) {
+    height: 50px;
+  }
+}

@@ -1,0 +1,12 @@
+.testimonial-image {
+  align-self: center;
+  > img {
+    height: 100%;
+    @include breakpoint(lg) {
+      height: 200px;
+    }
+    @include breakpoint(sm) {
+      height: 100px;
+    }
+  }
+}

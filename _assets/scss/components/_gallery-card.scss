@@ -1,0 +1,28 @@
+.gallery-card {
+  margin: 20px;
+  border-radius: 8px;
+  background-color: #ffffff;
+  width: 445px;
+  box-shadow: 0 5px 30px 0 rgba(130, 132, 134, 0.13);
+  //   height: 100%;
+  // //   display: flex;
+  > .photo {
+    img {
+      border-top-left-radius: 8px;
+      border-top-right-radius: 8px;
+    }
+  }
+  > .caption {
+    padding: 25px;
+    p {
+      font-size: 14px;
+      font-weight: 500;
+      font-style: normal;
+      font-stretch: normal;
+      line-height: 1.71;
+      letter-spacing: normal;
+      color: #222930;
+      margin-bottom: 0;
+    }
+  }
+}

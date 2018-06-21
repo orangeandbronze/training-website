@@ -1,0 +1,11 @@
+.control-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  @include breakpoint(sm) {
+    flex-direction: column;
+    > h6 {
+      display: none;
+    }
+  }
+}

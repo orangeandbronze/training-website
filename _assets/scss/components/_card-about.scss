@@ -1,0 +1,37 @@
+.card-about {
+  display: flex;
+  margin: 30px 0;
+  > .ico {
+    margin-right: 20px;
+    > img {
+      box-shadow: 0 5px 30px 0 rgba(130, 132, 134, 0.13);
+      border-radius: 100px;
+    }
+  }
+  > .content {
+    > h4 {
+      font-size: 24px;
+      font-weight: 500;
+      font-style: normal;
+      font-stretch: normal;
+      line-height: 1.33;
+      letter-spacing: normal;
+      color: #222930;
+    }
+    > .p {
+      font-size: 16px;
+      font-weight: normal;
+      font-style: normal;
+      font-stretch: normal;
+      line-height: 1.75;
+      letter-spacing: normal;
+      color: #606e7b;
+    }
+    > .hr {
+      width: 30px;
+      height: 4px;
+      background-color: #ffa02f;
+      margin-bottom: 10px;
+    }
+  }
+}
