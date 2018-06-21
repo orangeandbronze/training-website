@@ -1,0 +1,93 @@
+---
+layout: about
+title: "About Us"
+class: about
+permalink: /about/people
+header_title: "A NEW SCHOOL FOR THE INFORMATION AGE"
+header_description: "O&B has built a reputation on hiring and training skilled software engineers. We have experience developing enterprise applications using Java, Spring, Hibernate,."
+---
+<section class="section-content">
+    <div class="title-section">
+        <img src="{{ "assets/img/title-software.png" | relative_url }}" alt="">
+        <div class="title">
+            <h6>
+                < WELCOME THE EDUCATION REVOLUTION />
+            </h6>
+            <h2>Head Instructors</h2>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row d-flex align-items-center">
+            <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6 text-center">
+                <img class="img-fluid mb20" src="{{ "assets/img/mentor-dee.png" | relative_url }}" alt="">
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-5 col-xl-4">
+                <h4>Lorenzo Dee</h4>
+                <p>
+                    Lorenzo started his career in Orange and Bronze as a software architect, working on high-stakes projects for the biggest telco in the Philippines. He is also the co-founder of Haybol.ph, a site incubated by O&B in 2010.
+                </p>
+            </div>
+        </div>
+        <div class="row mt60 d-flex align-items-center">
+            <div class="col-md-0 col-lg-1 col-xl-2"></div>
+            <div class="d-sm-block col-sm-12  d-md-none text-center">
+                <img class="img-fluid mb20" src="{{ "assets/img/mentor-calen.png" | relative_url }}" alt="">
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-5 col-xl-4">
+                <h4>Calen Martin Legaspi</h4>
+                <p>
+                    Calen grew O&B from a 2-person operation in 2005, to where it is today He has been on the board of directors of the Philippine Software Industry Association (PSIA), since 2008
+                </p>
+                <p>
+                    He is a Certified Enterprise Architect for the J2EE platform, Certified Web Component Developer, and a Certified Java Programmer.
+                </p>
+            </div>
+            <div class="d-none d-sm-none d-md-block col-md-6 col-sm-12 col-md-6">
+                <img src="{{ "assets/img/mentor-calen.png" | relative_url }}" alt="">
+            </div>
+        </div>
+    </div>
+</section>
+<section class="section-slider">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="controls-gallery">
+                    <div class="content">
+                        <h1>3,123</h1>
+                        <h4>Workshops & Trainings Conducted In The Philippines</h4>
+                    </div>
+                    <div class="control-slider">
+                        <a class="prev" id="btn-prev" href="#">
+                            <img src="{{ "assets/img/control-prev.svg" | relative_url }}" alt="">
+                        </a>
+                        <a class="next" id="btn-next" href="#">
+                            <img src="{{ "assets/img/control-next.svg" | relative_url }}" alt="">
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12">
+                <hr class="mt20 mb40 d-sm-none d-md-block">
+            </div>
+            <div class="col-12">
+                <div class="gallery-slider">
+                    {% for workshop in site.categories.workshops %}
+
+                        <div class="gallery-card">
+                            <div class="photo">
+                                <img src="{{ workshop.image | relative_url }}" class="img-fluid" alt="">
+                            </div>
+                            <div class="caption">
+                                <p>
+                                    {{ workshop.description }}
+                                </p>
+                            </div>
+                        </div>
+
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

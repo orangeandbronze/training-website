@@ -69,37 +69,27 @@ header_description: "Our training courses were developed using knowledge gained 
 
 <section class="section-content">
     <div class="container">
-        {%- assign business_path = site.data.navigation.paths | where: "title", "Business" -%}
 
-        {% for path in business_path %}
-
-            {% for item in path.items %}
-
-                <div class="row mb60">
-                    <div class="d-lg-none col-lg-1 d-xl-block"></div>
-                    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-6 col-xl-5">
-                        <H6>[ {{ item.page }} ]</H6>
-                        <H3>Accelerate the growth of your developers, in your company</H3>
-                        <img class="hr" src="{{ "assets/img/hr.svg" | relative_url }}">
-                        <p>
-                            If you want to create mission-critical systems, take your products to market quickly, and maintain a clean code base, then you need great developers.
-                        </p>
-                        <p>
-                            Leverage your company’s growth by tapping our experience in software development. No need to repeat the mistakes we’ve learn along the way.
-                        </p>
-                        <a href="corporate/trainings" class="btn -secondary mt10">
-                            <img src="{{ "assets/img/ico-arrow.svg" | relative_url }}" alt="" class="ico"> Learn More</a>
-                    </div>
-                    <div class="d-none d-sm-none d-md-block col-md-4 col-lg-6 col-xl-5 text-right">
-                        <img class="img-fluid" src="{{ "assets/img/img-feature1.png" | relative_url }}" alt="">
-                    </div>
-                    <div class="d-lg-none col-lg-1 d-xl-block"></div>
-                </div>
-
-            {% endfor %}
-
-        {% endfor %}
-
+        <div class="row mb60">
+            <div class="d-lg-none col-lg-1 d-xl-block"></div>
+            <div class="col-xs-12 col-sm-12 col-md-8 col-lg-6 col-xl-5">
+                <H6>[ CORPORATE TRAININGS ]</H6>
+                <H3>Accelerate the growth of your developers, in your company</H3>
+                <img class="hr" src="{{ "assets/img/hr.svg" | relative_url }}">
+                <p>
+                    If you want to create mission-critical systems, take your products to market quickly, and maintain a clean code base, then you need great developers.
+                </p>
+                <p>
+                    Leverage your company’s growth by tapping our experience in software development. No need to repeat the mistakes we’ve learn along the way.
+                </p>
+                <a href="/corporate/trainings" class="btn -secondary mt10">
+                    <img src="{{ "assets/img/ico-arrow.svg" | relative_url }}" alt="" class="ico"> Learn More</a>
+            </div>
+            <div class="d-none d-sm-none d-md-block col-md-4 col-lg-6 col-xl-5 text-right">
+                <img class="img-fluid" src="{{ "assets/img/img-feature1.png" | relative_url }}" alt="">
+            </div>
+            <div class="d-lg-none col-lg-1 d-xl-block"></div>
+        </div>
 
         <div class="row">
             <div class="d-lg-none col-lg-1 d-xl-block"></div>
@@ -113,7 +103,7 @@ header_description: "Our training courses were developed using knowledge gained 
                 <p>
                     Complement your existing development team with O&B trained developers. Besides expanding your team, you also get the benefit of mentoring and coaching where we transfer engineering best practices to your team.
                 </p>
-                <a href="business/solutions" class="btn -secondary mt10">
+                <a href="/business/solutions" class="btn -secondary mt10">
                     <img src="{{ "assets/img/ico-arrow.svg" | relative_url }}" alt="" class="ico"> Learn More</a>
             </div>
         </div>
@@ -146,7 +136,7 @@ header_description: "Our training courses were developed using knowledge gained 
                     </a>
                 </div>
                 <h6>
-                    <a href="training/tracks">
+                    <a href="/training/tracks">
                         VIEW ALL TRAINING TRACKS
                     </a>
                 </h6>
@@ -158,102 +148,36 @@ header_description: "Our training courses were developed using knowledge gained 
             <div class="col-xs-0 col-sm-1"></div>
             <div class="col-sm-12 -col-md-10">
                 <div class="slider-tracks">
-                    <div class="card-track">
-                        <div class="track-content">
-                            <h3>Java Developer Track</h3>
-                            <div class="track-details">
-                                <div class="details mr40">
-                                    <img src="{{ "assets/img/ico-calendar.svg" | relative_url }}" alt="">
-                                    <h6>8 WEEKS</h6>
+
+                    {% for training_track in site.categories.training_tracks %}
+
+                        <div class="card-track">
+                            <div class="track-content">
+                                <h3>{{ training_track.title }}</h3>
+                                <div class="track-details">
+                                    <div class="details mr40">
+                                        <img src="{{ "assets/img/ico-calendar.svg" | relative_url }}" alt="">
+                                        <h6>{{ training_track.course_duration | upcase }}</h6>
+                                    </div>
+                                    <div class="details">
+                                        <img src="{{ "assets/img/ico-book.svg" | relative_url }}" alt="">
+                                        <h6>{{ training_track.course_count | upcase }}</h6>
+                                    </div>
                                 </div>
-                                <div class="details">
-                                    <img src="{{ "assets/img/ico-book.svg" | relative_url }}" alt="">
-                                    <h6>4 Courses</h6>
-                                </div>
+                                <p>
+                                    {{ training_track.short_description }}
+                                </p>
+                                <a href="{{ training_track.url }}" class="btn -primary">
+                                    <img src="{{ "assets/img/ico-arrow-white.svg" | relative_url }}" class="ico" alt=""> View Training Track
+                                </a>
                             </div>
-                            <p>
-                                The Java Developer Track is meant for computer science graduates who want to learn the multiple competencies needed to be productive in a real-world software development environment. This program is designed to help programmers gain a solid foundation in web programming, frameworks and software engineering, as well as the value, tools and techniques of software testing.
-                            </p>
-                            <a href="training_tracks/java-developer/" class="btn -primary">
-                                <img src="{{ "assets/img/ico-arrow-white.svg" | relative_url }}" class="ico" alt=""> View Training Track
-                            </a>
-                        </div>
-                        <div class="image">
-                            <img src="{{ "assets/img/img-trainingcard-1.jpg" | relative_url }}" alt="">
-                        </div>
-                    </div>
-                    <div class="card-track">
-                        <div class="track-content">
-                            <h3>Agile Manager Track</h3>
-                            <div class="track-details">
-                                <div class="details mr40">
-                                    <img src="{{ "assets/img/ico-calendar.svg" | relative_url }}" alt="">
-                                    <h6>3 WEEKS</h6>
-                                </div>
-                                <div class="details">
-                                    <img src="{{ "assets/img/ico-book.svg" | relative_url }}" alt="">
-                                    <h6>4 Courses</h6>
-                                </div>
+                            <div class="image">
+                                <img src="{{ "assets/img/img-trainingcard-1.jpg" | relative_url }}" alt="">
                             </div>
-                            <p>
-                                The Agile Manager Track is meant to provide a wide view of the methodologies and practices available in Agile, and to which situation each is applicable. It also tackles how Agile values affect requirements engineering by immersing participants in the entire project lifecycle - from initial project vision, to user roles, and to the first iteration and release.
-                            </p>
-                            <a href="training_tracks/agile-manager/" class="btn -primary">
-                                <img src="{{ "assets/img/ico-arrow-white.svg" | relative_url }}" class="ico" alt=""> View Training Track
-                            </a>
                         </div>
-                        <div class="image">
-                            <img src="{{ "assets/img/img-trainingcard-2.jpg" | relative_url }}" alt="">
-                        </div>
-                    </div>
-                    <div class="card-track">
-                        <div class="track-content">
-                            <h3>Spring Developer Track</h3>
-                            <div class="track-details">
-                                <div class="details mr40">
-                                    <img src="{{ "assets/img/ico-calendar.svg" | relative_url }}" alt="">
-                                    <h6>3 WEEKS</h6>
-                                </div>
-                                <div class="details">
-                                    <img src="{{ "assets/img/ico-book.svg" | relative_url }}" alt="">
-                                    <h6>3 Courses</h6>
-                                </div>
-                            </div>
-                            <p>
-                                The Spring Developer Track is designed for experienced Java developers who would like to gain more depth on Spring, know how to build loosely-coupled and testable applications, as well as learn aspect oriented programming.
-                            </p>
-                            <a href="training_tracks/spring-developer/" class="btn -primary">
-                                <img src="{{ "assets/img/ico-arrow-white.svg" | relative_url }}" class="ico" alt=""> View Training Track
-                            </a>
-                        </div>
-                        <div class="image">
-                            <img src="{{ "assets/img/img-trainingcard-3.jpg" | relative_url }}" alt="">
-                        </div>
-                    </div>
-                    <div class="card-track">
-                        <div class="track-content">
-                            <h3>Enterprise Achitect Track</h3>
-                            <div class="track-details">
-                                <div class="details mr40">
-                                    <img src="{{ "assets/img/ico-calendar.svg" | relative_url }}" alt="">
-                                    <h6>3 WEEKS</h6>
-                                </div>
-                                <div class="details">
-                                    <img src="{{ "assets/img/ico-book.svg" | relative_url }}" alt="">
-                                    <h6>3 Courses</h6>
-                                </div>
-                            </div>
-                            <p>
-                                This track is designed to prepare senior software developers to assume the role of enterprise application architect, introducing him or her to the heuristics of designing and leading a software project for enterprise software projects. The heart of the course is the Enterprise Design Patterns course, a class that tackles known approaches to designing business applications.
-                            </p>
-                            <a href="training_tracks/enterprise-architect/" class="btn -primary">
-                                <img src="{{ "assets/img/ico-arrow-white.svg" | relative_url }}" class="ico" alt=""> View Training Track
-                            </a>
-                        </div>
-                        <div class="image">
-                            <img src="{{ "assets/img/img-trainingcard-4.jpg" | relative_url }}" alt="">
-                        </div>
-                    </div>
+
+                    {% endfor %}
+
                 </div>
             </div>
             <div class="col-xs-0 col-sm-1"></div>
@@ -325,75 +249,4 @@ header_description: "Our training courses were developed using knowledge gained 
 
 </section>
 
-<section class="section-stats">
-    <div class="element-1">
-        <img src="{{ "assets/img/bg-element6.jpg" | relative_url }}" alt="">
-    </div>
-    <div class="container">
-        <div class="row">
-            <div class="d-lg-none d-xl-flex col-lg-1"></div>
-            <div class="col-sm-12 col-md-5 col-lg-6 col-xl-5 text-center">
-                <img class="img-fluid" src="{{ "assets/img/img-feature3.jpg" | relative_url }}" alt="">
-            </div>
-            <div class="col-sm-12 col-md-7 col-lg-6 col-xl-4">
-                <h1>Over 5,000</h1>
-                <h3>Developers trained in the Philippines</h3>
-                <p>
-                    We have conducted extensive software engineering courses for staff in different roles - software developers, business analysts, product managers, and even non-technical staff.
-                </p>
-            </div>
-            <div class="d-lg-none d-xl-flex col-lg-2"></div>
-        </div>
-    </div>
-</section>
-
-<section class="section-stats">
-    <div class="element-2">
-        <img src="{{ "assets/img/bg-element7.jpg" | relative_url }}" alt="">
-    </div>
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-12 d-sm-block d-md-none text-center">
-                <img class="img-fluid" src="{{ "assets/img/img-feature4.jpg" | relative_url }}" alt="">
-            </div>
-            <div class="d-md-none col-lg-1 d-lg-block col-xl-1"></div>
-            <div class="col-md-6 col-lg-4 col-xl-4">
-                <h1>Over 200</h1>
-                <h3>Companies digitally transformed</h3>
-                <p>
-                    We have helped organizations in different industries digitally transform their businesses and improve productivity through developer empowerment. We equip teams with the right skills and the right mindset to deliver quality software applications.
-                </p>
-            </div>
-            <div class="col-1"></div>
-            <div class="d-sm-none d-md-block col-md-5 col-lg-6 text-center">
-                <img class="img-fluid" src="{{ "assets/img/img-feature4.jpg" | relative_url }}" alt="">
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="section-stats">
-    <div class="element-3">
-        <img src="{{ "assets/img/bg-element8.jpg" | relative_url }}" alt="">
-    </div>
-    <div class="element-4">
-        <img src="{{ "assets/img/bg-element9.jpg" | relative_url }}" alt="">
-    </div>
-    <div class="container">
-        <div class="row">
-            <div class="d-md-none d-lg-block col-lg-1 col-xl-1"></div>
-            <div class="col-md-5 col-lg-5 col-xl-5">
-                <img class="img-fluid" src="{{ "assets/img/img-feature5.jpg" | relative_url }}" alt="">
-            </div>
-            <div class="col-md-7 col-lg-5 col-xl-4">
-                <h1>23,192</h1>
-                <h3>Hours of mentoring young developers</h3>
-                <p>
-                    The O&B way is a known industry standard in software development. Our years of experience and roster of clients prove that both small companies and large enterprises trust our training programs.
-                </p>
-            </div>
-
-        </div>
-    </div>
-</section>
-
+{%- include stats.html -%}
