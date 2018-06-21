@@ -1,0 +1,11 @@
+.track-panel {
+  display: flex;
+  @include breakpoint(sm) {
+    flex-direction: column;
+  }
+  > .track-content {
+    @include breakpoint(sm) {
+      width: 100%;
+    }
+  }
+}

@@ -1,0 +1,42 @@
+.feedback-card {
+  border: solid 1px #f6f6f6;
+  padding: 30px;
+  margin: 20px;
+  display: block;
+  text-align: center;
+  > .headshot {
+    height: 100px;
+    width: 100px;
+  }
+  > .name {
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    text-align: center;
+    color: #606e7b;
+  }
+  > .position {
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    text-align: center;
+    color: #606e7b;
+  }
+  > .description {
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: center;
+    color: #606e7b;
+  }
+}

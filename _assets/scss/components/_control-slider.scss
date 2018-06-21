@@ -1,0 +1,16 @@
+.control-slider {
+  a {
+    display: inline-block;
+    opacity: 0.5;
+    padding: 10px 0;
+    &:hover {
+      opacity: 1;
+      scale: 1.1;
+    }
+  }
+  > .prev {
+    margin-right: 30px;
+  }
+  > .next {
+  }
+}

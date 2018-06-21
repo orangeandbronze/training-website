@@ -1,0 +1,16 @@
+.title-section {
+  min-height: 170px;
+  text-align: center;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  > .title {
+    position: relative;
+    z-index: 1;
+  }
+  img {
+    position: absolute;
+    z-index: -1;
+  }
+}

@@ -1,0 +1,14 @@
+.component-cta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  @include breakpoint(md) {
+    flex-direction: column;
+    text-align: center;
+    .btn {
+      margin-top: 10px;
+    }
+  }
+  > .content {
+  }
+}
