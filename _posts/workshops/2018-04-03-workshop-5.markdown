@@ -1,0 +1,6 @@
+---
+date:         2018-04-03 08:05:00 +0800
+categories:   workshops
+image:        assets/img/gallery-5.jpg
+description:  Agile Introdcution Training - Bureau of Fisheries and Aquatic Resources
+---

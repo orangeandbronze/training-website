@@ -1,0 +1,127 @@
+---
+layout:             training-tracks
+class:              trackdetails
+title:              Load Testing with JMeter
+short_description:  This training course will cover the fundamentals of running custom load and performance tests with JMeter.
+image:              assets/img/course-jmeter.png
+date:               2018-06-9 08:00:00 +0800
+categories:         other_courses
+---
+<div class="section-content">
+    <div class="container-fluid auto-1110">
+        <div class="row">
+            <div class="col">
+                <div class="panel-content">
+                    <div class="title-section">
+                        <img src="{{ "assets/img/title-software.png" | relative_url }}" alt="">
+                        <div class="title">
+                            <h6>
+                                < OUR MOST POPULAR TRAINING COURSE />
+                            </h6>
+                            <h2>Load Testing with JMeter</h2>
+                        </div>
+                    </div>
+                    <div class="row" data-sticky-container>
+                        <div class="track-panel">
+                            <div class="track-content">
+                                <section id="overview">
+                                    <h3>Overview</h3>
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                    <div class="track-details">
+                                        <div class="details mr40">
+                                            <img src="/assets/img/ico-calendar.svg" alt="">
+                                            <h6>DURATION: 1 Day</h6>
+                                        </div>
+                                    </div>
+                                    <p>
+                                        This training course will cover the fundamentals of running custom load and performance tests with JMeter. We will discuss the most important aspects of JMeter, as well as the best practices in using this tool.
+                                    </p>
+                                    <p>
+                                        This training course was developed and is taught by some of the Philippines’ well-known and respected web developers, and uses the format trusted by some of the best companies in the Philippines.
+                                    </p>
+                                    <h4>
+                                        Audience
+                                    </h4>
+                                    <p>
+                                        <ul>
+                                            <li>Tester</li>
+                                            <li>Developers (backend / server-side / enterprise)</li>
+                                        </ul>
+                                    </p>
+                                    <h4>
+                                        Prerequisite
+                                    </h4>
+                                    <p>
+                                        None
+                                    </p>
+                                </section>
+                                <section id="topic-outline">
+                                    <h3>
+                                        Topic Outline:
+                                    </h3>
+                                    <h5 class="course-title">Day 1 : Introduction to Load Testing with JMeter</h5>
+                                    <ul class="course-outline">
+                                        <li>Performance Testing Overview</li>
+                                        <li>HTTP Protocol Overview</li>
+                                        <li>Simulating Requests</li>
+                                        <li>Simulating Users</li>
+                                        <li>Managing Cookies</li>
+                                        <li>Generating Reports</li>
+                                        <li>Interpreting Results</li>
+                                        <li>Record & Playback</li>
+                                        <li>Using Variables & Functions</li>
+                                        <li>Scaling-Up Tests Using Master-Slave Configuration</li>
+                                        <li>Tips & Best Practices</li>
+                                    </ul>
+                                </section>
+
+                                <section id="faq">
+                                    <h3>Frequently Asked Questions</h3>
+                                    <div class="faq-list" id="accordion">
+
+                                        <a class="faq-card">
+                                            <div class="faq-header collapsed" id="heading-1" data-toggle="collapse" data-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">
+                                                <h4 class="title">
+                                                    What are the prerequisites needed before I take this training track?
+                                                </h4>
+                                                <img src="{{ "assets/img/ico-chevron-down.svg" | relative_url }}" alt="" class="ico">
+                                            </div>
+                                            <div id="collapse-1" class="collapse faq-body" aria-labelledby="heading-1" data-parent="#accordion">
+                                                <div class="content">
+                                                    <p>
+                                                        Kindly fill-out the online application form and then submit your resume to
+                                                        <a href="mailto:careers@orangeandbronze.com">careers@orangeandbronze.com</a> and indicate the position in the subject line.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                        <a class="faq-card">
+                                            <div class="faq-header collapsed" id="heading-2" data-toggle="collapse" aria-expanded="false" data-target="#collapse-2" aria-controls="collapse-2">
+                                                <h4 class="title">
+                                                    What skills should I expect to possess at the end of the course?
+                                                </h4>
+                                                <img src="{{ "assets/img/ico-chevron-down.svg" | relative_url }}" alt="" class="ico">
+                                            </div>
+                                            <div id="collapse-2" class="collapse faq-body" aria-labelledby="heading-2" data-parent="#accordion">
+                                                <div class="content">
+                                                    <p>
+                                                        You will receive an e-mail acknowledgement about your job application. If you are qualified for the position, you will be contacted by a recruiter to invite you to take our examination.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </a>
+
+                                    </div>
+                                </section>
+
+                            </div>
+
+                            {%- include training-sidebar-nav.html -%}
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

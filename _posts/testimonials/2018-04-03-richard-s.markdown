@@ -7,10 +7,10 @@ categories:   testimonial
     <div class="testimonial-content">
         <img class="design-element1" src="{{ "assets/img/ico-blockquote.svg" | relative_url }}" alt="">
         <blockquote>
-            No doubt, Orange and Bronze are experts in their field. We have improved our software engineering practices to heights we can only dream of. We are able to deliver all our projects on time and on schedule.
+            We have improved our software engineering practices to heights we can only dream of. 
         </blockquote>
-        <h6 class="name">Richard S.</h6>
-        <span> Platforms Development Manager</span>
+        <h6 class="name">Richard Salcedo</h6>
+        <span>Platforms Development, Solutions Delivery - Smart Communications</span>
     </div>
     <div class="testimonial-image">
         <img src="{{ "assets/img/client-3.png" | relative_url }}" alt="">

@@ -48,34 +48,24 @@ categories:         training_tracks
                                                 Use dependency injection to setup and configure applications
                                             </li>
                                             <li>
-                                                Test Spring-based applications
+                                                Build rich clients using AJAX and JavaScript
                                             </li>
                                             <li>
-                                                Configure Spring applications using Java configuration, annotations, or XML
+                                               Test web applications for correctness
                                             </li>
                                             <li>
-                                                Use JPA/Hibernate and JDBC with Spring to access relational databases
+                                               Create concurrent applications and schedule tasks using Spring
                                             </li>
                                             <li>
-                                                Use Spring support for transactions
+                                                Create SOAP and REST Web services
                                             </li>
-                                            <li>
-                                                Use aspect-oriented programming (AOP) to declaratively add behavior to applications
-                                            </li>
-                                            <li>
-                                                Develop a basic Web application with Spring MVC
-                                            </li>
-                                            <li>
-                                                Advanced JPA/Hibernate mapping
-                                            </li>
-                                            <li> Use JPA/Hibernate with Spring in web applications</li>
                                         </ul>
                                     </p>
                                     <h4>
                                         Target Audience
                                     </h4>
                                     <p>
-                                        Enterprise Java developers and architects
+                                        Experienced enterprise Java developers and architects who want to learn how to take advantage of the Spring Framework in their web applications.
                                     </p>
                                 </section>
                                 <section id="course-list">
@@ -224,6 +214,12 @@ categories:         training_tracks
                     <h4>
                         Overview
                     </h4>
+                    <div class="track-details">
+                        <div class="details mr40">
+                            <img src="/assets/img/ico-calendar.svg" alt="">
+                            <h6>DURATION: 3 Days</h6>
+                        </div>
+                    </div>
                     <p>
                         Spring is a dependency injection framework that simplifies Java EE development and testing.
                     </p>
@@ -240,6 +236,32 @@ categories:         training_tracks
                     </h4>
                     <p>
                         Agile Engineering & Java Best Practices, Introduction to Java Enterprise Development: Persistence, Concurrency, Business Logic, Web
+                    </p>
+                </section>
+                <section>
+                    <h4>
+                        Audience:
+                    </h4>
+                    <p>
+                        Experienced enterprise Java developers and architects who want to learn how to take advantage of the Spring Framework in their own applications.
+                    </p>
+                </section>
+                <section>
+                    <h4>
+                        Benefits of the Program:
+                    </h4>
+                    <p>
+                        Trainees will learn to do the following:
+                        <ul>
+                            <li>Use the Spring Framework to develop Java applications</li>
+                            <li>Use dependency injection to setup and configure applications</li>
+                            <li>Test Spring-based applications</li>
+                            <li>Configure Spring applications using Java configuration, annotations, or XML</li>
+                            <li>Use JPA/Hibernate and JDBC with Spring to access relational databases</li>
+                            <li>Use Spring support for transactions</li>
+                            <li>Use aspect-oriented programming (AOP) to declaratively add behavior to applications</li>
+                            <li>Develop a basic Web application with Spring MVC</li>
+                        </ul>
                     </p>
                 </section>
                 <section>
@@ -281,6 +303,12 @@ categories:         training_tracks
                     <h4>
                         Overview
                     </h4>
+                    <div class="track-details">
+                        <div class="details mr40">
+                            <img src="/assets/img/ico-calendar.svg" alt="">
+                            <h6>DURATION: 3 Days</h6>
+                        </div>
+                    </div>
                     <p>
                         Spring is a dependency injection framework that simplifies Java EE development and testing.
                     </p>
@@ -301,6 +329,30 @@ categories:         training_tracks
                 </section>
                 <section>
                     <h4>
+                        Audience:
+                    </h4>
+                    <p>
+                        Experienced enterprise Java developers and architects who want to learn how to take advantage of the Spring Framework in integrating their server-side applications.
+                    </p>
+                </section>
+                <section>
+                    <h4>
+                        Benefits of the Program:
+                    </h4>
+                    <p>
+                    From this workshop, trainees will learn:
+                        <ul>
+                            <li>Create concurrent applications and schedule tasks using Spring</li>
+                            <li>Create SOAP and REST Web services</li>
+                            <li>Use JMS for asynchronous communication</li>
+                            <li>Understand and use distributed transactions</li>
+                            <li>Use Spring Batch for Enterprise Integration based on batch processing</li>
+                            <li>Use Spring Integration for Pipes-and-Filters integration</li>
+                        </ul>
+                    </p>
+                </section>
+                <!-- <section>
+                    <h4>
                         Course Outline:
                     </h4>
                     <h5 class="course-title">Day 1-3 : Enterprise Integration with Spring Training</h5>
@@ -315,7 +367,7 @@ categories:         training_tracks
                         <li>Spring Integration</li>
                         <li>Spring Batch</li>
                     </ul>
-                </section>
+                </section> -->
             </div>
         </div>
     </div>
@@ -340,6 +392,12 @@ categories:         training_tracks
                     <h4>
                         Overview
                     </h4>
+                    <div class="track-details">
+                        <div class="details mr40">
+                            <img src="/assets/img/ico-calendar.svg" alt="">
+                            <h6>DURATION: 3 Days</h6>
+                        </div>
+                    </div>
                     <p>
                         Spring is a dependency injection framework that simplifies Java EE development and testing.
                     </p>
@@ -356,6 +414,28 @@ categories:         training_tracks
                     </h4>
                     <p>
                         Core Spring Training or Combined Spring & JPA/Hibernate Training
+                    </p>
+                </section>
+                <section>
+                    <h4>
+                        Who Should Attend:
+                    </h4>
+                    <p>
+                        Experienced enterprise Java developers and architects who want to learn how to take advantage of the Spring Framework in their web applications.
+                    </p>
+                </section>
+                <section>
+                    <h4>
+                        Benefits of the Program:
+                    </h4>
+                    <p>
+                    From this workshop, trainees will learn:
+                        <ul>
+                            <li>Use the Spring Framework to develop Web applications implementing RESTful services using Spring MVC</li>
+                            <li>Secure Web applications with Spring Security</li>
+                            <li>Build rich clients using AJAX and JavaScript</li>
+                            <li>Test web applications for correctness</li>
+                        </ul>
                     </p>
                 </section>
                 <section>

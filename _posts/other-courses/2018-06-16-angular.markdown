@@ -1,7 +1,7 @@
 ---
 layout:             training-tracks
 class:              trackdetails
-title:              Angular
+title:              AngularJS
 short_description:  You will be able to create rich and powerful SPAs and communicate with RESTful services on the backend in order to retrieve and persist data.
 image:              assets/img/course-angular.png
 date:               2018-06-16 08:00:00 +0800
@@ -16,7 +16,7 @@ categories:         other_courses
                         <img src="{{ "assets/img/title-software.png" | relative_url }}" alt="">
                         <div class="title">
                             <h6>
-                                < OUR MOST POPULAR TRAINING COURSE />
+                                < Beyond Java />
                             </h6>
                             <h2>AngularJS Course</h2>
                         </div>
@@ -27,6 +27,12 @@ categories:         other_courses
                                 <section id="overview">
                                     <h3>Overview</h3>
                                     <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                    <div class="track-details">
+                                        <div class="details mr40">
+                                            <img src="/assets/img/ico-calendar.svg" alt="">
+                                            <h6>DURATION: 3 Days</h6>
+                                        </div>
+                                    </div>
                                     <p>
                                         AngularJS is an opensource web application framework that assists with creating singlepage applications (SPAs) consisting of one HTML page with CSS and JavaScript on the client side. It is used to simplify development and testing of web applications by providing MVC capability, and providing structure for the entire development process.
                                     </p>
@@ -41,32 +47,45 @@ categories:         other_courses
                                     <h3>
                                         Course Outline:
                                     </h3>
-                                    <h5 class="course-title">Day 1 - 3 : HTML: Elements and Structure</h5>
+                                    <h5 class="course-title">Fundamentals of AngularJS</h5>
                                     <ul class="course-outline">
                                         <li>Introduction to AngularJS</li>
                                         <li>Developing an AngularJS application</li>
                                         <li>Single Page Applications</li>
                                         <li>Controllers</li>
                                         <li>Models</li>
-                                        <li>Explicit models</li>
-                                        <li>Implicit models</li>
+                                        <li class="pl40">Explicit models</li>
+                                        <li class="pl40">Implicit models</li>
                                         <li>Views</li>
-                                        <li>Tying a View to a Controller</li>
-                                        <li>Tying a View to a model</li>
+                                        <li class="pl40">Tying a View to a Controller</li>
+                                        <li class="pl40">Tying a View to a model</li>
                                         <li>Expressions</li>
                                         <li>Filters</li>
                                         <li>Scopes</li>
                                         <li>Angular Forms</li>
-                                        <li>Implicit models</li>
-                                        <li>Views</li>
-                                        <li>Tying a View to a Controller</li>
-                                        <li>Tying a View to a model</li>
-                                        <li>Expressions</li>
-                                        <li>Filters</li>
-                                        <li>Scopes</li>
-                                        <li>Angular Forms</li>
-                                        <li>Implicit models</li>
-                                        <li>Views</li>
+                                        <li class="pl40">Angular forms vs. HTML forms</li>
+                                        <li class="pl40">Angular form controls</li>
+                                        <li class="pl40">Form events</li>
+                                        <li class="pl40">The form controller</li>
+                                        <li class="pl40">Form validation</li>
+                                        <li>Ajax, Data, and Angular</li>
+                                        <li class="pl40">High level interactions with servers</li>
+                                        <li class="pl40">Lowlevel server interactions with $http</li>
+                                        <li class="pl40">The deferred/promises API</li>
+                                        <li class="pl40">Making RESTful Service calls with $resource</li>
+                                        <li>Directives</li>
+                                        <li class="pl40">Teaching HTML new tricks</li>
+                                        <li class="pl40">Binding text and attributes</li>
+                                        <li class="pl40">Directive processing lifecycle</li>
+                                        <li class="pl40">A basic directive</li>
+                                        <li class="pl40">Directives and scopes</li>
+                                        <li class="pl40">Creating reusable directives</li>
+                                        <li class="pl40">Turning directives into components</li>
+                                        <li>Testing in Angular</li>
+                                        <li class="pl40">Unit testing</li>
+                                        <li class="pl40">Endtoend testing</li>
+                                        <li>Digest Cycle</li>
+                                        <li>Routing</li>
                                     </ul>
                                 </section>
 
@@ -84,8 +103,7 @@ categories:         other_courses
                                             <div id="collapse-1" class="collapse faq-body" aria-labelledby="heading-1" data-parent="#accordion">
                                                 <div class="content">
                                                     <p>
-                                                        Kindly fill-out the online application form and then submit your resume to
-                                                        <a href="mailto:careers@orangeandbronze.com">careers@orangeandbronze.com</a> and indicate the position in the subject line.
+                                                        Moderate knowledge of HTML, CSS, and JavaScript
                                                     </p>
                                                 </div>
                                             </div>
@@ -100,7 +118,7 @@ categories:         other_courses
                                             <div id="collapse-2" class="collapse faq-body" aria-labelledby="heading-2" data-parent="#accordion">
                                                 <div class="content">
                                                     <p>
-                                                        You will receive an e-mail acknowledgement about your job application. If you are qualified for the position, you will be contacted by a recruiter to invite you to take our examination.
+                                                        Participants will be able to create rich and powerful SPAs and communicate with RESTful services on the backend in order to retrieve and persist data.
                                                     </p>
                                                 </div>
                                             </div>

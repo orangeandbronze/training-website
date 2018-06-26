@@ -30,8 +30,11 @@ categories:         training_tracks
                                     <h3>Overview</h3>
                                     <img class="mb30 img-fluid" src="{{ "assets/img/agile-course-cover.jpg" | relative_url }}" alt="">
                                     <p>
-                                        Orange & Bronze was founded in 2005 to apply, improve, and teach Agile approaches, and been practicing and teaching Agile for 12 years. It was the first company in the Philippines to adopt Agile company-wide, and the first to offer Agile training. Through its training, advisory, and software development services, it has helped many companies transition to Agile approaches, as well as deliver successful, reliable products to market for its clients.
+                                        Orange & Bronze is one of the first companies in Asia to use and advocate Agile Software Development. We have been using it since our inception in 2005, back when Agile was still an emerging movement.
                                     </p>
+                                    <p>
+                                        We are the first company in the Philippines to adopt Agile company-wide, and the first to offer Agile training and coaching. Through our training, advisory, and software development services, we have helped many companies transition to Agile approaches, as well as deliver successful, reliable products to market.
+                                    </p>   
                                     <h5>
                                         O&B’s Disciplined Agile Process
                                     </h5>
@@ -48,19 +51,19 @@ categories:         training_tracks
                                         Trainees will learn to do the following:
                                         <ul>
                                             <li>
-                                                Use the Spring Framework to develop Java applications
+                                                Understand the factors that determine project success or failure.
                                             </li>
                                             <li>
-                                                Use dependency injection to setup and configure applications
+                                                Gain a wide view of the methodologies and practices available in Agile, and to which situation each is applicable.
                                             </li>
                                             <li>
-                                                Test Spring-based applications
+                                                Learn how Agile values affect requirements engineering
                                             </li>
                                             <li>
-                                                Configure Spring applications using Java configuration, annotations, or XML
+                                                Identify and describe user roles, write and evaluate user stories, and estimate and prioritize for iterations and releases
                                             </li>
                                             <li>
-                                                Use JPA/Hibernate and JDBC with Spring to access relational databases
+                                                Learn critical Java best practices which affect performance and correctness
                                             </li>
                                         </ul>
                                     </p>
@@ -68,7 +71,7 @@ categories:         training_tracks
                                         Target Audience
                                     </h4>
                                     <p>
-                                        Enterprise Java developers and architects
+                                        Developers, Managers, Product Owners, Testers, Business Analysts, Scrum Masters and Executives
                                     </p>
                                 </section>
                                 <section id="course-list">
@@ -143,9 +146,9 @@ categories:         training_tracks
 
                                         <div class="feedback-slider">
                                             <div class="feedback-card">
-                                                <img class="headshot" src="{{ "assets/img/headshot.png" | relative_url }}" alt="">
+                                                <img class="headshot" src="{{ "assets/img/client-1.png" | relative_url }}" alt="">
                                                 <h6 class="name">Jowee Reyes</h6>
-                                                <span class="position">Executive Direcctor @ Pointwest Technologies</span>
+                                                <span class="position">Executive Director @ Pointwest Technologies</span>
                                                 <p class="description">
                                                     "For a long time, Pointwest has been looking for a training provider who has a comprehensive Java training program. Orange and Bronze fills that void. O&B people have the passion competence, energy and pizzazz proven by their training methodology, mentoring skills, and team of Java professionals. O&B individuals are a testimony to their teaching prowess."
                                                 </p>
@@ -225,6 +228,12 @@ categories:         training_tracks
                     <h4>
                         Overview
                     </h4>
+                    <div class="track-details">
+                        <div class="details mr40">
+                            <img src="/assets/img/ico-calendar.svg" alt="">
+                            <h6>DURATION: 2 Days</h6>
+                        </div>
+                    </div>
                     <p>
                         Orange & Bronze is primarily a software development firm. Our very survival depends on successful delivery of projects. Our approach to Agile training is therefore pragmatic, not theoretical. It is not just a discussion of one methodology or another, but an analysis of why projects succeed or fail, and which practices can address specific issues. We go beyond what is written in books and articles, and bring in our own experience. What we found out by applying Agile Software Development since 2005 is that many things written in books are not always applicable in the real world, and we bring this insight to our training.
                     </p>
@@ -242,6 +251,27 @@ categories:         training_tracks
                 </section>
                 <section>
                     <h4>
+                        Who Should Attend:
+                    </h4>
+                    <p>
+                        Developers, Managers, Product Owners, Testers, Business Analysts and Executives
+                    </p>
+                </section>
+                <section>
+                    <h4>
+                        Benefits of the Program:
+                    </h4>
+                    <p>
+                        <ul>
+                            <li>Understanding the factors that determine project success or failure.</li>
+                            <li>Gaining a wide view of the methodologies and practices available in Agile, and to which situation each is applicable.</li>
+                            <li>Shared understanding within the organization of the challenges and expectation of each role.</li>
+                            <li>Shared perspective when addressing process improvements.</li>
+                        </ul>
+                    </p>
+                </section>
+                <!-- <section>
+                    <h4>
                         Course Outline:
                     </h4>
                     <h5 class="course-title">Day 1-2 : Core Agile Workshop with Scrum, Extreme Programming, and Kanban</h5>
@@ -256,7 +286,7 @@ categories:         training_tracks
                         <li>Kanban</li>
                         <li>Agile Engineering</li>
                     </ul>
-                </section>
+                </section> -->
             </div>
         </div>
     </div>
@@ -281,6 +311,12 @@ categories:         training_tracks
                     <h4>
                         Overview
                     </h4>
+                    <div class="track-details">
+                        <div class="details mr40">
+                            <img src="/assets/img/ico-calendar.svg" alt="">
+                            <h6>DURATION: 2 Days</h6>
+                        </div>
+                    </div>
                     <p>
                         This 2-day workshop provides a hands-on simulation on effective requirements elicitation practices, inclusive of having effective discussions with stakeholders, translating vague business needs into specifications, writing of user stories & acceptance criteria, eliciting priorities & test cases, as well as basic Agile approaches to estimation and planning.
                     </p>
@@ -289,6 +325,43 @@ categories:         training_tracks
                     </p>
                 </section>
                 <section>
+                    <h4>
+                        Prerequisite:
+                    </h4>
+                    <p>
+                        Knowledge of agile software development is a plus (but not required)
+                    </p>
+                </section>
+                <section>
+                    <h4>
+                        Who Should Attend:
+                    </h4>
+                    <p>
+                        Business analysts, developers, testers, product owners, scrum masters, and team leads, looking to apply user stories in their Agile software development.
+                    </p>
+                </section>
+                <section>
+                    <h4>
+                        Benefits of the Program:
+                    </h4>
+                    <p>
+                    From this workshop, trainees will learn:
+                        <ul>
+                            <li>How Agile values affect requirements engineering</li>
+                            <li>How to identify and describe user roles</li>
+                            <li>How to write and evaluate user stories</li>
+                            <li>How to estimate and prioritize for iterations and releases</li>
+                            <li>How to split and/or combine user stories</li>
+                            <li>How to write effective acceptance criteria and tests for user stories</li>
+                            <li>Capture non-functional requirements as stories</li>
+                            <li>Derive tests from User Stories</li>
+                        </ul>
+                    </p>
+                    <p>
+                        Orange & Bronze is one of the first companies in Asia to use and advocate Agile Software Development, and has been using it since our inception in 2005, back when Agile was still an emerging movement. This training course was developed and is taught by some of the Philippines' well-known and respected Agile coaches and practitioners, and uses the format trusted by some of the best companies in the Philippines.
+                    </p>
+                </section>
+                <!-- <section>
                     <h4>
                         Course Outline:
                     </h4>
@@ -303,7 +376,7 @@ categories:         training_tracks
                         <li>Introduction to Acceptance Test Driven Development (ATDD)</li>
                         <li>3 Case Studies/Simulations</li>
                     </ul>
-                </section>
+                </section> -->
             </div>
         </div>
     </div>
@@ -390,6 +463,12 @@ categories:         training_tracks
                     <h4>
                         Overview
                     </h4>
+                    <div class="track-details">
+                        <div class="details mr40">
+                            <img src="/assets/img/ico-calendar.svg" alt="">
+                            <h6>DURATION: 2 Days</h6>
+                        </div>
+                    </div>
                     <p>
                         Most test-automation initiatives fail. Regardless of how much money companies invest in tools, testers often end up abandoning their expensive tools and revert to manual testing, complaining that test automation takes “too much time”. Tests are fragile - they easily break with changes to the UI, and are not portable across different UI technologies.
                     </p>
@@ -445,17 +524,20 @@ categories:         training_tracks
                     <h4>
                         Overview
                     </h4>
+                    <div class="track-details">
+                        <div class="details mr40">
+                            <img src="/assets/img/ico-calendar.svg" alt="">
+                            <h6>DURATION: 2 Days</h6>
+                        </div>
+                    </div>
                     <p>
-                        Spring is a dependency injection framework that simplifies Java EE development and testing.
+                        Most test-automation initiatives fail. Regardless of how much money companies invest in tools, testers often end up abandoning their expensive tools and revert to manual testing, complaining that test automation takes “too much time”. Tests are fragile - they easily break with changes to the UI, and are not portable across different UI technologies.
                     </p>
                     <p>
-                        This course is designed for experienced developers who would like to gain more depth on Spring and building loosely-coupled and testable applications, as well as aspect oriented programming.
+                        Agile Testing takes a very different approach to testing, which involves changes to software development processes and even system design. Testing begins from requirements elicitation, and is conducted in different ways and with different tools in system design and in coding.
                     </p>
                     <p>
-                        Java Persistence API (JPA) is a specification that describes the management of relational data. Hibernate is an open source object-relational mapping framework that implements the JPA specification (starting with version 3.2 and later).
-                    </p>
-                    <p>
-                        This 5-day course is designed for experienced developers who would like to gain more depth on Spring and JPA/Hibernate, and learn about building loosely-coupled and testable applications. Students will also learn about aspect oriented programming and integrating with other frameworks.
+                        Automated tests can be written even before modules are built. Also, functional tests do not break even with large changes to the UI, or even complete changes in UI technology.
                     </p>
                 </section>
                 <section>
@@ -463,7 +545,15 @@ categories:         training_tracks
                         Prerequisite:
                     </h4>
                     <p>
-                        Trainees must be familiar with Agile Engineering & Java Best Practices, Introduction to Java Enterprise Development: Persistence, Concurrency, Business Logic, Web
+                        Core Java and Commonly-Used Libraries and HTML
+                    </p>
+                </section>
+                <section>
+                    <h4>
+                        Who Should Attend:
+                    </h4>
+                    <p>
+                        Testers, Software Development Managers, Senior Software Engineers (team leaders that want to understand test-automation better)
                     </p>
                 </section>
                 <section>
@@ -472,22 +562,12 @@ categories:         training_tracks
                     </h4>
                     <h5 class="course-title">Day 1 - 3 : Core Spring (lecture and exercises)</h5>
                     <ul class="course-outline">
-                        <li>Annotation-based and XML Dependency Injection</li>
-                        <li>Understanding Bean Lifecycle</li>
-                        <li>Testing a Spring-based application</li>
-                        <li>Aspect-Oriented Programming (AOP)</li>
-                        <li>Data Access, Transactions, and JDBC with Spring</li>
-                        <li>Lazy Loading and Detached Objects</li>
-                        <li>Spring in a Web Application</li>
-                        <li>Optimistic and Pessimistic Locking</li>
+                        <li>Agile Testing Overview</li>
+                        <li>Acceptance Test-Driven Development (ATDD)</li>
+                        <li>Functional Testing w/ Concordion</li>
+                        <li>UI Testing w/ Selenium</li>
+                        <li>Load Testing with JMeter</li>
                     </ul>
-                    <h5 class="course-title">Day 4 : JPA/Hibernate (more JPA/Hibernate configuration and internals)</h5>
-                    <ul class="course-outline">
-                        <li>Integrating Spring with JPA and Hibernate</li>
-                        <li>JPA Mapping (Annotations and XML)</li>
-                        <li>JPA in Web Applications (open entity manager in view)</li>
-                    </ul>
-                    <h5 class="course-title">Day 5 : Machine problem (web application) and code review</h5>
                 </section>
             </div>
         </div>

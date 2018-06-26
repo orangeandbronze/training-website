@@ -1,11 +1,11 @@
 .course-outline {
   color: #606e7b;
   padding-left: 0;
-  li {
+  >li {
     line-height: 2;
     font-size: 15px;
     list-style: none;
-    padding: 10px 16px !important;
+    padding: 10px 16px;
   }
   li:nth-child(even) {
     background-color: #f0f4f7;

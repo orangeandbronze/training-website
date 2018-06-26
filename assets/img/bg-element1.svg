@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="1439px" height="392px" viewBox="0 0 1439 392" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
-    <title>Path 6</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Design-v1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M6.23948186e-16,375.085938 L1308.40621,163.052339 C1339.55541,158.00446 1366.49457,138.550246 1381.08236,110.568999 L1438.72656,0 L1438.72656,391.058594 L0,391.058594 L6.23948186e-16,375.085938 Z" id="Path-6" fill="#FFFFFF"></path>
-    </g>
-</svg>
+<svg width="1439" height="392" viewBox="0 0 1439 392" xmlns="http://www.w3.org/2000/svg"><title>Path 6</title><path d="M0 375.086l1308.406-212.034a100 100 0 0 0 72.676-52.483L1438.727 0v391.059H0v-15.973z" fill="#FFF" fill-rule="evenodd"/></svg>

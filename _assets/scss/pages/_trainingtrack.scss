@@ -54,6 +54,22 @@
     }
   }
 
+  .section-courses {
+    padding-top: 0;
+    padding-bottom: 0;
+    position: relative;
+    > .element-1 {
+      position: absolute;
+      right: -400px;
+      top: 20%;
+    }
+    > .element-2 {
+      position: absolute;
+      left: -50%;
+      bottom: 0;
+    }
+  }
+
   .section-steps {
     position: relative;
     padding-top: 40px;

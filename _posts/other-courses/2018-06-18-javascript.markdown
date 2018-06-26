@@ -16,7 +16,7 @@ categories:         other_courses
                         <img src="{{ "assets/img/title-software.png" | relative_url }}" alt="">
                         <div class="title">
                             <h6>
-                                < OUR MOST POPULAR TRAINING COURSE />
+                                < Beyond Java />
                             </h6>
                             <h2>Javascript Course</h2>
                         </div>
@@ -27,6 +27,12 @@ categories:         other_courses
                                 <section id="overview">
                                     <h3>Overview</h3>
                                     <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                    <div class="track-details">
+                                        <div class="details mr40">
+                                            <img src="/assets/img/ico-calendar.svg" alt="">
+                                            <h6>DURATION: 2 Days</h6>
+                                        </div>
+                                    </div>
                                     <p>
                                         The course will cover both basic and advanced features of JavaScript. The course will provide extensive exercises to reinforce the lessons covered throughout the course. The culminating activity is a machine problem that serves to integrate the knowledge gained by the participants in an extensive "real-world" exercise -- the participant's solution will then critiqued in an code review that will be conducted on the final day of the course to provide feedback to improve the participant's future work.
                                     </p>
@@ -79,8 +85,7 @@ categories:         other_courses
                                             <div id="collapse-1" class="collapse faq-body" aria-labelledby="heading-1" data-parent="#accordion">
                                                 <div class="content">
                                                     <p>
-                                                        Kindly fill-out the online application form and then submit your resume to
-                                                        <a href="mailto:careers@orangeandbronze.com">careers@orangeandbronze.com</a> and indicate the position in the subject line.
+                                                        Some experience programming in any language and in HTML and CSS is good to have, though not required.
                                                     </p>
                                                 </div>
                                             </div>
@@ -95,7 +100,7 @@ categories:         other_courses
                                             <div id="collapse-2" class="collapse faq-body" aria-labelledby="heading-2" data-parent="#accordion">
                                                 <div class="content">
                                                     <p>
-                                                        You will receive an e-mail acknowledgement about your job application. If you are qualified for the position, you will be contacted by a recruiter to invite you to take our examination.
+                                                        Participants will learn the essential aspects of Javascript and how to use it for web applications.
                                                     </p>
                                                 </div>
                                             </div>

@@ -16,7 +16,7 @@ categories:         other_courses
                         <img src="{{ "assets/img/title-software.png" | relative_url }}" alt="">
                         <div class="title">
                             <h6>
-                                < OUR MOST POPULAR TRAINING COURSE />
+                                < beyond java />
                             </h6>
                             <h2>MongoDB Course</h2>
                         </div>
@@ -27,6 +27,12 @@ categories:         other_courses
                                 <section id="overview">
                                     <h3>Overview</h3>
                                     <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                    <div class="track-details">
+                                        <div class="details mr40">
+                                            <img src="/assets/img/ico-calendar.svg" alt="">
+                                            <h6>DURATION: 0.5 Days</h6>
+                                        </div>
+                                    </div>
                                     <p>
                                         MongoDB is a popular non-SQL database that stores data as JSON-like documents. Schemas need not be defined upfront, providing developers with flexibility when dealing with often-changing data models. It is designed to easily support sharding (horizontal partitioning).
                                     </p>
@@ -54,7 +60,7 @@ categories:         other_courses
                                     <h3>
                                         Topic Outline:
                                     </h3>
-                                    <h5 class="course-title">Day 1 - 2 : MongoDB Fundamentals</h5>
+                                    <h5 class="course-title">MongoDB Fundamentals</h5>
                                     <ul class="course-outline">
                                         <li>Connecting to a Database</li>
                                         <li>Creating Databases & Collections</li>
@@ -84,8 +90,7 @@ categories:         other_courses
                                             <div id="collapse-1" class="collapse faq-body" aria-labelledby="heading-1" data-parent="#accordion">
                                                 <div class="content">
                                                     <p>
-                                                        Kindly fill-out the online application form and then submit your resume to
-                                                        <a href="mailto:careers@orangeandbronze.com">careers@orangeandbronze.com</a> and indicate the position in the subject line.
+                                                        None.
                                                     </p>
                                                 </div>
                                             </div>
@@ -100,7 +105,7 @@ categories:         other_courses
                                             <div id="collapse-2" class="collapse faq-body" aria-labelledby="heading-2" data-parent="#accordion">
                                                 <div class="content">
                                                     <p>
-                                                        You will receive an e-mail acknowledgement about your job application. If you are qualified for the position, you will be contacted by a recruiter to invite you to take our examination.
+                                                       Learn basic installation and creating creating databases and collections.
                                                     </p>
                                                 </div>
                                             </div>

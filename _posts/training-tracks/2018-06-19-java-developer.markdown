@@ -18,7 +18,7 @@ categories:         training_tracks
                         <img src="{{ "assets/img/title-software.png" | relative_url }}" alt="">
                         <div class="title">
                             <h6>
-                                < OUR MOST POPULAR TRAINING COURSE />
+                                < Our most popular training track />
                             </h6>
                             <h2>Java Developer Track</h2>
                         </div>
@@ -114,9 +114,9 @@ categories:         training_tracks
 
                                         <div class="feedback-slider">
                                             <div class="feedback-card">
-                                                <img class="headshot" src="{{ "assets/img/headshot.png" | relative_url }}" alt="">
+                                                <img class="headshot" src="{{ "assets/img/client-1.png" | relative_url }}" alt="">
                                                 <h6 class="name">Jowee Reyes</h6>
-                                                <span class="position">Executive Direcctor @ Pointwest Technologies</span>
+                                                <span class="position">Executive Director @ Pointwest Technologies</span>
                                                 <p class="description">
                                                     "For a long time, Pointwest has been looking for a training provider who has a comprehensive Java training program. Orange and Bronze fills that void. O&B people have the passion competence, energy and pizzazz proven by their training methodology, mentoring skills, and team of Java professionals. O&B individuals are a testimony to their teaching prowess."
                                                 </p>
@@ -140,8 +140,7 @@ categories:         training_tracks
                                             <div id="collapse-1" class="collapse faq-body" aria-labelledby="heading-1" data-parent="#accordion">
                                                 <div class="content">
                                                     <p>
-                                                        Kindly fill-out the online application form and then submit your resume to
-                                                        <a href="mailto:careers@orangeandbronze.com">careers@orangeandbronze.com</a> and indicate the position in the subject line.
+                                                        Trainees must already have some programming background, such as through school, basic training courses, or work experience. Must be at least able to write a program in any language that does variable assignments, passes parameters through functions or methods, and handles conditional and loop logic.
                                                     </p>
                                                 </div>
                                             </div>
@@ -149,14 +148,14 @@ categories:         training_tracks
                                         <a class="faq-card">
                                             <div class="faq-header collapsed" id="heading-2" data-toggle="collapse" aria-expanded="false" data-target="#collapse-2" aria-controls="collapse-2">
                                                 <h4 class="title">
-                                                    What skills should I expect to possess at the end of the course?
+                                                    What skills should I expect to possess at the end of the track?
                                                 </h4>
                                                 <img src="{{ "assets/img/ico-chevron-down.svg" | relative_url }}" alt="" class="ico">
                                             </div>
                                             <div id="collapse-2" class="collapse faq-body" aria-labelledby="heading-2" data-parent="#accordion">
                                                 <div class="content">
                                                     <p>
-                                                        You will receive an e-mail acknowledgement about your job application. If you are qualified for the position, you will be contacted by a recruiter to invite you to take our examination.
+                                                        At the end of this course, students are expected to know more about Java enterprise technologies and the best practices for dealing with common enterprise challenges. Students will also gain more depth on Spring and JPA/Hibernate, learn about building loosely-coupled and testable applications, aspect oriented programming and integrating with other frameworks.
                                                     </p>
                                                 </div>
                                             </div>
@@ -195,6 +194,12 @@ categories:         training_tracks
                     <h4>
                         Overview
                     </h4>
+                    <div class="track-details">
+                        <div class="details mr40">
+                            <img src="/assets/img/ico-calendar.svg" alt="">
+                            <h6>DURATION: 5 Days</h6>
+                        </div>
+                    </div>
                     <p>
                         This course is an introduction to Java and the most commonly used libraries of the Java Standard Edition (Java SE). Covers Java 8.
                     </p>
@@ -212,26 +217,6 @@ categories:         training_tracks
                     <p>
                         Trainees must already have some programming background, such as through school, basic training courses, or work experience. Must be at least able to write a program in any language that does variable assignments, passes parameters through functions or methods, and handles conditional and loop logic.
                     </p>
-                </section>
-                <section>
-                    <h4>
-                        Course Outline:
-                    </h4>
-                    <h5 class="course-title">Day 1 - Core Java & Commonly-Used Libraries</h5>
-                    <ul class="course-outline">
-                        <li>Introduction to Java</li>
-                        <li>Java Programming Fundamentals</li>
-                        <li>Arrays</li>
-                        <li>Working with Objects & Classes</li>
-                        <li>Commonly-Used Classes</li>
-                        <li>Creating Your Own Classes</li>
-                        <li>Inheritance and Polymorphism in Java</li>
-                        <li>Collections</li>
-                        <li>Anonymous Classes, Lambdas & Streams</li>
-                        <li>Exceptions</li>
-                        <li>Input & Output</li>
-                        <li>Machine Problem & Code Review</li>
-                    </ul>
                 </section>
             </div>
         </div>
@@ -319,6 +304,12 @@ categories:         training_tracks
                     <h4>
                         Overview
                     </h4>
+                     <div class="track-details">
+                        <div class="details mr40">
+                            <img src="/assets/img/ico-calendar.svg" alt="">
+                            <h6>DURATION: 4 Days</h6>
+                        </div>
+                    </div>
                     <p>
                         As Martin Fowler wrote in his famous blog post, "Flaccid Scrum", many Agile Software Development efforts fail, because they do not adopt Agile Engineering practices, which are not covered by the Scrum methodology. Agile Engineering practices allow teams to accommodate frequent changes, while still delivering code that is low in bugs, and deployable at the end of each sprint.
                     </p>
@@ -339,23 +330,6 @@ categories:         training_tracks
                     <p>
                         Trainees must be familiar with Core Java & Commonly-Used Libraries.
                     </p>
-                </section>
-                <section>
-                    <h4>
-                        Course Outline:
-                    </h4>
-                    <h5 class="course-title">Day 1 - Agile Engineering & Java Best Practices</h5>
-                    <ul class="course-outline">
-                        <li>Agile Engineering Overview</li>
-                        <li>Review of Object-Oriented Programming</li>
-                        <li>Object-Oriented Design</li>
-                        <li>Version Control w/ Git</li>
-                        <li>Unit Testing and Test Driven Development</li>
-                        <li>Refactoring</li>
-                        <li>Java Best Practices</li>
-                        <li>Machine Problem</li>
-                        <li>Code Review</li>
-                    </ul>
                 </section>
             </div>
         </div>
@@ -381,6 +355,12 @@ categories:         training_tracks
                     <h4>
                         Overview
                     </h4>
+                     <div class="track-details">
+                        <div class="details mr40">
+                            <img src="/assets/img/ico-calendar.svg" alt="">
+                            <h6>DURATION: 5 Days</h6>
+                        </div>
+                    </div>
                     <p>
                         This course provides a rigorous introduction to enterprise development, including solving common problems of persistence, concurrency, organizing business logic, and communication over the web. It uses the core Java enterprise technologies of JDBC, Servlets & JSP. Regardless of which framework your team uses, this course is a valuable introduction to not just the underlying technologies behind the frameworks, but the best practices for dealing with common enterprise challenges.
                     </p>
@@ -392,27 +372,6 @@ categories:         training_tracks
                     <p>
                         Core Java & Commonly-Used Java Libraries, Agile Engineering & Java Best Practices, HTML, SQL
                     </p>
-                </section>
-                <section>
-                    <h4>
-                        Course Outline:
-                    </h4>
-                    <h5 class="course-title">Day 1 - HTML: Elements and Structure</h5>
-                    <ul class="course-outline">
-                        <li>Application Layers & Domain Modeling</li>
-                        <li>JDBC</li>
-                        <li>Automated Database Testing</li>
-                        <li>Servlets</li>
-                        <li>POST-GET-Redirect (PRG) Pattern</li>
-                        <li>JSP & JSTL</li>
-                        <li>Model-View-Controller</li>
-                        <li>REST</li>
-                        <li>Application Services</li>
-                        <li>Transactions</li>
-                        <li>Concurrency</li>
-                        <li>Performance</li>
-                        <li>Testing with Mock Objects</li>
-                    </ul>
                 </section>
             </div>
         </div>
@@ -438,6 +397,12 @@ categories:         training_tracks
                     <h4>
                         Overview
                     </h4>
+                     <div class="track-details">
+                        <div class="details mr40">
+                            <img src="/assets/img/ico-calendar.svg" alt="">
+                            <h6>DURATION: 5 Days</h6>
+                        </div>
+                    </div>
                     <p>
                         Spring is a dependency injection framework that simplifies Java EE development and testing.
                     </p>
@@ -457,6 +422,34 @@ categories:         training_tracks
                     </h4>
                     <p>
                         Trainees must be familiar with Agile Engineering & Java Best Practices, Introduction to Java Enterprise Development: Persistence, Concurrency, Business Logic, Web
+                    </p>
+                </section>
+                <section>
+                    <h4>
+                        Benefits of the Program:
+                    </h4>
+                    <p>
+                    Trainees will learn to do the following:
+                    <ul>
+                        <li>Use the Spring Framework to develop Java applications</li>
+                        <li>Use dependency injection to setup and configure applications</li>
+                        <li>Test Spring-based applications</li>
+                        <li>Configure Spring applications using Java configuration, annotations, or XML</li>
+                        <li>Use JPA/Hibernate and JDBC with Spring to access relational databases</li>
+                        <li>Use Spring support for transactions</li>
+                        <li>Use aspect-oriented programming (AOP) to declaratively add behavior to applications</li>
+                        <li>Develop a basic Web application with Spring MVC</li>
+                        <li>Advanced JPA/Hibernate mapping</li>
+                        <li>Use JPA/Hibernate with Spring in web applications</li>
+                    </ul>
+                    </p>
+                </section>
+                <section>
+                    <h4>
+                        Audience
+                    </h4>
+                    <p>
+                        Experienced enterprise Java developers and architects who want to learn how to take advantage of the Spring Framework in their own applications.
                     </p>
                 </section>
                 <section>

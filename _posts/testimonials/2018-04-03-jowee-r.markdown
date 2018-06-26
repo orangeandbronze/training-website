@@ -7,10 +7,10 @@ categories:   testimonial
     <div class="testimonial-content">
         <img class="design-element1" src="{{ "assets/img/ico-blockquote.svg" | relative_url }}" alt="">
         <blockquote>
-            We have been working together as strategic partners. What I mean by strategic partnership is that not only do we get the much-needed help around the delivery of the projects, we also get hands-on training.
+            For a long time, Pointwest has been looking for a training provider who has a comprehensive Java training program. Orange and Bronze fills that void. O&B people have the passion, competence, energy and pizzazz proven by their training methodology, mentoring skills, and team of Java professionals. O&B trained individuals are a testimony to their teaching prowess
         </blockquote>
-        <h6 class="name">Mark J.</h6>
-        <span>Chief Technology Officer</span>
+        <h6 class="name">Jowee Reyes</h6>
+        <span>Executive Director, Pointwest Technologies</span>
     </div>
     <div class="testimonial-image">
         <img src="{{ "assets/img/client-1.png" | relative_url }}" alt="">

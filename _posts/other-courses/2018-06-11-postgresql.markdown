@@ -16,7 +16,7 @@ categories:         other_courses
                         <img src="{{ "assets/img/title-software.png" | relative_url }}" alt="">
                         <div class="title">
                             <h6>
-                                < OUR MOST POPULAR TRAINING COURSE />
+                                < Beyond Java />
                             </h6>
                             <h2>PostgreSQL Course Course</h2>
                         </div>
@@ -27,6 +27,12 @@ categories:         other_courses
                                 <section id="overview">
                                     <h3>Overview</h3>
                                     <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                    <div class="track-details">
+                                        <div class="details mr40">
+                                            <img src="/assets/img/ico-calendar.svg" alt="">
+                                            <h6>DURATION: 0.5 Days</h6>
+                                        </div>
+                                    </div>
                                     <p>
                                         PostgreSQL is one of the few open source databases that are well-accepted in corporate environments. It is prized for its stability and performance. However, most developers only use its basic features, not realizing its many features available for improving performance and reducing the complexity of applications.
                                     </p>
@@ -50,7 +56,7 @@ categories:         other_courses
                                     <h3>
                                         Topic Outline:
                                     </h3>
-                                    <h5 class="course-title">Day 1 - 2 : PostgreSQL Training</h5>
+                                    <h5 class="course-title">PostgreSQL Training</h5>
                                     <ul class="course-outline">
                                         <li>Overview</li>
                                         <li>Using psql</li>
@@ -84,8 +90,7 @@ categories:         other_courses
                                             <div id="collapse-1" class="collapse faq-body" aria-labelledby="heading-1" data-parent="#accordion">
                                                 <div class="content">
                                                     <p>
-                                                        Kindly fill-out the online application form and then submit your resume to
-                                                        <a href="mailto:careers@orangeandbronze.com">careers@orangeandbronze.com</a> and indicate the position in the subject line.
+                                                       SQL fundamentals.
                                                     </p>
                                                 </div>
                                             </div>
@@ -100,7 +105,7 @@ categories:         other_courses
                                             <div id="collapse-2" class="collapse faq-body" aria-labelledby="heading-2" data-parent="#accordion">
                                                 <div class="content">
                                                     <p>
-                                                        You will receive an e-mail acknowledgement about your job application. If you are qualified for the position, you will be contacted by a recruiter to invite you to take our examination.
+                                                      Participants will understand and maximize the features of the PostgreSQL database.
                                                     </p>
                                                 </div>
                                             </div>

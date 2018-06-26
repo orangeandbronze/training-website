@@ -7,10 +7,10 @@ categories:   testimonial
     <div class="testimonial-content">
         <img class="design-element1" src="{{ "assets/img/ico-blockquote.svg" | relative_url }}" alt="">
         <blockquote>
-            Google Apps is the best solution for us. The company is projected to have a population of 1000 at the end of the year, coincidentally on its 10th year in the business, and we are confident that only Google can scale with our needs.
+            O&B has the right balance of lectures and application through examples, hands-on exercises, and the machine problem given at the later part of the course...Most importantly, Orange and Bronze doesn't only teach you the technology but also how to apply the technology right.
         </blockquote>
-        <h6 class="name">Raymond P.</h6>
-        <span>Project Manager</span>
+        <h6 class="name">Hazel Mananquil</h6>
+        <span>Systems Analyst, Philippine Airlines</span>
     </div>
     <div class="testimonial-image">
         <img src="{{ "assets/img/client-2.png" | relative_url }}" alt="">

@@ -51,13 +51,13 @@ categories:         training_tracks
                                                 Applicable to any object-oriented programming language
                                             </li>
                                             <li>
-                                                Test Spring-based applications
+                                               Understand the factors that determine project success or failure
                                             </li>
                                             <li>
-                                                Configure Spring applications using Java configuration, annotations, or XML
+                                                Learn established solutions to common problems
                                             </li>
                                             <li>
-                                                Use JPA/Hibernate and JDBC with Spring to access relational databases
+                                                Improve code quality, and make code easy to change and enhance
                                             </li>
                                         </ul>
                                     </p>
@@ -137,9 +137,9 @@ categories:         training_tracks
 
                                         <div class="feedback-slider">
                                             <div class="feedback-card">
-                                                <img class="headshot" src="{{ "assets/img/headshot.png" | relative_url }}" alt="">
+                                                <img class="headshot" src="{{ "assets/img/client-1.png" | relative_url }}" alt="">
                                                 <h6 class="name">Jowee Reyes</h6>
-                                                <span class="position">Executive Direcctor @ Pointwest Technologies</span>
+                                                <span class="position">Executive Director @ Pointwest Technologies</span>
                                                 <p class="description">
                                                     "For a long time, Pointwest has been looking for a training provider who has a comprehensive Java training program. Orange and Bronze fills that void. O&B people have the passion competence, energy and pizzazz proven by their training methodology, mentoring skills, and team of Java professionals. O&B individuals are a testimony to their teaching prowess."
                                                 </p>
@@ -219,6 +219,12 @@ categories:         training_tracks
                     <h4>
                         Overview
                     </h4>
+                    <div class="track-details">
+                        <div class="details mr40">
+                            <img src="/assets/img/ico-calendar.svg" alt="">
+                            <h6>DURATION: 2 Days</h6>
+                        </div>
+                    </div>
                     <p>
                         Orange & Bronze is primarily a software development firm. Our very survival depends on successful delivery of projects. Our approach to Agile training is therefore pragmatic, not theoretical. It is not just a discussion of one methodology or another, but an analysis of why projects succeed or fail, and which practices can address specific issues. We go beyond what is written in books and articles, and bring in our own experience. What we found out by applying Agile Software Development since 2005 is that many things written in books are not always applicable in the real world, and we bring this insight to our training.
                     </p>
@@ -236,6 +242,27 @@ categories:         training_tracks
                 </section>
                 <section>
                     <h4>
+                        Who Should Attend:
+                    </h4>
+                    <p>
+                        Developers, Managers, Product Owners, Testers, Business Analysts and Executives
+                    </p>
+                </section>
+                <section>
+                    <h4>
+                        Benefits of the Program:
+                    </h4>
+                    <p>
+                        <ul>
+                            <li>Understanding the factors that determine project success or failure.</li>
+                            <li>Gaining a wide view of the methodologies and practices available in Agile, and to which situation each is applicable.</li>
+                            <li>Shared understanding within the organization of the challenges and expectation of each role.</li>
+                            <li>Shared perspective when addressing process improvements.</li>
+                        </ul>
+                    </p>
+                </section>
+                <!-- <section>
+                    <h4>
                         Course Outline:
                     </h4>
                     <h5 class="course-title">Day 1-2 : Core Agile Workshop with Scrum, Extreme Programming, and Kanban</h5>
@@ -250,7 +277,7 @@ categories:         training_tracks
                         <li>Kanban</li>
                         <li>Agile Engineering</li>
                     </ul>
-                </section>
+                </section> -->
             </div>
         </div>
     </div>
@@ -275,6 +302,12 @@ categories:         training_tracks
                     <h4>
                         Overview
                     </h4>
+                    <div class="track-details">
+                        <div class="details mr40">
+                            <img src="/assets/img/ico-calendar.svg" alt="">
+                            <h6>DURATION: 2 Days</h6>
+                        </div>
+                    </div>
                     <p>
                         This 2-day workshop provides a hands-on simulation on effective requirements elicitation practices, inclusive of having effective discussions with stakeholders, translating vague business needs into specifications, writing of user stories & acceptance criteria, eliciting priorities & test cases, as well as basic Agile approaches to estimation and planning.
                     </p>
@@ -283,6 +316,43 @@ categories:         training_tracks
                     </p>
                 </section>
                 <section>
+                    <h4>
+                        Prerequisite:
+                    </h4>
+                    <p>
+                        Knowledge of agile software development is a plus (but not required)
+                    </p>
+                </section>
+                <section>
+                    <h4>
+                        Who Should Attend:
+                    </h4>
+                    <p>
+                        Business analysts, developers, testers, product owners, scrum masters, and team leads, looking to apply user stories in their Agile software development.
+                    </p>
+                </section>
+                <section>
+                    <h4>
+                        Benefits of the Program:
+                    </h4>
+                    <p>
+                    From this workshop, trainees will learn:
+                        <ul>
+                            <li>How Agile values affect requirements engineering</li>
+                            <li>How to identify and describe user roles</li>
+                            <li>How to write and evaluate user stories</li>
+                            <li>How to estimate and prioritize for iterations and releases</li>
+                            <li>How to split and/or combine user stories</li>
+                            <li>How to write effective acceptance criteria and tests for user stories</li>
+                            <li>Capture non-functional requirements as stories</li>
+                            <li>Derive tests from User Stories</li>
+                        </ul>
+                    </p>
+                    <p>
+                        Orange & Bronze is one of the first companies in Asia to use and advocate Agile Software Development, and has been using it since our inception in 2005, back when Agile was still an emerging movement. This training course was developed and is taught by some of the Philippines' well-known and respected Agile coaches and practitioners, and uses the format trusted by some of the best companies in the Philippines.
+                    </p>
+                </section>
+                <!-- <section>
                     <h4>
                         Course Outline:
                     </h4>
@@ -297,7 +367,7 @@ categories:         training_tracks
                         <li>Introduction to Acceptance Test Driven Development (ATDD)</li>
                         <li>3 Case Studies/Simulations</li>
                     </ul>
-                </section>
+                </section> -->
             </div>
         </div>
     </div>
@@ -322,6 +392,12 @@ categories:         training_tracks
                     <h4>
                         Overview
                     </h4>
+                    <div class="track-details">
+                        <div class="details mr40">
+                            <img src="/assets/img/ico-calendar.svg" alt="">
+                            <h6>DURATION: 2 Days</h6>
+                        </div>
+                    </div>
                     <p>
                         As Martin Fowler wrote in his famous blog post, "Flaccid Scrum", many Agile Software Development efforts fail, because they do not adopt Agile Engineering practices, which are not covered by the Scrum methodology. Agile Engineering practices allow teams to accommodate frequent changes, while still delivering code that is low in bugs, and deployable at the end of each sprint.
                     </p>
@@ -384,6 +460,12 @@ categories:         training_tracks
                     <h4>
                         Overview
                     </h4>
+                    <div class="track-details">
+                        <div class="details mr40">
+                            <img src="/assets/img/ico-calendar.svg" alt="">
+                            <h6>DURATION: 3 Days</h6>
+                        </div>
+                    </div>
                     <p>
                         Design Patterns are recurring software design solutions that can be used to improve new or existing applications. The course teaches both the foundational (aka Gang of Four or GoF) design patterns as well as the Enterprise Application design patterns which focus on building enterprise applications, covering such topics as designing web components, business logic, and persistence.
                     </p>
@@ -401,6 +483,14 @@ categories:         training_tracks
                 </section>
                 <section>
                     <h4>
+                        Benefits of the Program:
+                    </h4>
+                    <p>
+                        Learn established solutions to common problems. Don't reinvent the wheel. Arm your team with a language for describing design concepts and improve productivity. Trainees are able to apply their learning via case studies, which are reviewed and critiqued by industry experts. The course is applicable to any object-oriented programming language.
+                    </p>
+                </section>
+                <!-- <section>
+                    <h4>
                         Course Outline:
                     </h4>
                     <h5 class="course-title">Day 1 - 3 : Design Patterns Training</h5>
@@ -414,7 +504,7 @@ categories:         training_tracks
                         <li class="pl30"> • Persistence</li>
                         <li class="pl30"> • Others</li>
                     </ul>
-                </section>
+                </section> -->
             </div>
         </div>
     </div>

@@ -16,7 +16,7 @@ categories:         other_courses
                             <img src="{{ "assets/img/title-software.png" | relative_url }}" alt="">
                             <div class="title">
                                 <h6>
-                                    < OUR MOST POPULAR TRAINING COURSE />
+                                    < Beyond Java />
                                 </h6>
                                 <h2>Android Course</h2>
                             </div>
@@ -27,6 +27,12 @@ categories:         other_courses
                                     <section id="overview">
                                         <h3>Overview</h3>
                                         <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                        <div class="track-details">
+                                        <div class="details mr40">
+                                            <img src="/assets/img/ico-calendar.svg" alt="">
+                                            <h6>DURATION: 5 Days</h6>
+                                        </div>
+                                    </div>
                                         <p>
                                             An intensive mobile application platform training course geared towards building basic practical knowledge on how to build mobile applications on Android platform. This course is meant to provide current developers a practical foundation in order to learn how to build Android mobile applications. This training course was developed and is taught by some of the Philippines' well-known and respected Android software engineers and architects, and uses the format trusted by some of the best companies in the Philippines.
                                         </p>
@@ -34,7 +40,7 @@ categories:         other_courses
                                             Benefits of the Program
                                         </h4>
                                         <p>
-                                            Participants will be able to have a practical foundation in order to learn how to build Android mobile application.
+                                            Gain a practical foundation for building Android applications.
                                         </p>
                                         <h4>
                                             Prerequisite
@@ -47,7 +53,7 @@ categories:         other_courses
                                         <h3>
                                             Course Outline:
                                         </h3>
-                                        <h5 class="course-title">Day 1 -5 : Android Course</h5>
+                                        <h5 class="course-title">Android Course</h5>
                                         <ul class="course-outline">
                                             <li>Android Overview</li>
                                             <li>Development Environment Setup</li>
@@ -77,10 +83,7 @@ categories:         other_courses
                                                 </div>
                                                 <div id="collapse-1" class="collapse faq-body" aria-labelledby="heading-1" data-parent="#accordion">
                                                     <div class="content">
-                                                        <p>
-                                                            Kindly fill-out the online application form and then submit your resume to
-                                                            <a href="mailto:careers@orangeandbronze.com">careers@orangeandbronze.com</a> and indicate the position in the subject line.
-                                                        </p>
+                                                        Participants must already have a strong programming aptitude in Java and familiarity with the Eclipse IDE.
                                                     </div>
                                                 </div>
                                             </a>
@@ -94,7 +97,7 @@ categories:         other_courses
                                                 <div id="collapse-2" class="collapse faq-body" aria-labelledby="heading-2" data-parent="#accordion">
                                                     <div class="content">
                                                         <p>
-                                                            You will receive an e-mail acknowledgement about your job application. If you are qualified for the position, you will be contacted by a recruiter to invite you to take our examination.
+                                                            Participants will learn about the tools required, and understand the concepts and techniques of developing mobile applications.
                                                         </p>
                                                     </div>
                                                 </div>
