@@ -8943,9 +8943,6 @@ footer {
       color: #222930;
       margin-bottom: 0; }
 
-.gallery-slider {
-  width: 100vw; }
-
 .menu-about {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -9549,9 +9546,11 @@ footer {
       .page-front .section-testimonial > .element-1 {
         display: none; } }
 
-.page-front .section-cta hr {
-  margin: 0;
-  margin-bottom: 60px; }
+.page-front .section-cta {
+  padding-top: 0; }
+  .page-front .section-cta hr {
+    margin: 0;
+    margin-bottom: 60px; }
 
 @media (max-width: 575px) {
   .page-front .section-content {
@@ -9861,6 +9860,7 @@ footer {
     top: 10px; }
 
 .page-about .section-testimonial {
+  padding-top: 170px;
   position: relative;
   overflow: hidden; }
   .page-about .section-testimonial > .element-1 {
@@ -9983,7 +9983,8 @@ footer {
 
 .page-about .section-contact {
   background: url(../img/bg-contact.jpg) center no-repeat;
-  background-size: cover; }
+  background-size: cover;
+  margin-top: 60px; }
 
 .page-about .section-press {
   margin-top: 140px;

@@ -53,32 +53,41 @@ $("#btn-next").click(function(t) {
 // Gallery Slider
 $(document).ready(function() {
   $(".gallery-slider").slick({
-    slidesToShow: 3,
+    slidesToShow: 2,
     slidesToScroll: 1,
     dots: true,
     infinite: false,
     responsive: [
       {
-        breakpoint: 768,
+        breakpoint: 992,
         settings: {
-          arrows: false,
-          centerMode: true,
-          centerPadding: "40px",
-          slidesToShow: 2,
-          slidesToScroll: 1
-        }
-      },
-      {
-        breakpoint: 576,
-        settings: {
-          arrows: false,
-          centerMode: true,
-          centerPadding: "40px",
-          slidesToShow: 2,
-          slidesToScroll: 1
+          slidesToShow: 1,
+          slidesToScroll: 1,
         }
       }
     ]
+    // responsive: [
+    //   {
+    //     breakpoint: 768,
+    //     settings: {
+    //       arrows: false,
+    //       centerMode: true,
+    //       centerPadding: "40px",
+    //       slidesToShow: 2,
+    //       slidesToScroll: 1
+    //     }
+    //   },
+    //   {
+    //     breakpoint: 576,
+    //     settings: {
+    //       arrows: false,
+    //       centerMode: true,
+    //       centerPadding: "40px",
+    //       slidesToShow: 2,
+    //       slidesToScroll: 1
+    //     }
+    //   }
+    // ]
   });
 });
 

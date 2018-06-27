@@ -212,7 +212,7 @@ categories:         training_tracks
 <!-- Modal Course 1 Modal -->
 <div class="modal course-modal fade" id="modalCourse1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-        <img src="img/btn-close.svg" alt="">
+        <img src="{{ "assets/img/btn-close.svg" | relative_url }}" alt="">
     </button>
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
@@ -295,7 +295,7 @@ categories:         training_tracks
 <!-- Modal Course 2 Modal -->
 <div class="modal course-modal fade" id="modalCourse2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-        <img src="img/btn-close.svg" alt="">
+        <img src="{{ "assets/img/btn-close.svg" | relative_url }}" alt="">
     </button>
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
@@ -385,7 +385,7 @@ categories:         training_tracks
 <!-- Modal Course 2 Modal -->
 <div class="modal course-modal fade" id="modalCourse2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-        <img src="img/btn-close.svg" alt="">
+        <img src="{{ "assets/img/btn-close.svg" | relative_url }}" alt="">
     </button>
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
@@ -447,7 +447,7 @@ categories:         training_tracks
 <!-- Modal Course 3 Modal -->
 <div class="modal course-modal fade" id="modalCourse3" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-        <img src="img/btn-close.svg" alt="">
+        <img src="{{ "assets/img/btn-close.svg" | relative_url }}" alt="">
     </button>
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
@@ -508,7 +508,7 @@ categories:         training_tracks
 <!-- Modal Course 4 Modal -->
 <div class="modal course-modal fade" id="modalCourse4" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-        <img src="img/btn-close.svg" alt="">
+        <img src="{{ "assets/img/btn-close.svg" | relative_url }}" alt="">
     </button>
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
