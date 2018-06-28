@@ -7925,14 +7925,23 @@ a {
       position: relative;
       opacity: 0; }
       .overlay ul li a {
-        font-size: 36px;
         font-family: "Aktiv Grotesk", Arial, Helvetica, sans-serif, serif;
         display: block;
         position: relative;
         color: #fff;
         text-decoration: none;
         overflow: hidden;
+        font-size: 50px;
         display: inline-block; }
+        @media (max-width: 575px) {
+          .overlay ul li a {
+            font-size: 24px; } }
+        @media (max-height: 767px) {
+          .overlay ul li a {
+            font-size: 36px !important; } }
+        @media (max-height: 575px) {
+          .overlay ul li a {
+            font-size: 24px !important; } }
         .overlay ul li a:hover:after, .overlay ul li a:focus:after, .overlay ul li a:active:after {
           width: 100%; }
         .overlay ul li a:after {

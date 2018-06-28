@@ -165,13 +165,22 @@ $button-width: 35px;
       opacity: 0;
 
       a {
-        font-size: 36px;
         font-family: $aktiv, serif;
         display: block;
         position: relative;
         color: $color-link;
         text-decoration: none;
         overflow: hidden;
+        font-size: 50px;
+    @include breakpoint(xs){
+      font-size: 24px;
+    }
+    @media (max-height: 767px){
+      font-size:36px!important;
+    }
+    @media (max-height: 575px){
+      font-size: 24px!important;
+    }
         // margin: 10px 0;
         display: inline-block;
         &:hover:after,
