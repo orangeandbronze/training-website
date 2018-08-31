@@ -158,7 +158,7 @@ categories:         training_tracks
                                                 <h4 class="title">
                                                     What are the prerequisites needed before I take this training track?
                                                 </h4>
-                                                <img src="{{ "assets/img/ico-chevron-down" | relative_url }}" alt="" class="ico">
+                                                <img src="{{ "assets/img/ico-chevron-down.svg" | relative_url }}" alt="" class="ico">
                                             </div>
                                             <div id="collapse-1" class="collapse faq-body" aria-labelledby="heading-1" data-parent="#accordion">
                                                 <div class="content">
@@ -174,7 +174,7 @@ categories:         training_tracks
                                                 <h4 class="title">
                                                     What skills should I expect to possess at the end of the course?
                                                 </h4>
-                                                <img src="{{ "assets/img/ico-chevron-down" | relative_url }}" alt="" class="ico">
+                                                <img src="{{ "assets/img/ico-chevron-down.svg" | relative_url }}" alt="" class="ico">
                                             </div>
                                             <div id="collapse-2" class="collapse faq-body" aria-labelledby="heading-2" data-parent="#accordion">
                                                 <div class="content">
@@ -203,7 +203,7 @@ categories:         training_tracks
 <!-- Modal Course 1 Modal -->
 <div class="modal course-modal fade" id="modalCourse1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-        <img src="{{ "assets/img/btn-close" | relative_url }}" alt="">
+        <img src="{{ "assets/img/btn-close.svg" | relative_url }}" alt="">
     </button>
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
@@ -286,7 +286,7 @@ categories:         training_tracks
 <!-- Modal Course 2 Modal -->
 <div class="modal course-modal fade" id="modalCourse2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-        <img src="{{ "assets/img/btn-close" | relative_url }}" alt="">
+        <img src="{{ "assets/img/btn-close.svg" | relative_url }}" alt="">
     </button>
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
@@ -376,7 +376,7 @@ categories:         training_tracks
 <!-- Modal Course 3 Modal -->
 <div class="modal course-modal fade" id="modalCourse3" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-        <img src="{{ "assets/img/btn-close" | relative_url }}" alt="">
+        <img src="{{ "assets/img/btn-close.svg" | relative_url }}" alt="">
     </button>
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
@@ -444,7 +444,7 @@ categories:         training_tracks
 <!-- Modal Course 4 Modal -->
 <div class="modal course-modal fade" id="modalCourse4" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-        <img src="{{ "assets/img/btn-close" | relative_url }}" alt="">
+        <img src="{{ "assets/img/btn-close.svg" | relative_url }}" alt="">
     </button>
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">

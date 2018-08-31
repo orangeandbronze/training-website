@@ -132,7 +132,7 @@ categories:         training_tracks
 
                                         <div class="feedback-slider">
                                             <div class="feedback-card">
-                                                <img class="headshot" src="{{ "assets/img/headshot.png" | relative_url }}" alt="">
+                                                <img class="headshot" src="{{ "/assets/img/client-1.png" | relative_url }}" alt="">
                                                 <h6 class="name">Jowee Reyes</h6>
                                                 <span class="position">Executive Direcctor @ Pointwest Technologies</span>
                                                 <p class="description">

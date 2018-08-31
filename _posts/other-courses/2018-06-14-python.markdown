@@ -74,13 +74,12 @@ categories:         other_courses
                                             <li>Database (csv, sqlite, sqlalchemy, etc.)</li>
                                             <li>Customized libraries or topics upon request by corporate clients</li>
                                         </ul>
-                                        <h5 class="course-title">Day 3: Hackathon</h5>
+                                    </ul>
+                                    <h5 class="course-title">Day 3: Hackathon</h5>
                                 </section>
-
                                 <section id="faq">
                                     <h3>Frequently Asked Questions</h3>
                                     <div class="faq-list" id="accordion">
-
                                         <a class="faq-card">
                                             <div class="faq-header collapsed" id="heading-1" data-toggle="collapse" data-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">
                                                 <h4 class="title">
@@ -111,14 +110,10 @@ categories:         other_courses
                                                 </div>
                                             </div>
                                         </a>
-
                                     </div>
                                 </section>
-
                             </div>
-
                             {%- include training-sidebar-nav.html -%}
-
                         </div>
                     </div>
                 </div>
