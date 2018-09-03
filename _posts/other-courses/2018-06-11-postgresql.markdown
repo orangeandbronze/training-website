@@ -18,7 +18,7 @@ categories:         other_courses
                             <h6>
                                 < Beyond Java />
                             </h6>
-                            <h2>PostgreSQL Course Course</h2>
+                            <h2>PostgreSQL Course</h2>
                         </div>
                     </div>
                     <div class="row" data-sticky-container>
