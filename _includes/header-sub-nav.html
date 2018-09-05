@@ -27,6 +27,18 @@
                     
                     {% endif %}
 
+                    {% if path.title == "Business" %}
+
+                        {% for item in path.items %}
+
+                            <li>
+                                <a href="{{ item.url }}">{{ item.page }}</a>
+                            </li>
+
+                        {% endfor %}
+                    
+                    {% endif %}
+
                 {% else %}
 
                     <li>
@@ -38,4 +50,4 @@
             {% endfor %}
         </ul>
     </nav>
-</div>
+</div> 
