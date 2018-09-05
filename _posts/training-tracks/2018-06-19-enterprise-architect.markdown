@@ -233,14 +233,6 @@ categories:         training_tracks
                 </section>
                 <section>
                     <h4>
-                        Prerequisite:
-                    </h4>
-                    <p>
-                        Agile Engineering & Java Best Practices, Introduction to Java Enterprise Development: Persistence, Concurrency, Business Logic, Web
-                    </p>
-                </section>
-                <section>
-                    <h4>
                         Who Should Attend:
                     </h4>
                     <p>
