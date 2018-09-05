@@ -307,7 +307,7 @@ categories:         training_tracks
                      <div class="track-details">
                         <div class="details mr40">
                             <img src="/assets/img/ico-calendar.svg" alt="">
-                            <h6>DURATION: 4 Days</h6>
+                            <h6>DURATION: 5 Days</h6>
                         </div>
                     </div>
                     <p>
