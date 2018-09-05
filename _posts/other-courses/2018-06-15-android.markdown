@@ -1,4 +1,4 @@
----
+<!-- ---
 layout:             training-tracks
 class:              trackdetails
 title:              Android
@@ -6,7 +6,7 @@ short_description:  This Android training courses are meant to provide both begi
 image:              assets/img/course-android.png
 date:               2018-06-15 08:00:00 +0800
 categories:         other_courses
----
+--- -->
 <div class="section-content">
         <div class="container-fluid auto-1110">
             <div class="row">

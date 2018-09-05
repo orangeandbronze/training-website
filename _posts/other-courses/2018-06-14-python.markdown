@@ -1,8 +1,8 @@
 ---
 layout:             training-tracks
 class:              trackdetails
-title:              Python
-short_description:  O&B offers Python training courses for both beginners and intermediate participants.
+title:              Python for Beginners
+short_description:  Learn the basics of Python development. 
 image:              assets/img/course-python.png
 date:               2018-06-14 08:00:00 +0800
 categories:         other_courses
