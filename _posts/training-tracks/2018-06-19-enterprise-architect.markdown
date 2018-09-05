@@ -18,7 +18,7 @@ categories:         training_tracks
                         <img src="{{ "assets/img/title-software.png" | relative_url }}" alt="">
                         <div class="title">
                             <h6>
-                                < BUILDING A ROBUST BLUEPRINT FOR SUCCESS />
+                                < METHODOLOGIES FOR PROJECT SUCCESS />
                             </h6>
                             <h2>Enterprise Architect Track</h2>
                         </div>
@@ -163,8 +163,7 @@ categories:         training_tracks
                                             <div id="collapse-1" class="collapse faq-body" aria-labelledby="heading-1" data-parent="#accordion">
                                                 <div class="content">
                                                     <p>
-                                                        Kindly fill-out the online application form and then submit your resume to
-                                                        <a href="mailto:careers@orangeandbronze.com">careers@orangeandbronze.com</a> and indicate the position in the subject line.
+                                                        Trainees must have at least 5 years experience in enterprise Java development whether as software developers, software architects, or as quality assurance engineers.
                                                     </p>
                                                 </div>
                                             </div>
@@ -179,7 +178,7 @@ categories:         training_tracks
                                             <div id="collapse-2" class="collapse faq-body" aria-labelledby="heading-2" data-parent="#accordion">
                                                 <div class="content">
                                                     <p>
-                                                        You will receive an e-mail acknowledgement about your job application. If you are qualified for the position, you will be contacted by a recruiter to invite you to take our examination.
+                                                        Trainees will learn process methodologies which are proven to dramatically improve quality and predictability of software projects without incurring high overhead costs and without the need to purchase expensive tools, as well as improve code quality, and make code easy to change and enhance.
                                                     </p>
                                                 </div>
                                             </div>
