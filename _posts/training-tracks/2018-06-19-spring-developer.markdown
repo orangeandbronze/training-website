@@ -158,8 +158,7 @@ categories:         training_tracks
                                             <div id="collapse-1" class="collapse faq-body" aria-labelledby="heading-1" data-parent="#accordion">
                                                 <div class="content">
                                                     <p>
-                                                        Kindly fill-out the online application form and then submit your resume to
-                                                        <a href="mailto:careers@orangeandbronze.com">careers@orangeandbronze.com</a> and indicate the position in the subject line.
+                                                        Trainees must have attended our "Agile Engineering & Java Best Practices" and "Introduction to Java Enterprise Development" courses, or have expertise in the topics tackled in these courses.
                                                     </p>
                                                 </div>
                                             </div>
@@ -174,7 +173,7 @@ categories:         training_tracks
                                             <div id="collapse-2" class="collapse faq-body" aria-labelledby="heading-2" data-parent="#accordion">
                                                 <div class="content">
                                                     <p>
-                                                        You will receive an e-mail acknowledgement about your job application. If you are qualified for the position, you will be contacted by a recruiter to invite you to take our examination.
+                                                        Trainees will know how to use the Spring Framework to develop Java applications, create concurrent applications and schedule tasks using Spring, use Spring Batch for Enterprise Integration based on batch processing, and use the Spring Framework to develop Web applications implementing RESTful services using Spring MVC.
                                                     </p>
                                                 </div>
                                             </div>
@@ -268,7 +267,6 @@ categories:         training_tracks
                     <h4>
                         Course Outline:
                     </h4>
-                    <h5 class="course-title">Day 1-3 : Core Java & Commonly-Used Libraries</h5>
                     <ul class="course-outline">
                         <li>Annotation-based and XML Dependency Injection</li>
                         <li>Understanding Bean Lifecycle</li>
