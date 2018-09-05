@@ -85,8 +85,7 @@ categories:         other_courses
                                             <div id="collapse-1" class="collapse faq-body" aria-labelledby="heading-1" data-parent="#accordion">
                                                 <div class="content">
                                                     <p>
-                                                        Kindly fill-out the online application form and then submit your resume to
-                                                        <a href="mailto:careers@orangeandbronze.com">careers@orangeandbronze.com</a> and indicate the position in the subject line.
+                                                        Trainees must have attended our "MongoDB Fundamentals" and "Java Enterprise Development Fundamentals" courses, or have familiarity with the topics discussed in these courses.
                                                     </p>
                                                 </div>
                                             </div>
@@ -101,7 +100,7 @@ categories:         other_courses
                                             <div id="collapse-2" class="collapse faq-body" aria-labelledby="heading-2" data-parent="#accordion">
                                                 <div class="content">
                                                     <p>
-                                                        You will receive an e-mail acknowledgement about your job application. If you are qualified for the position, you will be contacted by a recruiter to invite you to take our examination.
+                                                        Trainees should have a good understanding as to how applications are built on top of MongoDB using Java. 
                                                     </p>
                                                 </div>
                                             </div>
