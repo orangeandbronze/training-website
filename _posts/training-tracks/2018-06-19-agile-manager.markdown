@@ -466,17 +466,20 @@ categories:         training_tracks
                     <div class="track-details">
                         <div class="details mr40">
                             <img src="/assets/img/ico-calendar.svg" alt="">
-                            <h6>DURATION: 2 Days</h6>
+                            <h6>DURATION: 5 Days</h6>
                         </div>
                     </div>
                     <p>
-                        Most test-automation initiatives fail. Regardless of how much money companies invest in tools, testers often end up abandoning their expensive tools and revert to manual testing, complaining that test automation takes “too much time”. Tests are fragile - they easily break with changes to the UI, and are not portable across different UI technologies.
+                        As Martin Fowler wrote in his famous blog post, "Flaccid Scrum", many Agile Software Development efforts fail, because they do not adopt Agile Engineering practices, which are not covered by the Scrum methodology. Agile Engineering practices allow teams to accommodate frequent changes, while still delivering code that is low in bugs, and deployable at the end of each sprint.
                     </p>
                     <p>
-                        Agile Testing takes a very different approach to testing, which involves changes to software development processes and even system design. Testing begins from requirements elicitation, and is conducted in different ways and with different tools in system design and in coding.
+                        This course goes beyond an academic discussion of Object-Oriented Design and goes into a deep discussion of its effects on practical software engineering concerns such as maintainability, testability and reuse. The course then proceeds to discuss critical Java best practices which affect performance and correctness. This is followed by a discussion on modern software engineering approaches of Test-Driven Development and Refactoring, which improve the quality and maintainability of the codebase.
                     </p>
                     <p>
-                        Automated tests can be written even before modules are built. Also, functional tests do not break even with large changes to the UI, or even complete changes in UI technology.
+                        Students are provided with numerous hands-on exercises, the most challenging of which is the final team machine problem, which includes changes to requirements mid-way!
+                    </p>
+                    <p>
+                        The course culminates in a Code Review, where students present their solutions to the final machine problem to the class, for review and critique by the instructor as well as by the entire class on the basis of Object-Oriented Design principles and Java Best Practices. This activity has been effective in drilling-in proper practices and approaches to the students.
                     </p>
                 </section>
                 <section>
@@ -484,20 +487,23 @@ categories:         training_tracks
                         Prerequisite:
                     </h4>
                     <p>
-                        Core Java & Commonly-Used Java Libraries and HTML
+                        Trainees must be familiar with Core Java & Commonly-Used Libraries.
                     </p>
                 </section>
                 <section>
                     <h4>
                         Course Outline:
                     </h4>
-                    <h5 class="course-title">Day 1 - 2 : Agile Testing & Test Automation</h5>
                     <ul class="course-outline">
                         <li>Agile Engineering Overview</li>
-                        <li>Acceptance Test-Driven Development (ATDD)</li>
-                        <li>Functional Testing w/ Concordion</li>
-                        <li>UI Testing w/ Selenium</li>
-                        <li>Load Testing with JMeter</li>
+                        <li>Review of Object-Oriented Programming</li>
+                        <li>Object-Oriented Design</li>
+                        <li>Version Control w/ Git</li>
+                        <li>Unit Testing and Test Driven Development</li>
+                        <li>Refactoring</li>
+                        <li>Java Best Practices</li>
+                        <li>Machine Problem</li>
+                        <li>Code Review</li>
                     </ul>
                 </section>
             </div>
