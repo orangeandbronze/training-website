@@ -8228,6 +8228,14 @@ footer {
       margin-bottom: 0; }
 
 /* 5. Components*/
+#all-courses .card-othercourse {
+  display: block !important; }
+  #all-courses .card-othercourse .description {
+    margin-left: 0; }
+
+#all-courses .image, #all-courses .footer {
+  display: none !important; }
+
 .card-about {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -8484,6 +8492,8 @@ footer {
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between; }
+  .card-othercourse .body {
+    width: 100%; }
   @media (max-width: 767px) {
     .card-othercourse {
       width: 100%; } }
