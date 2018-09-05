@@ -172,8 +172,10 @@ categories:         training_tracks
                                             <div id="collapse-1" class="collapse faq-body" aria-labelledby="heading-1" data-parent="#accordion">
                                                 <div class="content">
                                                     <p>
-                                                        Kindly fill-out the online application form and then submit your resume to
-                                                        <a href="mailto:careers@orangeandbronze.com">careers@orangeandbronze.com</a> and indicate the position in the subject line.
+                                                        Trainees must have attended our "Core Java & Commonly-Used Libraries" course, or have expertise in the topics tackled in this course if they are attending the "Agile Engineering and Best Practices" and "Agile Testing and Test Automation" courses.
+                                                    </p>
+                                                    <p>
+                                                        There are no prerequisites for the "Core Agile" and the "Agile Requirements, Estimation, and Planning" workshops.
                                                     </p>
                                                 </div>
                                             </div>
@@ -188,7 +190,7 @@ categories:         training_tracks
                                             <div id="collapse-2" class="collapse faq-body" aria-labelledby="heading-2" data-parent="#accordion">
                                                 <div class="content">
                                                     <p>
-                                                        You will receive an e-mail acknowledgement about your job application. If you are qualified for the position, you will be contacted by a recruiter to invite you to take our examination.
+                                                        At the end of the course, participants are expected to gain a wide view of the methodologies and practices available in Agile, and to which situation each is applicable; learn how Agile values affect requirements engineering; be familiar with the effects of practical software engineering concerns such as maintainability, testability and reuse; and learn a very different approach to testing, which involves changes to software development processes and even system design.
                                                     </p>
                                                 </div>
                                             </div>
