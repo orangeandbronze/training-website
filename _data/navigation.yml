@@ -5,6 +5,8 @@ paths:
         url: /training/tracks
       - page: Other Courses
         url: /training/other
+      - page: All Courses
+        url: /training/all
   - title: Business
     items:
       - page: Business Solutions

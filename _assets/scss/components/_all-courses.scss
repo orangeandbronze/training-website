@@ -1,0 +1,13 @@
+#all-courses{
+	.card-othercourse{
+		display: block !important;
+		.description{
+			margin-left: 0;
+			text-align: left;
+		}
+	}
+
+	.image, .footer{
+		display: none !important;
+	}
+}
