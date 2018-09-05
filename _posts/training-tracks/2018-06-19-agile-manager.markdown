@@ -18,7 +18,7 @@ categories:         training_tracks
                         <img src="{{ "assets/img/title-software.png" | relative_url }}" alt="">
                         <div class="title">
                             <h6>
-                                < A FASTER, FLEXIBLE AND POWERFUL PROCESS />
+                                < INCREMENTAL AND ITERATIVE DELIVERY OF SOFTWARE APPLICATIONS />
                             </h6>
                             <h2>Agile Manager Track</h2>
                         </div>
@@ -566,7 +566,6 @@ categories:         training_tracks
                     <h4>
                         Course Outline:
                     </h4>
-                    <h5 class="course-title">Day 1 - 3 : Core Spring (lecture and exercises)</h5>
                     <ul class="course-outline">
                         <li>Agile Testing Overview</li>
                         <li>Acceptance Test-Driven Development (ATDD)</li>
