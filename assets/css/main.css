@@ -8231,7 +8231,8 @@ footer {
 #all-courses .card-othercourse {
   display: block !important; }
   #all-courses .card-othercourse .description {
-    margin-left: 0; }
+    margin-left: 0;
+    text-align: left; }
 
 #all-courses .image, #all-courses .footer {
   display: none !important; }
