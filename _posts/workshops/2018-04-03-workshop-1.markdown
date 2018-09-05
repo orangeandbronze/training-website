@@ -2,5 +2,5 @@
 date:         2018-04-03 08:01:00 +0800
 categories:   workshops
 image:        assets/img/gallery-1.jpg
-description:  JavaScriptFundamentals - AIG Shared Services
+description:  Javascript Fundamentals for AIG Shared Services
 ---
