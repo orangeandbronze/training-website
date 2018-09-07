@@ -2,5 +2,5 @@
 date:         2018-04-03 08:03:00 +0800
 categories:   workshops
 image:        assets/img/gallery-3.jpg
-description:  Core Java and Commonly Used Libraries -Network Enterprise Technology Center, Army Signal Regiment (P) Philippine Army
+description:  Core Java and Commonly User Libraries for the Philippine Army
 ---
