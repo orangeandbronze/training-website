@@ -7,7 +7,7 @@ paths:
         url: /training/other
       - page: All Courses
         url: /training/all
-  - title: Business
+  - title: Solutions
     items:
       - page: Business Solutions
         url: /business/solutions
