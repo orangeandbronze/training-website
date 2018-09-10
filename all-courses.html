@@ -8,29 +8,6 @@ header_title: "software engineering done right"
 header_description: "O&B has built a reputation on hiring and training skilled software engineers. We have experience developing enterprise applications using Java, Spring, Hibernate."
 ---
 
-<!-- <section class="section-content">
-    <div class="container">
-        <div class="row">
-            <div class="d-lg-none col-lg-1 d-xl-block"></div>
-            <div class="col-xs-12 col-sm-12 col-md-8 col-lg-6 col-xl-5">
-                <h6>[ SOFTWARE ENGINEERING DONE RIGHT ]</h6>
-                <H3>ALL Courses We Offer</H3>
-                <img class="hr" src="{{ "assets/img/hr.svg" | relative_url }}">
-                <p>
-                    O&B University provides a range of other training courses that can serve as a complement or as an enhancement for our main offerings. These classes follow the same format as our other courses - heavy on hands-on exercises and focused discussion of best practices based on the real life working experiences of our instructors.
-                </p>
-                <p>
-                    Gain practical knowledge via lectures, hands-on exercises, and insights from our instructors.
-                </p>
-            </div>
-            <div class="d-none d-sm-none d-md-block col-md-4 col-lg-6 col-xl-5 text-right">
-                <img class="img-fluid" src="{{ "assets/img/img-feature7.png" | relative_url }}" alt="">
-            </div>
-            <div class="d-lg-none col-lg-1 d-xl-block"></div>
-        </div>
-
-    </div>
-</section> -->
 <section class="section-courses">
     <div class="element-1">
         <img src="{{ " assets/img/bg-element5.svg " | relative_url }}" alt="">
@@ -45,33 +22,6 @@ header_description: "O&B has built a reputation on hiring and training skilled s
         </div>
     </div>
     <div class="container">
-        <!-- <div class="row">
-            {% for course in site.categories.other_courses %}
-            <div class="col-sm-12 col-md-6">
-                <div class="card-container">
-                    <div class="card-border"></div>
-                    <div class="card-othercourse">
-                        <div class="body">
-                            <div class="image">
-                                <img src="{{ course.image | relative_url }}" alt="">
-                            </div>
-                            <div class="description">
-                                <h4>{{ course.title }}</h4>
-                                <p>
-                                    {{ course.short_description }}
-                                </p>
-                            </div>
-                        </div>
-                        <div class="footer">
-                            <a href="{{ course.url }}" class="btn -primary mt20">
-                                    <img src="{{ "assets/img/ico-arrow-white.svg" | relative_url }}" class="ico" alt=""> View Details
-                                </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            {% endfor %}
-        </div> -->
         <div class="row" id="all-courses">
             <div class="col-sm-12 col-md-6">
                 <div class="card-container">
@@ -112,11 +62,11 @@ header_description: "O&B has built a reputation on hiring and training skilled s
                                 <h4>Java Framework</h4>
                                 <p>
                                     <ul>
-                                        <li>Core Spring Training</li>
-                                        <li>JPA/Hibernate Training</li>
-                                        <li>Combined Spring and JPA/Hibernate Training</li>
-                                        <li>Enterprise Integration with Spring Training</li>
-                                        <li>Spring Web Training</li>
+                                        <li><a href="/java-framework/core-spring/">Core Spring Training</a></li>
+                                        <li><a href="/java-framework/jpa-hibernate/">JPA/Hibernate Training</a></li>
+                                        <li><a href="/java-framework/spring-jpa-hibernate">Combined Spring and JPA/Hibernate Training</a></li>
+                                        <li><a href="/java-framework/enterprise-spring">Enterprise Integration with Spring Training</a></li>
+                                        <li><a href="/java-framework/spring-web">Spring Web Training</a></li>
                                     </ul>
                                 </p>
                             </div>
@@ -167,10 +117,10 @@ header_description: "O&B has built a reputation on hiring and training skilled s
                                 <h4>Enterprise Architecture</h4>
                                 <p>
                                     <ul>
-                                        <li>Object-Oriented Analysis & Design</li>
-                                        <li>Design Patterns Training</li>
-                                        <li>Test-Driven Development in Java</li>
-                                        <li>Advanced Test-Driven Development in Java</li>
+                                        <li><a href="/enterprise/ooad">Object-Oriented Analysis & Design</a></li>
+                                        <li><a href="/enterprise/design-patterns">Design Patterns Training</a></li>
+                                        <li><a href="/enterprise/tdd">Test-Driven Development in Java</a></li>
+                                        <li><a href="/enterprise/advanced-tdd">Advanced Test-Driven Development in Java</a></li>
                                     </ul>
                                 </p>
                             </div>
@@ -225,7 +175,7 @@ header_description: "O&B has built a reputation on hiring and training skilled s
                                 <p>
                                     <ul>
                                         <li><a href="/other_courses/jmeter/">Introduction to Load Testing with JMeter</a></li>
-                                        <li>Agile Testing and Test Automation</li>
+                                        <li><a href="/other_courses/agile-test-automation/">Agile Testing and Test Automation</a></li>
                                     </ul>
                                 </p>
                             </div>

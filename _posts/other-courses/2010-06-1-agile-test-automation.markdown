@@ -1,7 +1,7 @@
 ---
 layout:             training-tracks
 class:              trackdetails
-title:              SQL (Structured Query Language)
+title:              Agile Testing & Test Automation
 short_description:  Understand how business requirements become database designs, and the basics of reading and writing to a relational database using SQL.
 image:              assets/img/course-sql.png
 date:               2018-06-12 08:00:00 +0800
@@ -18,7 +18,7 @@ categories:         other_courses
                                 <h6>
                                     < Beyond Java />
                                 </h6>
-                                <h2>SQL Course</h2>
+                                <h2>Agile Testing & Test Automation</h2>
                             </div>
                         </div>
                         <div class="row" data-sticky-container>
@@ -43,28 +43,35 @@ categories:         other_courses
                                             Audience
                                         </h4>
                                         <p>
-                                            Anyone that wants a high-level appreciation of managing data stored in relational databases including developers, business analysts, QA, testers, and project managers.
+                                            Testers, Software Development Managers, Senior Software Engineers (team leaders that want to understand test-automation better)
                                         </p>
                                         <h4>
                                             Prerequisite
                                         </h4>
                                         <p>
-                                            None
+                                            Core Java and Commonly-Used Libraries<br/>HTML
                                         </p>
                                     </section>
                                     <section id="topic-outline">
                                         <h3>
                                             Topic Outline:
                                         </h3>
-                                        <h5 class="course-title">SQL Fundamentals</h5>
+                                        <h5 class="course-title">Agile Testing & Test Automation</h5>
                                         <ul class="course-outline">
-                                            <li>Data Retrieval</li>
-                                            <li>Restricting and Sorting Data</li>
-                                            <li>Single Row and Conversion Functions</li>
-                                            <li>Aggregating Data Using Group Functions</li>
-                                            <li>Retrieving Data from Multiple Tables</li>
-                                            <li>Using Subqueries and Set Operators</li>
-                                            <li>Manipulating Data and Transactions</li>
+                                        <li>Agile Testing Overview</li>
+                                        <li>Acceptance Test-Driven Development (ATDD)</li>
+                                        <li>Functional Testing w/ Concordion</li>
+                                        <li>UI Testing w/ Selenium</li>
+                                        <li>Load Testing with JMeter</li>
+                                        </ul>
+                                    </section>
+                                    <section>
+                                        <h3>
+                                            Related Courses
+                                        </h3>
+                                        <ul class="course-outline">
+                                        <li>Core Agile Workshop with Scrum, Extreme Programming, and Kanban</li>
+                                        <li>User Story Workshop: Agile Requirements, Estimation & Planning</li>
                                         </ul>
                                     </section>
 

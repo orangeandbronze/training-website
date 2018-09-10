@@ -1,0 +1,134 @@
+---
+layout:             training-tracks
+class:              trackdetails
+title:              Object-Oriented Analysis & Design
+short_description:  MongoDB is a popular non-SQL database that stores data as JSON-like documents.
+date:               2018-06-10 08:00:00 +0800
+categories:         enterprise
+---
+<div class="section-content">
+    <div class="container-fluid auto-1110">
+        <div class="row">
+            <div class="col">
+                <div class="panel-content">
+                    <div class="title-section">
+                        <img src="{{ "assets/img/title-software.png" | relative_url }}" alt="">
+                        <div class="title">
+                            <h6>
+                                < beyond java />
+                            </h6>
+                            <h2>Object-Oriented Analysis & Design</h2>
+                        </div>
+                    </div>
+                    <div class="row" data-sticky-container>
+                        <div class="track-panel">
+                            <div class="track-content">
+                                <section id="overview">
+                                    <h3>Overview</h3>
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                    <div class="track-details">
+                                        <div class="details mr40">
+                                            <img src="/assets/img/ico-calendar.svg" alt="">
+                                            <h6>DURATION: 3 Days</h6>
+                                        </div>
+                                    </div>
+                                    <p>This course is applicable for both Business Analysts and Software Engineers to understand the process of transforming business requirements into an initial system design. Trainees will learn how to create a design that effectively models the business domain, while being maintainable through loose coupling and high cohesion. They will also become familiar with UML notation in order to express analysis and design concepts via a common visual language. Agile concepts will also be introduced in order for students to approach design in an iterative and lightweight approach.</p>
+                                    <p>This course combines concepts derived from the experiences of O&B engineers, architects and analysts, as well as from the books "Applying UML and Patterns" by Craig Larman, "Analysis Patterns" by Martin Fowler, "The Data Model Resource Book" by Len Silverston, and "Data Model Patterns" by David Hay.</p>
+                                    <h4>Prerequisite</h4>
+                                    <p>Basic programming knowledge.</p>
+                                    <h4>Benefits of the program</h4>
+                                    <p>Trainees will learn to do the following:</p>
+                                    <ul>
+                                    <li>Enable your team with the tools and processes to understand &amp; document a business domain.</li>
+                                    <li>Avoid design disasters before they happen.</li>
+                                    <li>Learn design guidelines to avoid bugs, reduce programming time, and make code modifications much quicker.</li>
+                                    <li>Arm your team with a graphical notation for describing design.</li>
+                                    </ul>
+                                </section>
+                                <section id="topic-outline">
+                                    <h3>
+                                        Topic Outline:
+                                    </h3>
+                                    <h5 class="course-title">Object-Oriented Analysis & Design</h5>
+                                    <ul>
+                                    <li>Domain Modeling
+                                    <ul>
+                                    <li>Modeling of business entities and their relationships</li>
+                                    </ul>
+                                    </li>
+                                    <li>Domain Modeling
+                                    <ul>
+                                    <li>Assignment of behaviors to components in software, closely following real-world business relationships</li>
+                                    </ul>
+                                    </li>
+                                    <li>UML Class Diagrams
+                                    <ul>
+                                    <li>Modeling of static relationships</li>
+                                    </ul>
+                                    </li>
+                                    <li>UML Sequence Diagrams
+                                    <ul>
+                                    <li>Modeling of dynamic relationships</li>
+                                    </ul>
+                                    </li>
+                                    <li>General Responsibility Assignment Software Patterns (GRASP)
+                                    <ul>
+                                    <li>General principles for assignment of responsibilities in software components.</li>
+                                    </ul>
+                                    </li>
+                                    <li>Case Study</li>
+                                    </ul>
+                                </section>
+                                <!-- <section>
+                                    <h3>
+                                        Related Course:
+                                    </h3>
+                                    <ul class="course-outline">
+                                    <li>Enterprise Integration with Spring Training</li>
+                                    <li>Core Spring Training</li>
+                                    </ul>
+                                </section> -->
+                                <!-- <section id="faq">
+                                    <h3>Frequently Asked Questions</h3>
+                                    <div class="faq-list" id="accordion">
+                                        <a class="faq-card">
+                                            <div class="faq-header collapsed" id="heading-1" data-toggle="collapse" data-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">
+                                                <h4 class="title">
+                                                    What are the prerequisites needed before I take this training track?
+                                                </h4>
+                                                <img src="{{ "assets/img/ico-chevron-down.svg" | relative_url }}" alt="" class="ico">
+                                            </div>
+                                            <div id="collapse-1" class="collapse faq-body" aria-labelledby="heading-1" data-parent="#accordion">
+                                                <div class="content">
+                                                    <p>
+                                                        None.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                        <a class="faq-card">
+                                            <div class="faq-header collapsed" id="heading-2" data-toggle="collapse" aria-expanded="false" data-target="#collapse-2" aria-controls="collapse-2">
+                                                <h4 class="title">
+                                                    What skills should I expect to possess at the end of the course?
+                                                </h4>
+                                                <img src="{{ "assets/img/ico-chevron-down.svg" | relative_url }}" alt="" class="ico">
+                                            </div>
+                                            <div id="collapse-2" class="collapse faq-body" aria-labelledby="heading-2" data-parent="#accordion">
+                                                <div class="content">
+                                                    <p>
+                                                       Learn basic installation and creating creating databases and collections.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </section> -->
+                            </div>
+                            {%- include training-sidebar-nav.html -%}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
