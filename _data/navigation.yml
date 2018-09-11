@@ -1,5 +1,5 @@
 paths:
-  - title: Trainings
+  - title: Training
     items:
       - page: Training Tracks
         url: /training/tracks
@@ -10,9 +10,9 @@ paths:
   - title: Solutions
     items:
       - page: Training Solutions
-        url: /training-solutions
-      - page: Customized Trainings
-        url: /customized-trainings
+        url: /training-solution
+      - page: Customized Training
+        url: /customized-training
   - title: About
     items:
       - page: Our Story
