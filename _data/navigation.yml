@@ -9,10 +9,10 @@ paths:
         url: /training/all
   - title: Solutions
     items:
-      - page: Business Solutions
-        url: /business/solutions
-      - page: Corporate Trainings
-        url: /corporate/trainings
+      - page: Training Solutions
+        url: /training-solutions
+      - page: Customized Trainings
+        url: /customized-trainings
   - title: About
     items:
       - page: Our Story
