@@ -15,19 +15,19 @@
 
                 {% elsif path.items %}
 
-                    {% if path.title == "Trainings" %}
+                    {% if path.title == "Training" %}
 
                         {% for item in path.items %}
 
                             <li>
                                 <a href="{{ item.url }}">{{ item.page }}</a>
                             </li>
-
+ 
                         {% endfor %}
                     
                     {% endif %}
 
-                    {% if path.title == "Business" %}
+                    {% if path.title == "Solutions" %}
 
                         {% for item in path.items %}
 
