@@ -1,0 +1,75 @@
+---
+layout:             training-tracks
+class:              trackdetails
+title:              Web Services API Testing with SoapUI
+short_description:  This training course will cover the fundamentals of running custom load and performance tests with JMeter.
+image:              assets/img/course-jmeter.png
+date:               2018-06-9 08:00:00 +0800
+categories:         other_courses
+---
+<div class="section-content">
+    <div class="container-fluid auto-1110">
+        <div class="row">
+            <div class="col">
+                <div class="panel-content">
+                    <div class="title-section">
+                        <img src="{{ "assets/img/title-software.png" | relative_url }}" alt="">
+                        <div class="title">
+                            <h6>
+                                < OUR MOST POPULAR TRAINING COURSE />
+                            </h6>
+                            <h2>Web Services API Testing with SoapUI</h2>
+                        </div>
+                    </div>
+                    <div class="row" data-sticky-container>
+                        <div class="track-panel">
+                            <div class="track-content">
+                                <section id="overview">
+                                    <h3>Overview</h3>
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                    <div class="track-details">
+                                        <div class="details mr40">
+                                            <img src="/assets/img/ico-calendar.svg" alt="">
+                                            <h6>DURATION: 1 Day</h6>
+                                        </div>
+                                    </div>
+                                    <p>
+                                        Web services APIs are ubiquitous in modern enterprise applications, and SoapUI is the most popular tool for automating the testing of web services APIs.
+                                    </p>
+                                    <h4>
+                                        Prerequisite
+                                    </h4>
+                                    <p>
+                                        None
+                                    </p>
+                                </section>
+                                <section id="topic-outline">
+                                    <h3>
+                                        Topic Outline:
+                                    </h3>
+                                    <h5 class="course-title">Web Services API Testing with SoapUI</h5>
+                                    <ul class="course-outline">
+                                        <li>Introduction to SoapUI and Web Services Testing</li>
+                                        <li>Creating a project</li>
+                                        <li>Creating a test suite</li>
+                                        <li>Create a test case</li>
+                                        <li>Assertions</li>
+                                        <li>Connecting to services</li>
+                                        <li>Running basic tests</li>
+                                        <li>Creating multiple requests</li>
+                                        <li>Validating requests</li>
+                                        <li>Events</li>
+                                        <li>Properties</li>
+                                        <li>Generating Artifacts</li>
+                                        <li>Composite Projects</li>
+                                    </ul>
+                                </section>
+                            </div>
+                            {%- include training-sidebar-nav.html -%}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,68 @@
+---
+layout:             training-tracks
+class:              trackdetails
+title:              Database Testing & Test Data Management with DB Unit
+short_description:  This training course will cover the fundamentals of running custom load and performance tests with JMeter.
+image:              assets/img/course-jmeter.png
+date:               2018-06-9 08:00:00 +0800
+categories:         other_courses
+---
+<div class="section-content">
+    <div class="container-fluid auto-1110">
+        <div class="row">
+            <div class="col">
+                <div class="panel-content">
+                    <div class="title-section">
+                        <img src="{{ "assets/img/title-software.png" | relative_url }}" alt="">
+                        <div class="title">
+                            <h6>
+                                < OUR MOST POPULAR TRAINING COURSE />
+                            </h6>
+                            <h2>Database Testing & Test Data Management with DB Unit</h2>
+                        </div>
+                    </div>
+                    <div class="row" data-sticky-container>
+                        <div class="track-panel">
+                            <div class="track-content">
+                                <section id="overview">
+                                    <h3>Overview</h3>
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                    <div class="track-details">
+                                        <div class="details mr40">
+                                            <img src="/assets/img/ico-calendar.svg" alt="">
+                                            <h6>DURATION: 1 Day</h6>
+                                        </div>
+                                    </div>
+                                    <p>
+                                        One of the toughest and most tedious part of enterprise testing is preparing the database with the right test data for each test, and then resetting the data after each test. This is exactly what DB Unit does. Before each test, DB Unit will load the pre-defined “data set” appropriate for each test. In can also do clean up or resetting of the database after each test. DB Unit can also validate the values written on the database.
+                                    </p>
+                                    <h4>
+                                        Prerequisite
+                                    </h4>
+                                    <p>
+                                        Core java<br/>JUnit Fundamentals
+                                    </p>
+                                </section>
+                                <section id="topic-outline">
+                                    <h3>
+                                        Topic Outline:
+                                    </h3>
+                                    <h5 class="course-title">Database Testing & Test Data Management with DB Unit</h5>
+                                    <ul class="course-outline">
+                                        <li>DB Unit Overview</li>
+                                        <li>Project Setup</li>
+                                        <li>Writing at dataset</li>
+                                        <li>Connecting to a database</li>
+                                        <li>Reading the dataset</li>
+                                        <li>Asserting</li>
+                                    </ul>
+                                </section>
+                            </div>
+                            {%- include training-sidebar-nav.html -%}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -34,10 +34,7 @@ categories:         other_courses
                                         </div>
                                     </div>
                                     <p>
-                                        This training course will cover the fundamentals of running custom load and performance tests with JMeter. We will discuss the most important aspects of JMeter, as well as the best practices in using this tool.
-                                    </p>
-                                    <p>
-                                        This training course was developed and is taught by some of the Philippines’ well-known and respected web developers, and uses the format trusted by some of the best companies in the Philippines.
+                                        The most common “works on my machine” scenarios usually involve load. Things that run fine when being tested on light load become unusable on production load. JMeter automates load testing by being able to simulate thousands of users, each with their own cookies and programmed behavior, to realistically test a systems response to large loads.
                                     </p>
                                     <h4>
                                         Audience

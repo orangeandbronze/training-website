@@ -1,0 +1,73 @@
+---
+layout:             training-tracks
+class:              trackdetails
+title:              JUnit Fundamentals
+short_description:  Understand how business requirements become database designs, and the basics of reading and writing to a relational database using SQL.
+image:              assets/img/course-sql.png
+date:               2018-06-12 08:00:00 +0800
+categories:         other_courses
+---
+<div class="section-content">
+        <div class="container-fluid auto-1110">
+            <div class="row">
+                <div class="col">
+                    <div class="panel-content">
+                        <div class="title-section">
+                            <img src="{{ "assets/img/title-software.png" | relative_url }}" alt="">
+                            <div class="title">
+                                <h6>
+                                    < Beyond Java />
+                                </h6>
+                                <h2>JUnit Fundamentals</h2>
+                            </div>
+                        </div>
+                        <div class="row" data-sticky-container>
+                            <div class="track-panel">
+                                <div class="track-content">
+                                    <section id="overview">
+                                        <h3>Overview</h3>
+                                        <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                        <div class="track-details">
+                                        <div class="details mr40">
+                                            <img src="/assets/img/ico-calendar.svg" alt="">
+                                            <h6>DURATION: 1/2 Days</h6>
+                                        </div>
+                                    </div>
+                                        <p>
+                                            JUnit is the most popular Java test automation tool in the world, and the foundation for the majority of Java test automation tools, including Selenium Web Driver, Cucumber and DB Unit.
+                                        </p>
+                                        <p>
+                                            While most JUnit courses are targeted at developers, this class is focused on Quality Engineers. This half-day course is just enough to get started on being able to use JUnit, as a foundation to writing tests on other tools.
+                                        </p>
+                                        <h4>
+                                            Prerequisite
+                                        </h4>
+                                        <p>
+                                            Core Java<br/>HTML and CSS
+                                        </p>
+                                    </section>
+                                    <section id="topic-outline">
+                                        <h3>
+                                            Topic Outline:
+                                        </h3>
+                                        <h5 class="course-title">JUnit Fundamentals</h5>
+                                        <ul class="course-outline">
+                                        <li>Project Set-Up</li>
+                                        <li>Creating a Test Class</li>
+                                        <li>Running your Test</li>
+                                        <li>Adding Additional Scenarios</li>
+                                        <li>DAMP vs DRY</li>
+                                        <li>Testing methods that throw exceptions</li>
+                                        <li>Preventing test executions form interfering with each other</li>
+                                        <li>Unit testing guidelines</li>
+                                        </ul>
+                                    </section>
+                                </div>
+                                {%- include training-sidebar-nav.html -%}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
