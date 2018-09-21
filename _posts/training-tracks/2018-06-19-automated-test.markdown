@@ -5,11 +5,11 @@ title:              Automated Testing Track
 course_count:       11 courses
 course_duration:    4 weeks
 short_description:  This track is is meant for engineers who want to pursue a career in automation testing, and for quality assurance professionals who want to shift from manual testing to automation testing.
-image:              assets/img/img-trainingcard-3.jpg
+image:              assets/img/img-trainingcard-5.jpg
 date:               2018-06-19 08:00:00 +0800
 categories:         training_tracks
 ---
-<div class="section-content">
+<div class="section-content automated-test-track">
     <div class="container-fluid auto-1110">
         <div class="row">
             <div class="col">
@@ -54,7 +54,7 @@ categories:         training_tracks
                                         </div>
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/spring-course2.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/test-course-4.jpg" | relative_url }}" alt="">
                                             </div>
                                             <div class="content">
                                                 <h5>HTML / CSS Course</h5>
@@ -82,7 +82,7 @@ categories:         training_tracks
                                         </div>
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/spring-course3.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/spring-course2.jpg" | relative_url }}" alt="">
                                             </div>
                                             <div class="content">
                                                 <h5>JUnit Fundamentals</h5>
@@ -96,7 +96,7 @@ categories:         training_tracks
                                         </div>
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/spring-course3.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/test-course-1.jpg" | relative_url }}" alt="">
                                             </div>
                                             <div class="content">
                                                 <h5>Selenium IDE & Web Driver</h5>
@@ -110,7 +110,7 @@ categories:         training_tracks
                                         </div>
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/spring-course3.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/test-course-2.jpg" | relative_url }}" alt="">
                                             </div>
                                             <div class="content">
                                                 <h5>Behavior Driven Development (BDD) using Cucumber & Concordion</h5>
@@ -124,7 +124,7 @@ categories:         training_tracks
                                         </div>
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/spring-course3.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/test-course-3.jpg" | relative_url }}" alt="">
                                             </div>
                                             <div class="content">
                                                 <h5>JMeter</h5>
@@ -138,7 +138,7 @@ categories:         training_tracks
                                         </div>
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/spring-course3.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/test-course-5.jpg" | relative_url }}" alt="">
                                             </div>
                                             <div class="content">
                                                 <h5>Web Services API Testing with SoapUI</h5>
@@ -152,7 +152,7 @@ categories:         training_tracks
                                         </div>
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/spring-course3.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/test-course-6.jpg" | relative_url }}" alt="">
                                             </div>
                                             <div class="content">
                                                 <h5>Git</h5>
@@ -166,7 +166,7 @@ categories:         training_tracks
                                         </div>
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/spring-course3.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/test-course-7.jpg" | relative_url }}" alt="">
                                             </div>
                                             <div class="content">
                                                 <h5>SQL Fundamentals</h5>
@@ -180,7 +180,7 @@ categories:         training_tracks
                                         </div>
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/spring-course3.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/test-course-8.jpg" | relative_url }}" alt="">
                                             </div>
                                             <div class="content">
                                                 <h5>DB Unit</h5>
@@ -939,7 +939,7 @@ categories:         training_tracks
                 <H6>
                     &lt; Automated Testing Track/&gt;
                 </H6>
-                <H3>SQL Course</H3>
+                <H3>DB Unit</H3>
             </div>
             <div class="modal-body">
                 <section>

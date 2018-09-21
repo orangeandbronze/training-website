@@ -8417,7 +8417,8 @@ footer {
     .card-course > .image > img {
       border-radius: 8px;
       -webkit-box-shadow: 0 5px 20px 0 rgba(130, 132, 134, 0.13);
-      box-shadow: 0 5px 20px 0 rgba(130, 132, 134, 0.13); }
+      box-shadow: 0 5px 20px 0 rgba(130, 132, 134, 0.13);
+      width: 160px; }
       @media (max-width: 767px) {
         .card-course > .image > img {
           height: 100px; } }
