@@ -63,6 +63,16 @@
       position: absolute;
       top: 0;
     }
+    a{
+      text-decoration: none;
+    }
+    .card-features{
+      transition: all 0.15s ease-in-out;
+    }
+    a:hover .card-features{
+      border-radius: 0;
+      background: #fff8ed;
+    }
   }
   .section-press {
     padding: 0;
