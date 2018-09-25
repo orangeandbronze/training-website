@@ -218,6 +218,27 @@ categories:         training_tracks
                         Trainees must already have some programming background, such as through school, basic training courses, or work experience. Must be at least able to write a program in any language that does variable assignments, passes parameters through functions or methods, and handles conditional and loop logic.
                     </p>
                 </section>
+                <section id="topic-outline">
+                                    <h4>
+                                        Topic Outline:
+                                    </h4>
+                                    <h5 class="course-title">Core Java & Commonly-Used Libraries</h5>
+                                    <ul class="course-outline">
+                                    <li>Introduction to Java</li>
+                                    <li>Java Programming Fundamentals</li>
+                                    <li>Control Structures</li>
+                                    <li>Arrays</li>
+                                    <li>Working with Objects &amp; Classes</li>
+                                    <li>Commonly-Used Classes</li>
+                                    <li>Creating Your Own Classes</li>
+                                    <li>Inheritance and Polymorphism in Java</li>
+                                    <li>Collections</li>
+                                    <li>Anonymous Classes, Lambdas &amp; Streams</li>
+                                    <li>Exceptions</li>
+                                    <li>Input &amp; Output</li>
+                                    <li>Machine Problem &amp; Code Review</li>
+                                    </ul>
+                                </section>
             </div>
         </div>
     </div>
@@ -328,8 +349,25 @@ categories:         training_tracks
                         Prerequisite:
                     </h4>
                     <p>
-                        Trainees must be familiar with Core Java & Commonly-Used Libraries.
+                        Trainees must be familiar with <a href ="/java/core-java/" target="_blank">Core Java & Commonly-Used Libraries.</a>
                     </p>
+                </section>
+                <section id="topic-outline">
+                    <h4>
+                        Topic Outline:
+                    </h4>
+                    <h5 class="course-title">Agile Engineering & Java Best Practices</h5>
+                        <ul class="course-outline">
+                            <li>Agile Engineering Overview</li>
+                            <li>Review of Object-Oriented Programming</li>
+                            <li>Object-Oriented Design</li>
+                            <li>Version Control w/ Git</li>
+                            <li>Unit Testing and Test Driven Development</li>
+                            <li>Refactoring</li>
+                            <li>Java Best Practices</li>
+                            <li>Machine Problem</li>
+                            <li>Code Review</li>
+                        </ul>
                 </section>
             </div>
         </div>
@@ -370,8 +408,30 @@ categories:         training_tracks
                         Prerequisite:
                     </h4>
                     <p>
-                        Core Java & Commonly-Used Java Libraries, Agile Engineering & Java Best Practices, HTML, SQL
+                        <a href="/java/core-java/" target="_blank">Core Java & Commonly-Used Java Libraries</a>, <a href="/java/agile-engineering/" target="_blank">Agile Engineering & Java Best Practices</a>, <a href="/other_courses/html-css/" target="_blank">HTML</a>, <a href="/other_courses/sql/" target="_blank">SQL</a>
                     </p>
+                </section>
+                <section id="topic-outline">
+                    <h4>
+                        Topic Outline:
+                    </h4>
+                    <h5 class="course-title">Java Enterprise Fundamentals and Best Practices</h5>
+                        <ul class="course-outline">
+                            <li>Application Layers &amp; Domain Modeling</li>
+                            <li>JDBC</li>
+                            <li>Automated Database Testing</li>
+                            <li>Servlets</li>
+                            <li>POST-GET-Redirect (PRG) Pattern</li>
+                            <li>JSP &amp; JSTL</li>
+                            <li>Model-View-Controller</li>
+                            <li>REST</li>
+                            <li>Application Services</li>
+                            <li>Transactions</li>
+                            <li>Concurrency</li>
+                            <li>Performance</li>
+                            <li>Testing with Mock Objects</li>
+                            <li>Database Migration</li>
+                        </ul>
                 </section>
             </div>
         </div>
@@ -421,7 +481,7 @@ categories:         training_tracks
                         Prerequisite:
                     </h4>
                     <p>
-                        Trainees must be familiar with Agile Engineering & Java Best Practices, Introduction to Java Enterprise Development: Persistence, Concurrency, Business Logic, Web
+                        Trainees must be familiar with <a href="/java/agile-engineering/" target="_blank">Agile Engineering & Java Best Practices</a>, <a href="/java/java-enterprise/" target="_blank">Java Enterprise Fundamentals and Best Practices</a>
                     </p>
                 </section>
                 <section>
@@ -474,6 +534,14 @@ categories:         training_tracks
                         <li>JPA in Web Applications (open entity manager in view)</li>
                     </ul>
                     <h5 class="course-title">Day 5 : Machine problem (web application) and code review</h5>
+                </section><section id="topic-outline">
+                    <h4>
+                        Related Courses:
+                    </h4>
+                        <ul class="course-outline">
+                            <li><a href="/java-framework/spring-web/" target="_blank">Spring Web Training</a></li>
+                            <li><a href="/java-framework/enterprise-spring/" target="_blank">Enterprise Integration with Spring Training</a></li>
+                        </ul>
                 </section>
             </div>
         </div>

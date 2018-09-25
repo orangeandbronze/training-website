@@ -48,12 +48,12 @@ categories:         java
                                         Prerequisite
                                     </h4>
                                     <p>
-                                        Trainees must be familiar with Core Java & Commonly-Used Libraries.
+                                        Trainees must be familiar with <a href="http://localhost:4000/java/core-java/" target="_blank">Core Java & Commonly-Used Libraries.</a>
                                     </p>
                                 </section>
                                 <section id="topic-outline">
                                     <h3>
-                                        Topic Outline:
+                                        Course Outline:
                                     </h3>
                                     <h5 class="course-title">Agile Engineering & Java Best Practices</h5>
                                     <ul class="course-outline">

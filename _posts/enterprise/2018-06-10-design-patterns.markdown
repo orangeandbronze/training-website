@@ -36,13 +36,13 @@ categories:         enterprise
                                     <p>This training course was developed and is taught by some of the Philippines' well-known and respected Java software engineers and architects, and uses the format trusted by some of the best companies in the Philippines.</p>
                                     <h4>Prerequisite</h4>
                                     <p>Basic programming knowledge of an object-oriented language.</p>
-                                    <p>All exercises in this course are written in Java, so participants should be familiar with Core Java & Commonly-Used Libraries.</p>
+                                    <p>All exercises in this course are written in Java, so participants should be familiar with <a href="/java/core-java/" target="_blank">Core Java & Commonly-Used Libraries.</a></p>
                                     <h4>Benefits of the program</h4>
                                     <p>Learn established solutions to common problems. Don't reinvent the wheel. Arm your team with a language for describing design concepts and improve productivity. Trainees are able to apply their learning via case studies, which are reviewed and critiqued by industry experts. The course is applicable to any object-oriented programming language.</p>
                                 </section>
                                 <section id="topic-outline">
                                     <h3>
-                                        Topic Outline:
+                                        Course Outline:
                                     </h3>
                                     <h5 class="course-title">Spring Web Training</h5>
                                     <ul>

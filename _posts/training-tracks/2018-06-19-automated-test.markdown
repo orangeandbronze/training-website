@@ -363,9 +363,9 @@ categories:         training_tracks
                                     </p>
                                 </section>
                                 <section id="topic-outline">
-                                    <h3>
+                                    <h4>
                                         Course Outline:
-                                    </h3>
+                                    </h4>
                                     <h5 class="course-title">Day 1 : HTML - Elements and Structure</h5>
                                     <ul class="course-outline">
                                         <li>Introduction to HTML (Structure, Elements, and Tags)</li>
@@ -422,13 +422,13 @@ categories:         training_tracks
                                         Prerequisite
                                     </h4>
                                     <p>
-                                        Some experience programming in any language and in HTML and CSS is good to have, though not required.
+                                        Some experience programming in any language and in <a href="/other_courses/html-css/" target="_blank">HTML and CSS</a> is good to have, though not required.
                                     </p>
                                 </section>
                                 <section id="topic-outline">
-                                    <h3>
+                                    <h4>
                                         Course Outline:
-                                    </h3>
+                                    </h4>
                                     <h5 class="course-title">Day 1 : Core JavaScript</h5>
                                     <ul class="course-outline">
                                         <li>Introduction</li>
@@ -489,13 +489,13 @@ categories:         training_tracks
                                             Prerequisite
                                         </h4>
                                         <p>
-                                            Core Java<br/>HTML and CSS
+                                            <a href="/java/core-java/" target="_blank">Core Java</a><br/><a href="/other_courses/html-css/" target="_blank">HTML and CSS</a>
                                         </p>
                                     </section>
                                     <section id="topic-outline">
-                                        <h3>
-                                            Topic Outline:
-                                        </h3>
+                                        <h4>
+                                            Course Outline:
+                                        </h4>
                                         <h5 class="course-title">JUnit Fundamentals</h5>
                                         <ul class="course-outline">
                                         <li>Project Set-Up</li>
@@ -548,13 +548,13 @@ categories:         training_tracks
                                             Prerequisite
                                         </h4>
                                         <p>
-                                            Core Java<br/>HTML and CSS
+                                            <a href="/java/core-java/" target="_blank">Core Java</a><br/><a href="/other_courses/html-css/" target="_blank">HTML and CSS</a>
                                         </p>
                                     </section>
                                     <section id="topic-outline">
-                                        <h3>
+                                        <h4>
                                             Topic Outline:
-                                        </h3>
+                                        </h4>
                                         <h5 class="course-title">Selenium IDE & Web Driver</h5>
                                         <ul class="course-outline">
                                         <li>Introduction to Selenium</li>
@@ -620,13 +620,13 @@ categories:         training_tracks
                                             Prerequisite
                                         </h4>
                                         <p>
-                                            Core Java<br/>JUnit Fundamentals
+                                            <a href="/java/core-java/" target="_blank">Core Java</a><br/><a href="/other_courses/junit/" target="_blank">JUnit Fundamentals</a>
                                         </p>
                                     </section>
                                     <section id="topic-outline">
-                                        <h3>
-                                            Topic Outline:
-                                        </h3>
+                                        <h4>
+                                            Course Outline:
+                                        </h4>
                                         <ul>
                                         <li>Agile Testing Overview
                                             <ul>
@@ -703,9 +703,9 @@ categories:         training_tracks
                                     </p>
                                 </section>
                                 <section id="topic-outline">
-                                    <h3>
-                                        Topic Outline:
-                                    </h3>
+                                    <h4>
+                                        Course Outline:
+                                    </h4>
                                     <h5 class="course-title">Day 1 : Introduction to Load Testing with JMeter</h5>
                                     <ul class="course-outline">
                                         <li>Performance Testing Overview</li>
@@ -762,9 +762,9 @@ categories:         training_tracks
                                     </p>
                                 </section>
                                 <section id="topic-outline">
-                                    <h3>
-                                        Topic Outline:
-                                    </h3>
+                                    <h4>
+                                        Course Outline:
+                                    </h4>
                                     <h5 class="course-title">Web Services API Testing with SoapUI</h5>
                                     <ul class="course-outline">
                                         <li>Introduction to SoapUI and Web Services Testing</li>
@@ -829,9 +829,9 @@ categories:         training_tracks
                                     </p>
                                 </section>
                                 <section id="topic-outline">
-                                    <h3>
-                                        Topic Outline:
-                                    </h3>
+                                    <h4>
+                                        Course Outline:
+                                    </h4>
                                     <h5 class="course-title">Day 1 : Introduction to Git</h5>
                                     <ul class="course-outline">
                                         <li>Git Overview</li>
@@ -908,9 +908,9 @@ categories:         training_tracks
                                         </p>
                                     </section>
                                     <section id="topic-outline">
-                                        <h3>
-                                            Topic Outline:
-                                        </h3>
+                                        <h4>
+                                            Course Outline:
+                                        </h4>
                                         <h5 class="course-title">SQL Fundamentals</h5>
                                         <ul class="course-outline">
                                             <li>Data Retrieval</li>
@@ -959,13 +959,13 @@ categories:         training_tracks
                                         Prerequisite
                                     </h4>
                                     <p>
-                                        Core java<br/>JUnit Fundamentals
+                                        <a href="/java/core-java/" target="_blank">Core Java</a><br/><a href="/other_courses/junit/" target="_blank">JUnit Fundamentals</a>
                                     </p>
                                 </section>
                                 <section id="topic-outline">
-                                    <h3>
-                                        Topic Outline:
-                                    </h3>
+                                    <h4>
+                                        Course Outline:
+                                    </h4>
                                     <h5 class="course-title">Database Testing & Test Data Management with DB Unit</h5>
                                     <ul class="course-outline">
                                         <li>DB Unit Overview</li>

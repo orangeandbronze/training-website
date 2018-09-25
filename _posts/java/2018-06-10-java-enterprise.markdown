@@ -38,11 +38,11 @@ categories:         java
                                     <h4>
                                         Prerequisite
                                     </h4>
-                                    <p>Core Java & Commonly-Used Java Libraries, Agile Engineering and Best Practices, SQL, HTML</p>
+                                    <p><a href="/java/core-java/" target="_blank">Core Java & Commonly-Used Java Libraries</a>, <a href="/java/agile-engineering/" target="_blank">Agile Engineering and Best Practices</a>, <a href="/other_courses/sql/" target="_blank">SQL</a>, <a href="/other_courses/html-css/" target="_blank">HTML</a></p>
                                 </section>
                                 <section id="topic-outline">
                                     <h3>
-                                        Topic Outline:
+                                        Course Outline:
                                     </h3>
                                     <h5 class="course-title">Java Enterprise Fundamentals and Best Practices</h5>
                                     <ul class="course-outline">

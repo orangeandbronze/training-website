@@ -49,12 +49,12 @@ categories:         other_courses
                                             Prerequisite
                                         </h4>
                                         <p>
-                                            Core Java and Commonly-Used Libraries<br/>HTML
+                                            <a href="/java/core-java/" target="_blnak">Core Java and Commonly-Used Libraries</a><br/><a href="/other_courses/html-css/" target="_blank">HTML</a>
                                         </p>
                                     </section>
                                     <section id="topic-outline">
                                         <h3>
-                                            Topic Outline:
+                                            Course Outline:
                                         </h3>
                                         <h5 class="course-title">Agile Testing & Test Automation</h5>
                                         <ul class="course-outline">
@@ -70,8 +70,8 @@ categories:         other_courses
                                             Related Courses
                                         </h3>
                                         <ul class="course-outline">
-                                        <li>Core Agile Workshop with Scrum, Extreme Programming, and Kanban</li>
-                                        <li>User Story Workshop: Agile Requirements, Estimation & Planning</li>
+                                        <li><a href="/agile/core-agile/" target="_blank">Core Agile Workshop with Scrum, Extreme Programming, and Kanban</a></li>
+                                        <li><a href="/agile/agile-erp/" target="_blank">User Story Workshop: Agile Requirements, Estimation & Planning</a></li>
                                         </ul>
                                     </section>
 

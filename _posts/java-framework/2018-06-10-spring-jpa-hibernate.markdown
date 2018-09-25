@@ -56,11 +56,11 @@ categories:         java-framework
                                     <h4>Audience</h4>
                                     <p>Experienced enterprise Java developers and architects who want to learn how to take advantage of the Spring Framework in their own applications.</p>
                                     <h4>Prerequisite</h4>
-                                    <p>Agile Engineering & Java Best Practices, Introduction to Java Enterprise Development: Persistence, Concurrency, Business Logic, Web</p>
+                                    <p><a href="/java/agile-engineering/" target="_blank">Agile Engineering & Java Best Practices</a>, <a href="/java/java-enterprise/" target="_blank">Java Enterprise Fundamentals and Best Practices</a></p>
                                 </section>
                                 <section id="topic-outline">
                                     <h3>
-                                        Topic Outline:
+                                        Course Outline:
                                     </h3>
                                     <h5 class="course-title">Combined Spring and JPA/Hibernate Training</h5>
                                     <ul class="course-outline">
@@ -82,8 +82,8 @@ categories:         java-framework
                                         Related Courses:
                                     </h3>
                                     <ul class="course-outline">
-                                    <li>Spring Web Training</li>
-                                    <li>Enterprise Integration with Spring Training</li>
+                                    <li><a href="/java-framework/spring-web/" target="_blank">Spring Web Training</a></li>
+                                    <li><a href="/java-framework/enterprise-spring/" target="_blank">Enterprise Integration with Spring Training</a></li>
                                     </ul>
                                 </section>
                                 <!-- <section id="faq">

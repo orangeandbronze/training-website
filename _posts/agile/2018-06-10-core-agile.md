@@ -53,7 +53,7 @@ categories:         agile
                                 </section>
                                 <section id="topic-outline">
                                     <h3>
-                                        Topic Outline:
+                                        Course Outline:
                                     </h3>
                                     <h5 class="course-title">Core Agile Workshop with Scrum, Extreme Programming, and Kanban</h5>
                                     <ul class="course-outline">
@@ -71,8 +71,8 @@ categories:         agile
                                 <section>
                                     <h3>Related Courses</h3>
                                     <ul class="course-outline">
-                                        <li>Agile Requirements, Estimation & Planning</li>
-                                        <li>Agile Engineering and Java Best Practices</li>
+                                        <li><a href="/agile/agile-erp/" target="_blank">Agile Requirements, Estimation & Planning</a></li>
+                                        <li><a href="/java/agile-engineering/" target="_blank">Agile Engineering and Java Best Practices</a></li>
                                     </ul>
                                 </section>
                                 <!-- <section id="faq">

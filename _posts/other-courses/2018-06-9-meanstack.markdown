@@ -51,7 +51,7 @@ categories:         other_courses
                                 </section>
                                 <section id="topic-outline">
                                     <h3>
-                                        Topic Outline:
+                                        Course Outline:
                                     </h3>
                                     <h5 class="course-title">Day 1 :  Introduction to the MEAN stack</h5>
                                     <ul class="course-outline">

@@ -37,7 +37,7 @@ categories:         java-framework
                                     <h4>Benefits of the Program</h4>
                                     <p>Reduce overhead of maintaining synchronization between your object model and your database schema. Optimize JPA/Hibernate applications Learn solutions to common errors.</p>
                                     <h4>Prerequisite</h4>
-                                    <p>Introduction to Java Enterprise Development: Persistence, Concurrency, Business Logic, Web</p>
+                                    <p><a href="/java/java-enterprise/" target="_blank">Java Enterprise Fundamentals and Best Practices</a></p>
                                 </section>
                                 <!-- <section id="topic-outline">
                                     <h3>

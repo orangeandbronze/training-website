@@ -43,12 +43,12 @@ categories:         other_courses
                                             Prerequisite
                                         </h4>
                                         <p>
-                                            Core Java<br/>HTML and CSS
+                                            <a href="/java/core-java/" target="_blank">Core Java</a><br/><a href="/other_courses/html-css/" target="_blank">HTML and CSS</a>
                                         </p>
                                     </section>
                                     <section id="topic-outline">
                                         <h3>
-                                            Topic Outline:
+                                            Course Outline:
                                         </h3>
                                         <h5 class="course-title">Selenium IDE & Web Driver</h5>
                                         <ul class="course-outline">

@@ -252,7 +252,7 @@ categories:         training_tracks
                         </ul>
                     </p>
                 </section>
-                <!-- <section>
+                <section>
                     <h4>
                         Course Outline:
                     </h4>
@@ -268,7 +268,14 @@ categories:         training_tracks
                         <li>Kanban</li>
                         <li>Agile Engineering</li>
                     </ul>
-                </section> -->
+                </section>
+                <section>
+                    <h4>Related Courses</h4>
+                         <ul class="course-outline">
+                            <li><a href="/agile/agile-erp/" target="_blank">Agile Requirements, Estimation & Planning</a></li>
+                            <li><a href="/java/agile-engineering/" target="_blank">Agile Engineering and Java Best Practices</a></li>
+                         </ul>
+                </section>
             </div>
         </div>
     </div>
@@ -343,7 +350,7 @@ categories:         training_tracks
                         Orange & Bronze is one of the first companies in Asia to use and advocate Agile Software Development, and has been using it since our inception in 2005, back when Agile was still an emerging movement. This training course was developed and is taught by some of the Philippines' well-known and respected Agile coaches and practitioners, and uses the format trusted by some of the best companies in the Philippines.
                     </p>
                 </section>
-                <!-- <section>
+                <section>
                     <h4>
                         Course Outline:
                     </h4>
@@ -358,7 +365,13 @@ categories:         training_tracks
                         <li>Introduction to Acceptance Test Driven Development (ATDD)</li>
                         <li>3 Case Studies/Simulations</li>
                     </ul>
-                </section> -->
+                </section>
+                <section>
+                    <h3>Related Courses</h3>
+                        <ul class="course-outline">
+                            <li><a href="/agile/core-agile/" target="_blank">Core Agile Workshop with Scrum, Extreme Programming, and Kanban</a></li>
+                        </ul>
+                </section>
             </div>
         </div>
     </div>
@@ -407,7 +420,7 @@ categories:         training_tracks
                         Prerequisite:
                     </h4>
                     <p>
-                        Trainees must be familiar with Core Java & Commonly-Used Libraries.
+                        Trainees must be familiar with <a href="/java/core-java/" target="_blank">Core Java & Commonly-Used Libraries.</a>
                     </p>
                 </section>
                 <section>
@@ -469,7 +482,7 @@ categories:         training_tracks
                         Prerequisite:
                     </h4>
                     <p>
-                        Basic programming knowledge of an object-oriented language. All exercises in this course are written in Java, so participants should be familiar with Core Java & Commonly-Used Libraries.
+                        Basic programming knowledge of an object-oriented language. All exercises in this course are written in Java, so participants should be familiar with <a href="/java/core-java/" target="_blank">Core Java & Commonly-Used Libraries.</a>
                     </p>
                 </section>
                 <section>
