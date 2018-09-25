@@ -9456,6 +9456,14 @@ footer {
   .page-front .section-features > .element-3 {
     position: absolute;
     top: 0; }
+  .page-front .section-features a {
+    text-decoration: none; }
+  .page-front .section-features .card-features {
+    -webkit-transition: all 0.15s ease-in-out;
+    transition: all 0.15s ease-in-out; }
+  .page-front .section-features a:hover .card-features {
+    border-radius: 0;
+    background: #fff8ed; }
 
 .page-front .section-press {
   padding: 0; }
