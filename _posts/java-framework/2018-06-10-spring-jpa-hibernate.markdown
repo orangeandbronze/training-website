@@ -29,10 +29,22 @@ categories:         java-framework
                                     <div class="track-details">
                                         <div class="details mr40">
                                             <img src="/assets/img/ico-calendar.svg" alt="">
-                                            <h6>DURATION: 5 Days</h6>
-                                            <p>3 days - Core Spring (lecture and exercises)<br/>
-                                            1 day - JPA/Hibernate (more JPA/Hibernate configuration and internals)<br/>
-                                            1 day - Machine problem (web application) and code review</p>
+                                            <h6>DURATION: 3 Days</h6>&nbsp;
+                                            <p style="display: inline-block; margin: 0; vertical-align: middle; line-height: 21px;">Core Spring (lecture and exercises)</p>
+                                        </div>
+                                    </div>
+                                    <div class="track-details">
+                                        <div class="details mr40">
+                                            <img src="/assets/img/ico-calendar.svg" alt="">
+                                            <h6>DURATION: 1 Day</h6>&nbsp;
+                                            <p style="display: inline-block; margin: 0; vertical-align: middle; line-height: 21px;">JPA/Hibernate (more JPA/Hibernate configuration and internals)</p>
+                                        </div>
+                                    </div>
+                                    <div class="track-details">
+                                        <div class="details mr40">
+                                            <img src="/assets/img/ico-calendar.svg" alt="">
+                                            <h6>DURATION: 1 Day</h6>&nbsp;
+                                            <p style="display: inline-block; margin: 0; vertical-align: middle; line-height: 21px;">Machine problem (web application) and code review</p>
                                         </div>
                                     </div>
                                     <p>Spring is a dependency injection framework that simplifies Java EE development and testing.</p>
