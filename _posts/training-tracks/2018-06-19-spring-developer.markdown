@@ -234,7 +234,7 @@ categories:         training_tracks
                         Prerequisite:
                     </h4>
                     <p>
-                        Agile Engineering & Java Best Practices, Introduction to Java Enterprise Development: Persistence, Concurrency, Business Logic, Web
+                        <a href="/java/agile-engineering/" target="_blank">Agile Engineering & Java Best Practices</a>, <a href="/java/java-enterprise/" target="_blank">Java Enterprise Fundamentals and Best Practices</a>
                     </p>
                 </section>
                 <section>
@@ -276,6 +276,15 @@ categories:         training_tracks
                         <li>Integrating Spring with JPA and Hibernate</li>
                         <li>Getting started with Spring Web/MVC</li>
                     </ul>
+                </section>
+                <section>
+                    <h4>
+                        Related Course:
+                    </h4>
+                        <ul class="course-outline">
+                            <li><a href="/java-framework/spring-web/" target="_blank">Spring Web Training</a></li>
+                            <li><a href="/java-framework/enterprise-spring/" target="_blank">Enterprise Integration with Spring Training</a></li>
+                                    </ul>
                 </section>
             </div>
         </div>
@@ -322,7 +331,7 @@ categories:         training_tracks
                         Prerequisite:
                     </h4>
                     <p>
-                        Core Spring Training or Combined Spring & JPA/Hibernate Training
+                        <a href="/java-framework/core-spring/" target="_blank">Core Spring Training</a> or <a href="/java-framework/spring-jpa-hibernate/" target="_blank">Combined Spring & JPA/Hibernate Training</a>
                     </p>
                 </section>
                 <section>
@@ -349,7 +358,7 @@ categories:         training_tracks
                         </ul>
                     </p>
                 </section>
-                <!-- <section>
+                <section>
                     <h4>
                         Course Outline:
                     </h4>
@@ -365,7 +374,16 @@ categories:         training_tracks
                         <li>Spring Integration</li>
                         <li>Spring Batch</li>
                     </ul>
-                </section> -->
+                </section>
+                <section>
+                    <h4>
+                        Related Course:
+                    </h4>
+                        <ul class="course-outline">
+                            <li><a href="/java-framework/spring-web/" target="_blank">Spring Web Training</a></li>
+                            <li><a href="/java-framework/core-spring/" target="-blank">Core Spring Training</a></li>
+                         </ul>
+                </section>
             </div>
         </div>
     </div>
@@ -411,7 +429,7 @@ categories:         training_tracks
                         Prerequisite:
                     </h4>
                     <p>
-                        Core Spring Training or Combined Spring & JPA/Hibernate Training
+                        <a href="/java-framework/core-spring/" target="_blank">Core Spring Training</a> or <a href="/java-framework/spring-jpa-hibernate/" target="_blank">Combined Spring & JPA/Hibernate Training</a>
                     </p>
                 </section>
                 <section>
@@ -453,6 +471,13 @@ categories:         training_tracks
                         <li>Debugging and Testing Web Applications</li>
                         <li>Building Rich Web Applications with Ajax (optional)</li>
                         <li>Spring Boot and Websockets (optional)</li>
+                    </ul>
+                </section>
+                <section>
+                    <h4>Related Courses</h4>
+                    <ul class="course-outline">
+                        <li><a href="/java-framework/core-spring/" target="_blank">Core Spring Training</a></li>
+                        <li><a href="/java-framework/enterprise-spring/" target="_blank">Enterprise Integration with Spring Training</a></li>
                     </ul>
                 </section>
             </div>

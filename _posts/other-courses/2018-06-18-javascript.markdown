@@ -43,7 +43,7 @@ categories:         other_courses
                                         Prerequisite
                                     </h4>
                                     <p>
-                                        Some experience programming in any language and in HTML and CSS is good to have, though not required.
+                                        Some experience programming in any language and in <a href="/other_courses/html-css/" target="_blank">HTML and CSS</a> is good to have, though not required.
                                     </p>
                                 </section>
                                 <section id="topic-outline">

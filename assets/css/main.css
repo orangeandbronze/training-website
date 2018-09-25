@@ -9412,6 +9412,9 @@ footer {
       text-align: center; } }
   .page-front header p {
     color: #fff; }
+    .page-front header p a {
+      color: white;
+      font-weight: bold; }
   .page-front header h6 {
     margin-bottom: 20px;
     color: #fff; }
@@ -9592,6 +9595,10 @@ footer {
   .page-trainingtrack header h6,
   .page-trainingtrack header p {
     color: #fff; }
+    .page-trainingtrack header h6 a,
+    .page-trainingtrack header p a {
+      color: #fff;
+      font-weight: bold; }
   .page-trainingtrack header h6 {
     margin-bottom: 10px; }
   .page-trainingtrack header > .header-content {

@@ -43,13 +43,13 @@ categories:         other_courses
                                             Prerequisite
                                         </h4>
                                         <p>
-                                            Core Java<br/>JUnit Fundamentals
+                                            <a href="/java/core-java/" target="_blank">Core Java</a><br/><a href="/other_courses/junit/" target="_blank">JUnit Fundamentals</a>
                                         </p>
                                     </section>
                                     <section id="topic-outline">
-                                        <h3>
-                                            Topic Outline:
-                                        </h3>
+                                        <h4>
+                                            Course Outline:
+                                        </h4>
                                         <ul>
                                         <li>Agile Testing Overview
                                             <ul>

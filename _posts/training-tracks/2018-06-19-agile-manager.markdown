@@ -245,14 +245,6 @@ categories:         training_tracks
                 </section>
                 <section>
                     <h4>
-                        Prerequisite:
-                    </h4>
-                    <p>
-                        Agile Engineering & Java Best Practices, Introduction to Java Enterprise Development: Persistence, Concurrency, Business Logic, Web
-                    </p>
-                </section>
-                <section>
-                    <h4>
                         Who Should Attend:
                     </h4>
                     <p>
@@ -272,9 +264,9 @@ categories:         training_tracks
                         </ul>
                     </p>
                 </section>
-                <!-- <section>
+                <section>
                     <h4>
-                        Course Outline:
+                        Topic Outline:
                     </h4>
                     <h5 class="course-title">Day 1-2 : Core Agile Workshop with Scrum, Extreme Programming, and Kanban</h5>
                     <ul class="course-outline">
@@ -288,7 +280,14 @@ categories:         training_tracks
                         <li>Kanban</li>
                         <li>Agile Engineering</li>
                     </ul>
-                </section> -->
+                </section>
+                <section>
+                    <h4>Related Courses</h4>
+                        <ul class="course-outline">
+                            <li><a href="/agile/agile-erp/" target="_blank">Agile Requirements, Estimation & Planning</a></li>
+                            <li><a href="/java/agile-engineering/" target="_blank">Agile Engineering and Java Best Practices</a></li>
+                        </ul>
+                </section>
             </div>
         </div>
     </div>
@@ -363,9 +362,9 @@ categories:         training_tracks
                         Orange & Bronze is one of the first companies in Asia to use and advocate Agile Software Development, and has been using it since our inception in 2005, back when Agile was still an emerging movement. This training course was developed and is taught by some of the Philippines' well-known and respected Agile coaches and practitioners, and uses the format trusted by some of the best companies in the Philippines.
                     </p>
                 </section>
-                <!-- <section>
+                <section>
                     <h4>
-                        Course Outline:
+                        Topic Outline:
                     </h4>
                     <h5 class="course-title">Day 1-2 : Agile Requirements, Estimation, and Planning</h5>
                     <ul class="course-outline">
@@ -378,7 +377,13 @@ categories:         training_tracks
                         <li>Introduction to Acceptance Test Driven Development (ATDD)</li>
                         <li>3 Case Studies/Simulations</li>
                     </ul>
-                </section> -->
+                </section>
+                <section>
+                    <h4>Related Courses</h4>
+                        <ul class="course-outline">
+                            <li><a href="/agile/core-agile/" target="_blank">Core Agile Workshop with Scrum, Extreme Programming, and Kanban</a></li>
+                        </ul>
+                </section>
             </div>
         </div>
     </div>
@@ -421,7 +426,7 @@ categories:         training_tracks
                         Prerequisite:
                     </h4>
                     <p>
-                        Trainees must be familiar with Core Java & Commonly-Used Libraries.
+                        Trainees must be familiar with <a href="/java/core-java/" target="_blank">Core Java & Commonly-Used Libraries.</a>
                     </p>
                 </section>
                 <section>
@@ -489,7 +494,7 @@ categories:         training_tracks
                         Prerequisite:
                     </h4>
                     <p>
-                        Trainees must be familiar with Core Java & Commonly-Used Libraries.
+                        Trainees must be familiar with <a href="/java/core-java/" target="_blank">Core Java & Commonly-Used Libraries.</a>
                     </p>
                 </section>
                 <section>
@@ -553,7 +558,7 @@ categories:         training_tracks
                         Prerequisite:
                     </h4>
                     <p>
-                        Core Java and Commonly-Used Libraries and HTML
+                        <a href="/java/core-java/" target="_blnak">Core Java and Commonly-Used Libraries</a> and <a href="/other_courses/html-css/" target="_blank">HTML</a>
                     </p>
                 </section>
                 <section>
@@ -576,6 +581,16 @@ categories:         training_tracks
                         <li>Load Testing with JMeter</li>
                     </ul>
                 </section>
+                <section>
+                    <h4>
+                        Related Courses
+                    </h4>
+                        <ul class="course-outline">
+                            <li><a href="/agile/core-agile/" target="_blank">Core Agile Workshop with Scrum, Extreme Programming, and Kanban</a></li>
+                             <li><a href="/agile/agile-erp/" target="_blank">User Story Workshop: Agile Requirements, Estimation & Planning</a></li>
+                        </ul>
+                </section>
+
             </div>
         </div>
     </div>

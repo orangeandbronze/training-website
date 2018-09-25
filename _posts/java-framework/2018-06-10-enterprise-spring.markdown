@@ -38,7 +38,7 @@ categories:         java-framework
                                     <h4>Audience</h4>
                                     <p>Experienced enterprise Java developers and architects who want to learn how to take advantage of the Spring Framework in integrating their server-side applications.</p>
                                     <h4>Prerequisite</h4>
-                                    <p>Core Spring Training or Combined Spring & JPA/Hibernate Training</p>
+                                    <p><a href="/java-framework/core-spring/" target="_blank">Core Spring Training</a> or <a href="/java-framework/spring-jpa-hibernate/" target="_blank">Combined Spring & JPA/Hibernate Training</a></p>
                                     <h4>Benefits of the program</h4>
                                     <p>Trainees will learn to do the following:</p>
                                     <ul>
@@ -52,7 +52,7 @@ categories:         java-framework
                                 </section>
                                 <section id="topic-outline">
                                     <h3>
-                                        Topic Outline:
+                                        Course Outline:
                                     </h3>
                                     <h5 class="course-title">Enterprise Integration with Spring Training</h5>
                                     <ul class="course-outline">
@@ -72,8 +72,8 @@ categories:         java-framework
                                         Related Course:
                                     </h3>
                                     <ul class="course-outline">
-                                    <li>Spring Web Training</li>
-                                    <li>Core Spring Training</li>
+                                    <li><a href="/java-framework/spring-web/" target="_blank">Spring Web Training</a></li>
+                                    <li><a href="/java-framework/core-spring/" target="-blank">Core Spring Training</a></li>
                                     </ul>
                                 </section>
                                 <!-- <section id="faq">

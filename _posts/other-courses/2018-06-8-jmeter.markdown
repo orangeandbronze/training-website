@@ -53,9 +53,9 @@ categories:         other_courses
                                     </p>
                                 </section>
                                 <section id="topic-outline">
-                                    <h3>
-                                        Topic Outline:
-                                    </h3>
+                                    <h4>
+                                        Course Outline:
+                                    </h4>
                                     <h5 class="course-title">Day 1 : Introduction to Load Testing with JMeter</h5>
                                     <ul class="course-outline">
                                         <li>Performance Testing Overview</li>
