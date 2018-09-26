@@ -100,13 +100,6 @@ $("#btn-next").click(function(t) {
   $(".gallery-slider").slick("slickNext");
 });
 
-
-// $(document).ready(function() {
-//   $('.community-btn-link').click(function(t) {
-//     window.location.href = 'https://www.orangeandbronze.com/about';
-//   });
-// });
-
 // Feedback Slider
 $(document).ready(function() {
   $(".feedback-slider1").slick({
