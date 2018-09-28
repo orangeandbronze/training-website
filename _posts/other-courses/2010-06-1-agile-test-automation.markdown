@@ -89,7 +89,7 @@ categories:         other_courses
                                                 <div id="collapse-1" class="collapse faq-body" aria-labelledby="heading-1" data-parent="#accordion">
                                                     <div class="content">
                                                         <p>
-                                                            None.
+                                                            Trainees must be familiar with Core Java & Commonly-Used Libraries.
                                                         </p>
                                                     </div>
                                                 </div>

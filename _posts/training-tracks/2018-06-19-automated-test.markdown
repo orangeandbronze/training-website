@@ -489,7 +489,7 @@ categories:         training_tracks
                                             Prerequisite
                                         </h4>
                                         <p>
-                                            <a href="/java/core-java/" target="_blank">Core Java</a><br/><a href="/other_courses/html-css/" target="_blank">HTML and CSS</a>
+                                            <a href="/java/core-java/" target="_blank">Core Java</a>
                                         </p>
                                     </section>
                                     <section id="topic-outline">

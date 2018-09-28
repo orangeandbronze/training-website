@@ -43,7 +43,7 @@ categories:         other_courses
                                             Prerequisite
                                         </h4>
                                         <p>
-                                            <a href="/java/core-java/" target="_blank">Core Java</a><br/><a href="/other_courses/html-css/" target="_blank">HTML and CSS</a>
+                                            <a href="/java/core-java/" target="_blank">Core Java</a><br/><a href="/other_courses/html-css/" target="_blank">HTML and CSS</a><br/><a href="/other_courses/javascript/">Javascript Fundamentals</a><br/><a href="/other_courses/junit/">JUnit Fundamentals</a>
                                         </p>
                                     </section>
                                     <section id="topic-outline">
