@@ -959,7 +959,9 @@ categories:         training_tracks
                                         Prerequisite
                                     </h4>
                                     <p>
-                                        <a href="/java/core-java/" target="_blank">Core Java</a><br/><a href="/other_courses/junit/" target="_blank">JUnit Fundamentals</a>
+                                        <a href="/other_courses/sql/" target="_blank">SQL Fundamentals</a><br/>
+                                        <a href="/java/core-java/" target="_blank">Core Java</a><br/>
+                                        <a href="/other_courses/junit/" target="_blank">JUnit Fundamentals</a>
                                     </p>
                                 </section>
                                 <section id="topic-outline">
