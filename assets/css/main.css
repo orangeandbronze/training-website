@@ -8322,6 +8322,12 @@ footer {
   cursor: pointer;
   position: relative; }
 
+.popular-courses .col-md-4:hover * {
+  text-decoration: none; }
+
+.popular-courses .col-md-4:hover h1 {
+  color: #ea800a; }
+
 .popular-courses .bestseller {
   background: #ea800a;
   color: #fff;

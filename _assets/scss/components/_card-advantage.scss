@@ -56,6 +56,12 @@
     cursor: pointer;
     position: relative;
   }
+  .col-md-4:hover *{
+    text-decoration: none;
+  }
+  .col-md-4:hover h1{
+    color: #ea800a;
+  }
   .bestseller{
     background: #ea800a;
     color: #fff;
