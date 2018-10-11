@@ -8298,6 +8298,41 @@ footer {
     color: #606e7b;
     margin-bottom: 0; }
 
+.card-popular-courses {
+  -webkit-box-shadow: 0 5px 40px 0 rgba(130, 132, 134, 0.13);
+  box-shadow: 0 5px 40px 0 rgba(130, 132, 134, 0.13);
+  text-align: left;
+  margin-bottom: 20px; }
+  .card-popular-courses h1 {
+    color: #000000;
+    font-size: 18px;
+    margin-top: 20px; }
+  .card-popular-courses h2 {
+    color: #848484;
+    font-size: 15px;
+    font-weight: 100;
+    letter-spacing: 0.75px; }
+    .card-popular-courses h2 img {
+      display: inline-block;
+      vertical-align: middle;
+      width: 15px; }
+
+.popular-courses .col-md-4 {
+  margin-bottom: 30px;
+  cursor: pointer;
+  position: relative; }
+
+.popular-courses .bestseller {
+  background: #ea800a;
+  color: #fff;
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: 900;
+  letter-spacing: 0.5px;
+  padding: 10px 15px;
+  position: absolute;
+  top: 0; }
+
 .card-border {
   width: calc(100% - 20px);
   height: 5px;
