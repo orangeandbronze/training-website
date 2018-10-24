@@ -61,6 +61,7 @@ categories:         java
                                     <li>Review of Object-Oriented Programming</li>
                                     <li>Object-Oriented Design</li>
                                     <li>Version Control w/ Git</li>
+                                    <li>Continuous Integration</li>
                                     <li>Unit Testing and Test Driven Development</li>
                                     <li>Refactoring</li>
                                     <li>Java Best Practices</li>
