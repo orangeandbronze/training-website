@@ -2,6 +2,7 @@
 layout:             training-tracks
 class:              trackdetails
 title:              Web Services API Testing with SoapUI
+title_seo:          SOAP UI Training Philippines
 short_description:  This training course will cover the fundamentals of running custom load and performance tests with JMeter.
 image:              assets/img/course-jmeter.png
 date:               2018-06-9 08:00:00 +0800

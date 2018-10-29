@@ -2,6 +2,7 @@
 layout:             training-tracks
 class:              trackdetails
 title:              Selenium IDE & Web Driver
+title_seo:          Selenium Training Philippines
 short_description:  Understand how business requirements become database designs, and the basics of reading and writing to a relational database using SQL.
 image:              assets/img/course-sql.png
 date:               2018-06-12 08:00:00 +0800
