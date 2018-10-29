@@ -2,6 +2,7 @@
 layout:             training-tracks
 class:              trackdetails
 title:              PostgreSQL
+title_seo:          PostgreSQL Course Philippines
 short_description:  PostgreSQL is one of the few open source databases that are well-accepted in corporate environments. It is prized for its stability and performance.
 image:              assets/img/course-php.png
 date:               2018-06-11 08:00:00 +0800

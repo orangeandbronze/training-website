@@ -2,6 +2,7 @@
 layout:             training-tracks
 class:              trackdetails
 title:              Database Optimization
+title_seo:          Database Training Philippines
 short_description:  How to avoid common database problems.
 image:              assets/img/course-database-optimization.png
 date:               2018-06-19 08:00:00 +0800

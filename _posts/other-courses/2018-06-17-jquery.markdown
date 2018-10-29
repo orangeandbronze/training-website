@@ -2,6 +2,7 @@
 layout:             training-tracks
 class:              trackdetails
 title:              jQuery
+title_seo:          JQuery Training Philippines
 short_description:  The course will provide a thorough grounding in the use of the jQuery framework.
 image:              assets/img/course-jquery.png
 date:               2018-06-17 08:00:00 +0800

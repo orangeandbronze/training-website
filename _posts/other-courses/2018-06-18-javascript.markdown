@@ -2,6 +2,7 @@
 layout:             training-tracks
 class:              trackdetails
 title:              Javascript
+title_seo:          Javascript Training Philippines
 short_description:  The course will cover both basic & advanced features of JavaScript and provide extensive exercises of the fundamentals.
 image:              assets/img/course-js.png
 date:               2018-06-18 08:00:00 +0800

@@ -2,6 +2,7 @@
 layout:             training-tracks
 class:              trackdetails
 title:              Git
+title_seo:          Git Training Philippines
 short_description:  This course introduces version control best practices as well as best practices specific to Git, and introduces Git’s powerful features.
 image:              assets/img/course-git.png
 date:               2018-06-13 08:00:00 +0800

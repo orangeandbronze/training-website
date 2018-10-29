@@ -2,6 +2,7 @@
 layout:             training-tracks
 class:              trackdetails
 title:              Agile Manager Track
+title_seo:          Scrum and Agile Training Philippines
 course_count:       4 courses
 course_duration:    3 weeks
 short_description:  The Agile Manager Track is meant to provide a wide view of the methodologies and practices available in Agile, and to which situation each is applicable. It also tackles how Agile values affect requirements engineering by immersing participants in the entire project lifecycle - from initial project vision, to user roles, and to the first iteration and release.

@@ -2,6 +2,7 @@
 layout:             training-tracks
 class:              trackdetails
 title:              Python for Beginners
+title_seo:          Python Training Philippines
 short_description:  Learn the basics of Python development. 
 image:              assets/img/course-python.png
 date:               2018-06-14 08:00:00 +0800

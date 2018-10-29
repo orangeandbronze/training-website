@@ -2,6 +2,7 @@
 layout:             training-tracks
 class:              trackdetails
 title:              HTML / CSS
+title_seo:          HTML CSS Training Philippines
 short_description:  This training course will cover an introduction of HTML and CSS, along with a brief introduction of Javascript and Bootstrap.
 image:              assets/img/course-html.png
 date:               2018-06-19 08:00:00 +0800
