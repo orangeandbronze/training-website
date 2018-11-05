@@ -2,6 +2,7 @@
 layout:             training-tracks
 class:              trackdetails
 title:              Core Agile Workshop with Scrum, Extreme Programming, and Kanban
+title_seo:          Scrum Training Philippines
 short_description:  MongoDB is a popular non-SQL database that stores data as JSON-like documents.
 date:               2018-06-10 08:00:00 +0800
 categories:         agile

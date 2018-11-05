@@ -2,6 +2,7 @@
 layout:             training-tracks
 class:              trackdetails
 title:              AngularJS
+title_seo:          Angular JS Training Philippines
 short_description:  You will be able to create rich and powerful SPAs and communicate with RESTful services on the backend in order to retrieve and persist data.
 image:              assets/img/course-angular.png
 date:               2018-06-16 08:00:00 +0800

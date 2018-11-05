@@ -2,6 +2,7 @@
 layout:             training-tracks
 class:              trackdetails
 title:              Enterprise Architect Track
+title_seo:          Software Training Philippines
 course_count:       3 courses
 course_duration:    3 weeks
 short_description:  This track is designed to prepare senior software developers to assume the role of enterprise application architect, introducing him or her to the heuristics of designing and leading a software project for enterprise software projects. The heart of the course is the Enterprise Design Patterns course, a class that tackles known approaches to designing business applications.

@@ -2,6 +2,7 @@
 layout:             training-tracks
 class:              trackdetails
 title:              MEAN Stack Development
+title_seo:          Angular Node Training Philippines
 short_description:  This course teaches participants the full stack javascript framework which simplifies and accelerates web application development with MongoDB, Express, Angular.js and Node.js.
 image:              assets/img/course-mean.png
 date:               2018-06-8 08:00:00 +0800

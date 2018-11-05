@@ -2,6 +2,7 @@
 layout:             training-tracks
 class:              trackdetails
 title:              Automated Testing Track
+title_seo:          Automated Testing Training Philippines
 course_count:       11 courses
 course_duration:    4 weeks
 short_description:  This track is is meant for engineers who want to pursue a career in automation testing, and for quality assurance professionals who want to shift from manual testing to automation testing.

@@ -2,6 +2,7 @@
 layout:             training-tracks
 class:              trackdetails
 title:              Java with MongoDB
+title_seo:          Java Mongo DB Training Philippines
 short_description:  This course covers the Java API of MongoDB. This training course was developed and is taught by some of the Philippines’ well-known and respected web developers.
 image:              assets/img/course-javamongo.png
 date:               2018-06-7 08:00:00 +0800

@@ -2,6 +2,7 @@
 layout:             training-tracks
 class:              trackdetails
 title:              Spring Developer Track
+title_seo:          Java Spring Training Philippines
 course_count:       3 courses
 course_duration:    3 weeks
 short_description:  The Spring Developer Track is designed for experienced Java developers who would like to gain more depth on Spring, know how to build loosely-coupled and testable applications, as well as learn aspect oriented programming.

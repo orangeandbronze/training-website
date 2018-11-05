@@ -2,6 +2,7 @@
 layout:             training-tracks
 class:              trackdetails
 title:              Enterprise Integration with Spring Training
+title_seo:          Enterprise Spring Training Philippines
 short_description:  MongoDB is a popular non-SQL database that stores data as JSON-like documents.
 date:               2018-06-10 08:00:00 +0800
 categories:         java-framework

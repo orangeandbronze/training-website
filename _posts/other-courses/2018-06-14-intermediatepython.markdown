@@ -2,6 +2,7 @@
 layout:             training-tracks
 class:              trackdetails
 title:              Intermediate Python
+title_seo:          Python Course Philippines
 short_description:  Advanced topics include a discussion on the importing function, error handling, and basic
                     object oriented programming.  
 image:              assets/img/course-python.png
