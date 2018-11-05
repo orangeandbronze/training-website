@@ -34,8 +34,12 @@ categories:         enterprise
                                     </div>
                                     <p>This course covers more advance topics such as isolating code under test from its dependencies, using Mock Objects, testing when databases are involved, and testing with the Spring Framework.</p>
                                     <p>This class was developed and is taught by some of the Philippines' well-known and respected Java software engineers and architects, and uses the format trusted by some of the best companies in the Philippines.</p>
-                                    <h4>Prerequisite</h4>
-                                    <p>Basic knowledge of test-driven development.</p>
+                                    <h4>Prerequisites</h4>
+                                    <ul><li>Basic knowledge of test-driven development.</li>
+                                    <li>SQL</li>
+                                    <li>JDBC</li>
+                                    <li>Spring Framework</li>
+                                    </ul>
                                 </section>
                                 <section id="topic-outline">
                                     <h3>
@@ -43,6 +47,7 @@ categories:         enterprise
                                     </h3>
                                     <h5 class="course-title">Advanced Test-Driven Development in Java</h5>
                                     <ul class="course-outline">
+                                    <li>Mock Testing with Mockito</li>
                                     <li>Testing with Databases Using DBUnit</li>
                                     <li>Testing with Spring Framework</li>
                                     <li>Acceptance Test-Driven Development with Concordion</li>
