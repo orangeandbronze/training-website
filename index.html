@@ -234,73 +234,37 @@ title_seo: "Java Agile Training Philippines"
     <div class="element-1">
         <img src="{{ "assets/img/bg-element3.svg" | relative_url }}" alt="">
     </div>
-    <div class="title-section">
-        <img src="{{ "assets/img/title-training.png" | relative_url }}" alt="">
-        <div class="title">
-            <h6>
-                < TRAINING TRACKS />
-            </h6>
-            <h2>Our Training Tracks</h2>
-        </div>
-    </div>
     <div class="container">
         <div class="row">
-            <div class="col-xs-0 col-sm-1"></div>
-            <div class="col-sm-12 col-md-10 control-container">
-                <div class="control-slider">
-                    <a class="prev" id="btn-prev" href="#">
-                        <img src="{{ "assets/img/control-prev.svg" | relative_url }}" alt="">
-                    </a>
-                    <a class="next" id="btn-next" href="#">
-                        <img src="{{ "assets/img/control-next.svg" | relative_url }}" alt="">
-                    </a>
-                </div>
-                <h6>
-                    <a href="/training/tracks">
-                        VIEW ALL TRAINING TRACKS
-                    </a>
-                </h6>
-            </div>
-            <div class="col-xs-0 col-sm-1"></div>
-
-        </div>
-        <div class="row">
-            <div class="col-xs-0 col-sm-1"></div>
-            <div class="col-sm-12 -col-md-10">
-                <div class="slider-tracks">
-
-                    {% for training_track in site.categories.training_tracks %}
-
-                        <div class="card-track">
-                            <div class="track-content">
-                                <h3>{{ training_track.title }}</h3>
-                                <div class="track-details">
-                                    <div class="details mr40">
-                                        <img src="{{ "assets/img/ico-calendar.svg" | relative_url }}" alt="">
-                                        <h6>{{ training_track.course_duration | upcase }}</h6>
-                                    </div>
-                                    <div class="details">
-                                        <img src="{{ "assets/img/ico-book.svg" | relative_url }}" alt="">
-                                        <h6>{{ training_track.course_count | upcase }}</h6>
-                                    </div>
+            <div class="d-md-none d-lg-block col-lg-1 col-xl-1"></div>
+            <div class="col-sm-12 col-md-12 col-lg-10 col-xl-10">
+                {% for training_track in site.categories.training_tracks %}
+                    <div class="card-track">
+                        <div class="track-content">
+                            <h3>{{ training_track.title }}</h3>
+                            <div class="track-details">
+                                <div class="details mr40">
+                                    <img src="{{ "assets/img/ico-calendar.svg" | relative_url }}" alt="">
+                                    <h6>{{ training_track.course_duration | upcase }}</h6>
                                 </div>
-                                <p>
-                                    {{ training_track.short_description }}
-                                </p>
-                                <a href="{{ training_track.url }}" class="btn -primary">
-                                    <img src="{{ "assets/img/ico-arrow-white.svg" | relative_url }}" class="ico" alt=""> View Training Track
-                                </a>
+                                <div class="details">
+                                    <img src="{{ "assets/img/ico-book.svg" | relative_url }}" alt="">
+                                    <h6>{{ training_track.course_count | upcase }}</h6>
+                                </div>
                             </div>
-                            <div class="image">
-                                <img src="{{ training_track.image | relative_url }}" alt="">
-                            </div>
+                            <p>
+                                {{ training_track.short_description }}
+                            </p>
+                            <a href="{{ training_track.url }}" class="btn -primary">
+                                <img src="{{ "assets/img/ico-arrow-white.svg" | relative_url }}" class="ico" alt=""> View Training Track
+                            </a>
                         </div>
-
-                    {% endfor %}
-
-                </div>
+                        <div class="image">
+                            <img src="{{ training_track.image | relative_url }}" alt="">
+                        </div>
+                    </div>
+                {% endfor %}
             </div>
-            <div class="col-xs-0 col-sm-1"></div>
         </div>
     </div>
     <div class="section-advantage">
