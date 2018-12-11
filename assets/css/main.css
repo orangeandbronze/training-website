@@ -7404,7 +7404,7 @@ p {
   font-family: "Aktiv Grotesk", Arial, Helvetica, sans-serif;
   font-size: 16px;
   font-weight: 500;
-  color: #606e7b;
+  color: #141516;
   line-height: 2;
   letter-spacing: normal; }
   p .-header {
@@ -7414,7 +7414,7 @@ li {
   font-family: "Aktiv Grotesk", Arial, Helvetica, sans-serif;
   font-size: 16px;
   font-weight: 500;
-  color: #606e7b;
+  color: #141516;
   line-height: 2;
   letter-spacing: normal; }
 
@@ -8263,7 +8263,7 @@ footer {
     font-stretch: normal;
     line-height: 1.75;
     letter-spacing: normal;
-    color: #606e7b; }
+    color: #141516; }
   .card-about > .content > .hr {
     width: 30px;
     height: 4px;
@@ -8295,7 +8295,7 @@ footer {
     line-height: 1.87;
     letter-spacing: normal;
     text-align: center;
-    color: #606e7b;
+    color: #141516;
     margin-bottom: 0; }
 
 .card-popular-courses {
@@ -8393,7 +8393,7 @@ footer {
     letter-spacing: normal;
     text-align: center;
     margin-bottom: 0;
-    color: #606e7b; }
+    color: #141516; }
 
 .card-contact {
   border-radius: 8px;
@@ -8411,7 +8411,7 @@ footer {
     font-stretch: normal;
     line-height: 1.88;
     letter-spacing: normal;
-    color: #606e7b; }
+    color: #141516; }
 
 .card-container {
   margin-bottom: 30px;
@@ -8508,7 +8508,7 @@ footer {
     font-stretch: normal;
     line-height: 2;
     letter-spacing: normal;
-    color: #606e7b;
+    color: #141516;
     margin-bottom: 5px; }
 
 .card-othercourse {
@@ -8610,7 +8610,7 @@ footer {
       font-stretch: normal;
       line-height: 2;
       letter-spacing: normal;
-      color: #606e7b; }
+      color: #141516; }
 
 .card-step {
   margin-bottom: 30px; }
@@ -8854,7 +8854,7 @@ footer {
     opacity: 0; }
 
 .course-outline {
-  color: #606e7b;
+  color: #141516;
   padding-left: 0; }
   .course-outline > li {
     line-height: 2;
@@ -8943,7 +8943,7 @@ footer {
     line-height: 1.75;
     letter-spacing: normal;
     text-align: center;
-    color: #606e7b; }
+    color: #141516; }
   .feedback-card > .position {
     font-size: 14px;
     font-weight: normal;
@@ -8952,7 +8952,7 @@ footer {
     line-height: 1.29;
     letter-spacing: normal;
     text-align: center;
-    color: #606e7b; }
+    color: #141516; }
   .feedback-card > .description {
     margin-top: 20px;
     font-size: 14px;
@@ -8962,7 +8962,7 @@ footer {
     line-height: 1.88;
     letter-spacing: normal;
     text-align: center;
-    color: #606e7b; }
+    color: #141516; }
 
 .feedback-slider {
   display: block; }
@@ -9035,7 +9035,7 @@ footer {
     font-stretch: normal;
     line-height: normal;
     letter-spacing: 1.1px;
-    color: #606e7b;
+    color: #141516;
     text-transform: uppercase; }
     .menu-about > a:hover {
       color: #ff962c;
@@ -9156,7 +9156,7 @@ footer {
       transition: transform 300ms;
       transition: transform 300ms, -webkit-transform 300ms; }
   .navbar-menu .dropdown-item {
-    color: #606e7b;
+    color: #141516;
     padding: 10px 20px;
     font-size: 16px; }
     .navbar-menu .dropdown-item:hover {
@@ -9203,7 +9203,7 @@ footer {
     font-stretch: normal;
     line-height: 2.25;
     letter-spacing: normal;
-    color: #606e7b;
+    color: #141516;
     margin-bottom: 40px;
     padding-right: 30px; }
     @media (max-width: 575px) {
@@ -9399,13 +9399,13 @@ footer {
     font-stretch: normal;
     line-height: 1.88;
     letter-spacing: normal;
-    color: #606e7b; }
+    color: #141516; }
   .track-content > section {
     padding: 20px 0;
     padding-top: 0; }
   .track-content section > li {
     font-size: 15px;
-    color: #606e7b;
+    color: #141516;
     padding-bottom: 20px; }
 
 .track-details {
@@ -9582,7 +9582,7 @@ footer {
     font-stretch: normal;
     line-height: 1.75;
     letter-spacing: normal;
-    color: #606e7b;
+    color: #141516;
     position: relative;
     left: 30px; }
     .page-front .section-stats p:before {
@@ -10038,7 +10038,7 @@ footer {
     font-stretch: normal;
     line-height: 1.75;
     letter-spacing: normal;
-    color: #606e7b;
+    color: #141516;
     position: relative;
     left: 30px; }
     .page-about .section-stats p:before {
@@ -10130,7 +10130,7 @@ footer {
     font-stretch: normal;
     line-height: 2;
     letter-spacing: normal;
-    color: #606e7b;
+    color: #141516;
     padding-top: 3px; }
   .page-contact .section-content li img {
     padding-right: 20px; }
