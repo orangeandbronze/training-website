@@ -9133,6 +9133,8 @@ footer {
   display: -ms-flexbox;
   display: flex;
   margin-bottom: 0; }
+  .navbar-menu img {
+    width: 25px; }
   .navbar-menu > li {
     -ms-flex-item-align: center;
     align-self: center; }
