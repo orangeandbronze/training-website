@@ -35,10 +35,10 @@ categories:         other_courses
                                         </div>
                                     </div>
                                     <p>
-                                        Git has quickly become the most popular version control system for new projects. It is open source, distributed, and has a rich set of modern features unseen in previous version control systems like Subversion, Mercurial or Microsoft TFS.
+                                        Git has quickly become the most popular version control system today, due being open source, distributed, and having a rich set of features unseen in previous version control systems like Subversion, Mercurial or Microsoft TFS.
                                     </p>
                                     <p>
-                                        However, many team jump into Git without understanding proper practices in version control, or how workflows in distributed version control differ from those in centralized version control. Also, many developers end up using Git simply to push or pull code, not using it’s many powerful features for such things as finding bugs or resolving conflicts.
+                                        However, many teams jump into Git without understanding proper practices in version control, or how workflows in distributed version control differ from those in centralized version control. Also, many developers end up using Git simply to push or pull code, not using it’s many powerful features for such things as finding bugs or resolving conflicts.
                                     </p>
                                     <p>
                                         This course introduces version control best practices as well as best practices specific to Git, and introduces attendees to Git’s less-used but powerful features.
@@ -73,7 +73,6 @@ categories:         other_courses
                                         <li>Ignoring Files & Directories</li>
                                         <li>Finding When a Bug Was Introduced</li>
                                         <li>Sharing a Remote Repository w/ GitLab or GitHub</li>
-                                        <li>Resolving Conflicts</li>
                                         <li>Linking Commits w/ Issues on GitLab/GitHub</li>
                                         <li>Closing an Issue on GitLab/GitHub</li>
                                         <li>Finding Someone to Blame</li>
