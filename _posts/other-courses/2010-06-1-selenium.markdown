@@ -70,7 +70,7 @@ categories:         other_courses
                                                 <li>Handling keyboard and mouse events</li>
                                                 <li>Using Actions and Action</li>
                                                 <li>Handling Web Tables</li>
-                                                <li>Using XPath Locatior</li>
+                                                <li>Using XPath Locator</li>
                                                 <li>Handling Upload and Download</li>
                                             </ul>
                                         </li>
