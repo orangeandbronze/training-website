@@ -3,8 +3,11 @@ layout:             training-tracks
 class:              trackdetails
 title:              Java Developer Track
 title_seo:          Java Training Tracks
+titles:             O&B Java Developer Track
 course_count:       4 courses
 course_duration:    4 weeks
+desc:               "The Java Developer Track is meant for computer science graduates who want to learn the multiple competencies needed to be productive in a real-world software development environment."
+photo:              "https://university.orangeandbronze.com/assets/img/JavaDeveloperTrack-FBLinkPostPhoto.png"
 short_description:  The Java Developer Track is meant for computer science graduates who want to learn the multiple competencies needed to be productive in a real-world software development environment. This program is designed to help programmers gain a solid foundation in web programming, frameworks and software engineering, as well as the value, tools and techniques of software testing.
 image:              assets/img/img-trainingcard-1.jpg
 date:               2018-06-19 10:00:00 +0800
