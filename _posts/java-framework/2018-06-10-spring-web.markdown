@@ -3,6 +3,10 @@ layout:             training-tracks
 class:              trackdetails
 title:              Spring Web Training
 title_seo:          Spring Web Training Philippines
+titles:             O&B Spring Web Training
+desc:               "This hands-on training teaches you how to apply Spring to create Web applications."
+description:        This hands-on training teaches you how to apply Spring to create Web applications.
+photo:              "https://university.orangeandbronze.com/assets/img/SpringWeb-FBLinkPostPhoto.png"
 short_description:  MongoDB is a popular non-SQL database that stores data as JSON-like documents.
 date:               2018-06-10 08:00:00 +0800
 categories:         java-framework
@@ -26,7 +30,7 @@ categories:         java-framework
                             <div class="track-content">
                                 <section id="overview">
                                     <h3>Overview</h3>
-                                    <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/SpringWeb-cover.png" | relative_url }}" alt="">
                                     <div class="track-details">
                                         <div class="details mr40">
                                             <img src="/assets/img/ico-calendar.svg" alt="">
