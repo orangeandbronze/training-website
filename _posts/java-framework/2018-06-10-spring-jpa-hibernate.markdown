@@ -3,7 +3,11 @@ layout:             training-tracks
 class:              trackdetails
 title:              Combined Spring and JPA/Hibernate Training
 title_seo:          Spring Courses Philippines
-short_description:  MongoDB is a popular non-SQL database that stores data as JSON-like documents.
+titles:             O&B Combined Spring and JPA/Hibernate Training
+desc:               "This course is designed for experienced developers who would like to gain more depth on Spring and building loosely-coupled and testable applications, as well as aspect oriented programming."
+description:        This course is designed for experienced developers who would like to gain more depth on Spring and building loosely-coupled and testable applications, as well as aspect oriented programming.
+photo:              "https://university.orangeandbronze.com/assets/img/CombinedSpringAndJPAHibernate-FBLinkPostPhoto.png"
+short_description:  This course is designed for experienced developers who would like to gain more depth on Spring and building loosely-coupled and testable applications, as well as aspect oriented programming.
 date:               2018-06-10 08:00:00 +0800
 categories:         java-framework
 ---
@@ -26,7 +30,7 @@ categories:         java-framework
                             <div class="track-content">
                                 <section id="overview">
                                     <h3>Overview</h3>
-                                    <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/CombinedSpringAndJPAHibernate-cover.png" | relative_url }}" alt="">
                                     <div class="track-details">
                                         <div class="details mr40">
                                             <img src="/assets/img/ico-calendar.svg" alt="">
