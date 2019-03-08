@@ -3,6 +3,9 @@ layout:             training-tracks
 class:              trackdetails
 title:              Core Java & Commonly-Used Libraries
 title_seo:          Java Training Philippines
+titles:             O&B Core Java & Commonly-Used Libraries
+desc:               This course is an introduction to Java and the most commonly used libraries of the Java Standard Edition (Java SE). Covers Java 8.
+photo:              "https://university.orangeandbronze.com/assets/img/CoreJavaAndCommonlyUsedLibraries-FBLinkPostPhoto.png"
 short_description:  MongoDB is a popular non-SQL database that stores data as JSON-like documents.
 date:               2018-06-10 08:00:00 +0800
 categories:         java
@@ -26,7 +29,7 @@ categories:         java
                             <div class="track-content">
                                 <section id="overview">
                                     <h3>Overview</h3>
-                                    <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/CoreJavaAndCommonlyUsedLibraries-cover.png" | relative_url }}" alt="">
                                     <div class="track-details">
                                         <div class="details mr40">
                                             <img src="/assets/img/ico-calendar.svg" alt="">
