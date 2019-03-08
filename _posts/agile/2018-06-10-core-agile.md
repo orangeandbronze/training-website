@@ -2,8 +2,12 @@
 layout:             training-tracks
 class:              trackdetails
 title:              Core Agile Workshop with Scrum, Extreme Programming, and Kanban
-title_seo:          Scrum Training Philippines
-short_description:  MongoDB is a popular non-SQL database that stores data as JSON-like documents.
+title_seo:          Agile Scrum Training Philippines
+titles:             O&B Core Agile Workshop with Scrum, Extreme Programming, and Kanban
+desc:               "Our approach to Agile training is therefore pragmatic, not theoretical. It is not just a discussion of one methodology or another, but an analysis of why projects succeed or fail, and which practices can address specific issues."
+description:        Our approach to Agile training is therefore pragmatic, not theoretical. It is not just a discussion of one methodology or another, but an analysis of why projects succeed or fail, and which practices can address specific issues.
+photo:              "https://university.orangeandbronze.com/assets/img/CoreAgileWorkshopWithScrumExtremeProgrammingAndKanban-FBLinkPostPhoto.png"
+short_description:  Our approach to Agile training is therefore pragmatic, not theoretical. It is not just a discussion of one methodology or another, but an analysis of why projects succeed or fail, and which practices can address specific issues.
 date:               2018-06-10 08:00:00 +0800
 categories:         agile
 ---
@@ -26,7 +30,7 @@ categories:         agile
                             <div class="track-content">
                                 <section id="overview">
                                     <h3>Overview</h3>
-                                    <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/CoreAgileWorkshopWithScrumExtremeProgrammingAndKanban-cover.png" | relative_url }}" alt="">
                                     <div class="track-details">
                                         <div class="details mr40">
                                             <img src="/assets/img/ico-calendar.svg" alt="">
