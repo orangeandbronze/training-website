@@ -3,7 +3,11 @@ layout:             training-tracks
 class:              trackdetails
 title:              Java Enterprise Fundamentals and Best Practices
 title_seo:          Java Enterprise Training Philippines
-short_description:  MongoDB is a popular non-SQL database that stores data as JSON-like documents.
+titles:             O&B Java Enterprise Fundamentals and Best Practices
+desc:               "This course provides a rigorous introduction to enterprise development, including solving common problems of persistence, concurrency, organizing business logic, and communication over the web."
+description:        This course provides a rigorous introduction to enterprise development, including solving common problems of persistence, concurrency, organizing business logic, and communication over the web.
+photo:              "https://university.orangeandbronze.com/assets/img/JavaEnterpriseFundamentalsAndBestPractices-FBLinkPostPhoto.png"
+short_description:  This course provides a rigorous introduction to enterprise development, including solving common problems of persistence, concurrency, organizing business logic, and communication over the web.
 date:               2018-06-10 08:00:00 +0800
 categories:         java
 ---
@@ -26,7 +30,7 @@ categories:         java
                             <div class="track-content">
                                 <section id="overview">
                                     <h3>Overview</h3>
-                                    <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/JavaEnterpriseFundamentalsAndBestPractices-cover.png" | relative_url }}" alt="">
                                     <div class="track-details">
                                         <div class="details mr40">
                                             <img src="/assets/img/ico-calendar.svg" alt="">
