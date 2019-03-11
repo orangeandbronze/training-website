@@ -3,7 +3,11 @@ layout:             training-tracks
 class:              trackdetails
 title:              JPA/Hibernate Training
 title_seo:          Hibernate Training Philippines
-short_description:  MongoDB is a popular non-SQL database that stores data as JSON-like documents.
+titles:             O&B JPA/Hibernate Training
+desc:               "This course is designed for experienced developers who would like to gain more depth on JPA/Hibernate and ORM frameworks in general."
+description:        This course is designed for experienced developers who would like to gain more depth on JPA/Hibernate and ORM frameworks in general.
+photo:              "https://university.orangeandbronze.com/assets/img/JPAHibernate-FBLinkPostPhoto.png"
+short_description:  This course is designed for experienced developers who would like to gain more depth on JPA/Hibernate and ORM frameworks in general.
 date:               2018-06-10 08:00:00 +0800
 categories:         java-framework
 ---
@@ -26,7 +30,7 @@ categories:         java-framework
                             <div class="track-content">
                                 <section id="overview">
                                     <h3>Overview</h3>
-                                    <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/JPAHibernate-cover.png" | relative_url }}" alt="">
                                     <div class="track-details">
                                         <div class="details mr40">
                                             <img src="/assets/img/ico-calendar.svg" alt="">

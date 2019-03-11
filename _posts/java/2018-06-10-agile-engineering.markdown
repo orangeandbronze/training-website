@@ -3,7 +3,11 @@ layout:             training-tracks
 class:              trackdetails
 title:              Agile Engineering & Java Best Practices
 title_seo:          Java Agile Class Philippines
-short_description:  MongoDB is a popular non-SQL database that stores data as JSON-like documents.
+titles:             O&B Agile Engineering & Java Best Practices
+desc:               "This course goes beyond an academic discussion of Object-Oriented Design and goes into a deep discussion of its effects on practical software engineering concerns such as maintainability, testability and reuse."
+photo:              "https://university.orangeandbronze.com/assets/img/AgileEngineeringAndBestPractices-FbLinkPostPhoto.png"
+description:        This course goes beyond an academic discussion of Object-Oriented Design and goes into a deep discussion of its effects on practical software engineering concerns such as maintainability, testability and reuse.
+short_description:  This course goes beyond an academic discussion of Object-Oriented Design and goes into a deep discussion of its effects on practical software engineering concerns such as maintainability, testability and reuse.
 date:               2018-06-10 08:00:00 +0800
 categories:         java
 ---
@@ -26,7 +30,7 @@ categories:         java
                             <div class="track-content">
                                 <section id="overview">
                                     <h3>Overview</h3>
-                                    <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/AgileEngineeringAndBestPractices-cover.png" | relative_url }}" alt="">
                                     <div class="track-details">
                                         <div class="details mr40">
                                             <img src="/assets/img/ico-calendar.svg" alt="">

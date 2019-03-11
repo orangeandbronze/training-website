@@ -3,7 +3,11 @@ layout:             training-tracks
 class:              trackdetails
 title:              Enterprise Integration with Spring Training
 title_seo:          Enterprise Spring Training Philippines
-short_description:  MongoDB is a popular non-SQL database that stores data as JSON-like documents.
+titles:             O&B Enterprise Integration with Spring Training
+desc:               "This course will discuss the important topics and technologies related to enterprise application integration. This hands-on training teaches you how to apply Spring technologies to solve integration problems that face server-side developers."
+description:        This course will discuss the important topics and technologies related to enterprise application integration. This hands-on training teaches you how to apply Spring technologies to solve integration problems that face server-side developers.
+photo:              "https://university.orangeandbronze.com/assets/img/EnterpriseIntegrationWithSpring-FBLinkPostPhoto.png"
+short_description:  This course will discuss the important topics and technologies related to enterprise application integration. This hands-on training teaches you how to apply Spring technologies to solve integration problems that face server-side developers.
 date:               2018-06-10 08:00:00 +0800
 categories:         java-framework
 ---
@@ -26,7 +30,7 @@ categories:         java-framework
                             <div class="track-content">
                                 <section id="overview">
                                     <h3>Overview</h3>
-                                    <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/EnterpriseIntegrationWithSpring.cover.png" | relative_url }}" alt="">
                                     <div class="track-details">
                                         <div class="details mr40">
                                             <img src="/assets/img/ico-calendar.svg" alt="">

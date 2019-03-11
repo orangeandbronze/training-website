@@ -3,6 +3,10 @@ layout:             training-tracks
 class:              trackdetails
 title:              DevOps Training
 title_seo:          DevOps Training Philippines
+title:              O&B DevOps Training
+desc:               "O&B’s DevOps Training course is designed to provide an introduction to the tools, cloud platforms, and best practices for continuous and efficient delivery of software development projects."
+description:        O&B’s DevOps Training course is designed to provide an introduction to the tools, cloud platforms, and best practices for continuous and efficient delivery of software development projects.
+photo:              "https://university.orangeandbronze.com/assets/img/DevOps-FBLinkPostPhoto.png"
 short_description:  This training course is designed to provide an introduction to the tools, cloud platforms, and best practices for continuous and efficient delivery of software development projects.
 image:              assets/img/course-devops.png
 date:               2019-01-10 08:00:00 +0800
@@ -27,7 +31,7 @@ categories:         other_courses
                             <div class="track-content">
                                 <section id="overview">
                                     <h3>Overview</h3>
-                                    <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/DevOps-cover.png" | relative_url }}" alt="">
                                     <div class="track-details">
                                         <div class="details mr40">
                                             <img src="/assets/img/ico-calendar.svg" alt="">

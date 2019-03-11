@@ -5,17 +5,22 @@
 
   <title>{{ page.title_seo }}</title>
   <meta name="description" content="{{ site.description }}">
+  <meta name="description" content="{{ page.description }}">
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <meta name="keywords" content="{{ site.keywords }}">
   <meta name="distribution" content="Global">
-  <meta property="og:title" content="{{ site.title }}">
-  <meta property="og:locale" content="en_US">
-  <meta property="og:description" content="{{ site.description }}">
-  <meta property="og:image" content="{{ "assets/img/open-graph-image.jpg" | absolute_url }}">
-  <meta property="og:url" content="{{ site.url }}">
-  <meta property="og:site_name" content="{{ site.title }}">
-  <meta name="twitter:card" content="summary_large_image">
+  <meta property="og:title" content="{{ page.titles }}" />
+  <meta property="og:description" content="{{ page.desc }}" />
+  <meta property="og:image" content="{{ page.photo }}" />
+  <!-- <meta property="og:locale" content="en_US"> -->
+  <!-- <meta property="og:url" content="{{ site.url }}"> -->
+  <!-- <meta property="og:site_name" content="{{ site.title }}"> -->
+  <!-- <meta name="twitter:card" content="summary_large_image"> -->
 
-  <link rel="canonical" href="{{ site.url }}">
+
+
+
+  <!-- <link rel="canonical" href="{{ site.url }}"> -->
   <link rel="stylesheet" href="{{ "assets/css/main.css" | relative_url }}">
 
   <!-- Place favicon.ico in the root directory -->
@@ -25,3 +30,4 @@
     {%- include google-analytics.html -%}
   {%- endif -%}
 </head>
+
