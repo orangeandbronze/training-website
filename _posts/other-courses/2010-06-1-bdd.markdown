@@ -61,7 +61,7 @@ categories:         other_courses
                                                 <li>Test Automation Pyramid</li>
                                             </ul>
                                         </li>
-                                        <li>Cucumber
+                                        <li>Cucumber &amp; Concordion
                                             <ul>
                                                 <li>Gherkin</li>
                                                 <li>Project Setup</li>
