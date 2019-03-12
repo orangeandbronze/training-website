@@ -3,7 +3,11 @@ layout:             training-tracks
 class:              trackdetails
 title:              Design Patterns Training
 title_seo:          Java Design Patterns Training Philippines
-short_description:  MongoDB is a popular non-SQL database that stores data as JSON-like documents.
+titles:             O&B Design Patterns Training
+desc:               "The course teaches both the foundational (aka Gang of Four or GoF) design patterns as well as the Enterprise Application design patterns which focus on building enterprise applications, covering such topics as designing web components, business logic, and persistence."
+description:        The course teaches both the foundational (aka Gang of Four or GoF) design patterns as well as the Enterprise Application design patterns which focus on building enterprise applications, covering such topics as designing web components, business logic, and persistence.
+photo:              "https://university.orangeandbronze.com/assets/img/DesignPatterns-FBLinkPostPhoto.png"
+short_description:  The course teaches both the foundational (aka Gang of Four or GoF) design patterns as well as the Enterprise Application design patterns which focus on building enterprise applications, covering such topics as designing web components, business logic, and persistence.
 date:               2018-06-10 08:00:00 +0800
 categories:         enterprise
 ---
@@ -26,7 +30,7 @@ categories:         enterprise
                             <div class="track-content">
                                 <section id="overview">
                                     <h3>Overview</h3>
-                                    <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/DesignPatterns-cover.png | relative_url }}" alt="">
                                     <div class="track-details">
                                         <div class="details mr40">
                                             <img src="/assets/img/ico-calendar.svg" alt="">
