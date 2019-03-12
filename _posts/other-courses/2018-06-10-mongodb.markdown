@@ -3,6 +3,10 @@ layout:             training-tracks
 class:              trackdetails
 title:              MongoDB
 title_seo:          Mongo DB Training Philippines
+titles:             "O&B Mongo DB"
+desc:               "MongoDB is a popular non-SQL database that stores data as JSON-like documents. Schemas need not be defined upfront, providing developers with flexibility when dealing with often-changing data models. It is designed to easily support sharding (horizontal partitioning)."
+description:        MongoDB is a popular non-SQL database that stores data as JSON-like documents. Schemas need not be defined upfront, providing developers with flexibility when dealing with often-changing data models. It is designed to easily support sharding (horizontal partitioning).
+photo:              "https://university.orangeandbronze.com/assets/img/MongoDB-FBLinkPostPhoto.png"
 short_description:  MongoDB is a popular non-SQL database that stores data as JSON-like documents.
 image:              assets/img/course-mongo.png
 date:               2018-06-10 08:00:00 +0800
@@ -27,7 +31,7 @@ categories:         other_courses
                             <div class="track-content">
                                 <section id="overview">
                                     <h3>Overview</h3>
-                                    <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/MongoDB-cover.png" | relative_url }}" alt="">
                                     <div class="track-details">
                                         <div class="details mr40">
                                             <img src="/assets/img/ico-calendar.svg" alt="">
