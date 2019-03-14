@@ -3,6 +3,12 @@ layout:             training-tracks
 class:              trackdetails
 title:              Intermediate Python
 title_seo:          Python Course Philippines
+titles:             O&B Intermediate Python
+desc:               "Advanced topics include a discussion on the importing function, error handling, and basic
+                    object oriented programming.  "
+description:        Advanced topics include a discussion on the importing function, error handling, and basic
+                    object oriented programming.  
+photo:              "https://university.orangeandbronze.com/assets/img/IntermediatePython-FBLinkPostPhoto.png"
 short_description:  Advanced topics include a discussion on the importing function, error handling, and basic
                     object oriented programming.  
 image:              assets/img/course-python.png
@@ -28,7 +34,7 @@ categories:         other_courses
                             <div class="track-content">
                                 <section id="overview">
                                     <h3>Overview</h3>
-                                    <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/IntermediatePython-cover.png" | relative_url }}" alt="">
                                     <div class="track-details">
                                         <div class="details mr40">
                                             <img src="/assets/img/ico-calendar.svg" alt="">
