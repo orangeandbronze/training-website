@@ -3,7 +3,11 @@ layout:             training-tracks
 class:              trackdetails
 title:              Behavior Driven Development (BDD) using Cucumber & Concordion
 title_seo:          Behavior Driven Development Philippines
-short_description:  Understand how business requirements become database designs, and the basics of reading and writing to a relational database using SQL.
+titles:             O&B Behavior Driven Development (BDD) using Cucumber & Concordion
+desc:               "This course will take through the principles of Agile Testing, then provide testers with the tools to automate an Agile Testing approach."
+description:        This course will take through the principles of Agile Testing, then provide testers with the tools to automate an Agile Testing approach.
+photo:              "https://university.orangeandbronze.com/assets/img/BehaviorDrivenDevelopmentUsingCucumberAndConcordion-FBLinkPostPhoto.png"
+short_description:  This course will take through the principles of Agile Testing, then provide testers with the tools to automate an Agile Testing approach.
 image:              assets/img/course-sql.png
 date:               2018-06-12 08:00:00 +0800
 categories:         other_courses
@@ -27,7 +31,7 @@ categories:         other_courses
                                 <div class="track-content">
                                     <section id="overview">
                                         <h3>Overview</h3>
-                                        <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                        <img class="mb30 img-fluid" src="{{ "assets/img/BehaviorDrivenDevelopmentUsingCucumberAndConcordion-cover.png" | relative_url }}" alt="">
                                         <div class="track-details">
                                         <div class="details mr40">
                                             <img src="/assets/img/ico-calendar.svg" alt="">
