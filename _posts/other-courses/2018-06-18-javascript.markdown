@@ -3,6 +3,10 @@ layout:             training-tracks
 class:              trackdetails
 title:              Javascript
 title_seo:          Javascript Training Philippines
+titles:             O&B Javascript
+desc:               "The course will cover both basic & advanced features of JavaScript and provide extensive exercises of the fundamentals."
+description:        The course will cover both basic & advanced features of JavaScript and provide extensive exercises of the fundamentals.
+photo:              "https://university.orangeandbronze.com/assets/img/JavaScript-FBLinkPostPhoto.png"
 short_description:  The course will cover both basic & advanced features of JavaScript and provide extensive exercises of the fundamentals.
 image:              assets/img/course-js.png
 date:               2018-06-18 08:00:00 +0800
@@ -27,7 +31,7 @@ categories:         other_courses
                             <div class="track-content">
                                 <section id="overview">
                                     <h3>Overview</h3>
-                                    <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/JavaScript-cover.png" | relative_url }}" alt="">
                                     <div class="track-details">
                                         <div class="details mr40">
                                             <img src="/assets/img/ico-calendar.svg" alt="">
