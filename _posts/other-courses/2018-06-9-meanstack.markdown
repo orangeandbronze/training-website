@@ -3,6 +3,10 @@ layout:             training-tracks
 class:              trackdetails
 title:              MEAN Stack Development
 title_seo:          Angular Node Training Philippines
+titles:             O&B MEAN Stack Development
+desc:               "This course teaches participants the full stack javascript framework which simplifies and accelerates web application development with MongoDB, Express, Angular.js and Node.js."
+description:        This course teaches participants the full stack javascript framework which simplifies and accelerates web application development with MongoDB, Express, Angular.js and Node.js.
+photo:              "https://university.orangeandbronze.com/assets/img/FundamentalsOfMEANStackDevelopment-FBLinkPostPhoto.png"
 short_description:  This course teaches participants the full stack javascript framework which simplifies and accelerates web application development with MongoDB, Express, Angular.js and Node.js.
 image:              assets/img/course-mean.png
 date:               2018-06-8 08:00:00 +0800
@@ -27,7 +31,7 @@ categories:         other_courses
                             <div class="track-content">
                                 <section id="overview">
                                     <h3>Overview</h3>
-                                    <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/FundamentalsOfMEANStackDevelopment-cover.png" | relative_url }}" alt="">
                                     <div class="track-details">
                                         <div class="details mr40">
                                             <img src="/assets/img/ico-calendar.svg" alt="">
