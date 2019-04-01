@@ -3,6 +3,10 @@ layout:             training-tracks
 class:              trackdetails
 title:              Load Testing with JMeter
 title_seo:          JMeter Testing Training Philippines
+titles:             O&B Introduction to Load Testing with JMeter
+desc:               "This training course will cover the fundamentals of running custom load and performance tests with JMeter."       
+description:        This training course will cover the fundamentals of running custom load and performance tests with JMeter.
+photo:              "https://university.orangeandbronze.com/assets/img/LoadTestingWithJMeter-FBLinkPostPhoto.png"
 short_description:  This training course will cover the fundamentals of running custom load and performance tests with JMeter.
 image:              assets/img/course-jmeter.png
 date:               2018-06-9 08:00:00 +0800
@@ -27,7 +31,7 @@ categories:         other_courses
                             <div class="track-content">
                                 <section id="overview">
                                     <h3>Overview</h3>
-                                    <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/LoadTestingWithJMeter-cover.png" | relative_url }}" alt="">
                                     <div class="track-details">
                                         <div class="details mr40">
                                             <img src="/assets/img/ico-calendar.svg" alt="">

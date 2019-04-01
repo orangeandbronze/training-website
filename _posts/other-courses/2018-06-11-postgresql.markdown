@@ -3,6 +3,10 @@ layout:             training-tracks
 class:              trackdetails
 title:              PostgreSQL
 title_seo:          PostgreSQL Course Philippines
+titles:             "O&B PostgreSQL Course"
+desc:               "This course allows the developer to maximize usage of the PostgreSQL database, as well as avoid common pitfalls."
+description:        PostgreSQL is one of the few open source databases that are well-accepted in corporate environments. It is prized for its stability and performance.
+photo:              "https://university.orangeandbronze.com/assets/img/PostgreSQLTraining-FBLinkPostPhoto.png"
 short_description:  PostgreSQL is one of the few open source databases that are well-accepted in corporate environments. It is prized for its stability and performance.
 image:              assets/img/course-php.png
 date:               2018-06-11 08:00:00 +0800
@@ -27,7 +31,7 @@ categories:         other_courses
                             <div class="track-content">
                                 <section id="overview">
                                     <h3>Overview</h3>
-                                    <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/PostgreSQLTraining-cover.png" | relative_url }}" alt="">
                                     <div class="track-details">
                                         <div class="details mr40">
                                             <img src="/assets/img/ico-calendar.svg" alt="">

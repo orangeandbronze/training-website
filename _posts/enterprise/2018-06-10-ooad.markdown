@@ -3,7 +3,11 @@ layout:             training-tracks
 class:              trackdetails
 title:              Object-Oriented Analysis & Design
 title_seo:          OOAD Training Philippines
-short_description:  MongoDB is a popular non-SQL database that stores data as JSON-like documents.
+titles:             O&B Object-Oriented Analysis & Design
+desc:               "This course is applicable for both Business Analysts and Software Engineers to understand the process of transforming business requirements into an initial system design."
+description:        This course is applicable for both Business Analysts and Software Engineers to understand the process of transforming business requirements into an initial system design.
+photo:              "https://university.orangeandbronze.com/assets/img/Object-Oriented-Analysis-_-Design-FBLinkPostPhoto.png"
+short_description:  This course is applicable for both Business Analysts and Software Engineers to understand the process of transforming business requirements into an initial system design.           
 date:               2018-06-10 08:00:00 +0800
 categories:         enterprise
 ---
@@ -26,7 +30,7 @@ categories:         enterprise
                             <div class="track-content">
                                 <section id="overview">
                                     <h3>Overview</h3>
-                                    <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/Object-Oriented-Analysis-_-Design-cover.png" | relative_url }}" alt="">
                                     <div class="track-details">
                                         <div class="details mr40">
                                             <img src="/assets/img/ico-calendar.svg" alt="">

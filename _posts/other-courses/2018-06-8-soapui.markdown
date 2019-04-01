@@ -3,7 +3,11 @@ layout:             training-tracks
 class:              trackdetails
 title:              Web Services API Testing with SoapUI
 title_seo:          SOAP UI Training Philippines
-short_description:  This training course will cover the fundamentals of running custom load and performance tests with JMeter.
+titles:             "O&B Web Services API Testing with SoapUI"
+desc:               "Web services APIs are ubiquitous in modern enterprise applications, and SoapUI is the most popular tool for automating the testing of web services APIs."
+description:        Web services APIs are ubiquitous in modern enterprise applications, and SoapUI is the most popular tool for automating the testing of web services APIs.
+photo:              "https://university.orangeandbronze.com/assets/img/WebServicesAPITestingWithSoaUI-FBLinkPostPhoto.png"
+short_description:  Web services APIs are ubiquitous in modern enterprise applications, and SoapUI is the most popular tool for automating the testing of web services APIs.
 image:              assets/img/course-jmeter.png
 date:               2018-06-9 08:00:00 +0800
 categories:         other_courses
@@ -27,7 +31,7 @@ categories:         other_courses
                             <div class="track-content">
                                 <section id="overview">
                                     <h3>Overview</h3>
-                                    <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/WebServicesAPITestingWithSoapUI-cover.png" | relative_url }}" alt="">
                                     <div class="track-details">
                                         <div class="details mr40">
                                             <img src="/assets/img/ico-calendar.svg" alt="">

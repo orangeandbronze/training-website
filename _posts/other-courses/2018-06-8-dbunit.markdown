@@ -3,7 +3,11 @@ layout:             training-tracks
 class:              trackdetails
 title:              Database Testing & Test Data Management with DB Unit
 title_seo:          BDUnit Training Philippines
-short_description:  This training course will cover the fundamentals of running custom load and performance tests with JMeter.
+titles:             O&B Database Testing & Test Data Management with DB Unit
+desc:               "One of the toughest and most tedious part of enterprise testing is preparing the database with the right test data for each test, and then resetting the data after each test. This is exactly what DB Unit does. "
+description:        One of the toughest and most tedious part of enterprise testing is preparing the database with the right test data for each test, and then resetting the data after each test. This is exactly what DB Unit does. 
+photo:              "https://university.orangeandbronze.com/assets/img/DatabaseTestingAndTestDataManagementWithDBUnit-FBLinkPostPhoto.png"
+short_description:  One of the toughest and most tedious part of enterprise testing is preparing the database with the right test data for each test, and then resetting the data after each test. This is exactly what DB Unit does. 
 image:              assets/img/course-jmeter.png
 date:               2018-06-9 08:00:00 +0800
 categories:         other_courses
@@ -27,7 +31,7 @@ categories:         other_courses
                             <div class="track-content">
                                 <section id="overview">
                                     <h3>Overview</h3>
-                                    <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/DatabaseTestingAndTestDataManagementWithDBUnit-cover.png" | relative_url }}" alt="">
                                     <div class="track-details">
                                         <div class="details mr40">
                                             <img src="/assets/img/ico-calendar.svg" alt="">

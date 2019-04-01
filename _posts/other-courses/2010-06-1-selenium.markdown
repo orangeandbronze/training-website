@@ -3,7 +3,11 @@ layout:             training-tracks
 class:              trackdetails
 title:              Selenium IDE & Web Driver
 title_seo:          Selenium Training Philippines
-short_description:  Understand how business requirements become database designs, and the basics of reading and writing to a relational database using SQL.
+titles:             "O&B Selenium IDE & Web Driver"
+desc:               "The course is pragmatic, focusing on realistic exercises to apply the learned knowledge against scenarios that would be similar to what the tester might encounter in the real-world."
+description:        The course is pragmatic, focusing on realistic exercises to apply the learned knowledge against scenarios that would be similar to what the tester might encounter in the real-world.
+photo:              "https://university.orangeandbronze.com/assets/img/SeleniumIDEAnsWebDriver-FBLinkPostPhoto.png"
+short_description:  The course is pragmatic, focusing on realistic exercises to apply the learned knowledge against scenarios that would be similar to what the tester might encounter in the real-world.
 image:              assets/img/course-sql.png
 date:               2018-06-12 08:00:00 +0800
 categories:         other_courses
@@ -27,7 +31,7 @@ categories:         other_courses
                                 <div class="track-content">
                                     <section id="overview">
                                         <h3>Overview</h3>
-                                        <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                        <img class="mb30 img-fluid" src="{{ "assets/img/SeleniumIDEAnsWebDriver-cover.png" | relative_url }}" alt="">
                                         <div class="track-details">
                                         <div class="details mr40">
                                             <img src="/assets/img/ico-calendar.svg" alt="">

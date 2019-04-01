@@ -3,6 +3,10 @@ layout:             training-tracks
 class:              trackdetails
 title:              Database Optimization
 title_seo:          Database Training Philippines
+titles:             "O&B Database Optimization"
+desc:               "Prevention is better than cure.  This course covers common database performance problems and how to avoid them."
+description:        Prevention is better than cure.  This course covers common database performance problems and how to avoid them.
+photo:              "https://university.orangeandbronze.com/assets/img/DatabaseOptimization-FBLinkPostPhoto.png"
 short_description:  How to avoid common database problems.
 image:              assets/img/course-database-optimization.png
 date:               2018-06-19 08:00:00 +0800
@@ -34,7 +38,7 @@ categories:         other_courses
                             <div class="track-content">
                                 <section id="overview">
                                     <h3>Overview</h3>
-                                    <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/DatabaseOptimization-cover.png" | relative_url }}" alt="">
                                     <div class="track-details">
                                         <div class="details mr40">
                                             <img src="/assets/img/ico-calendar.svg" alt="">
