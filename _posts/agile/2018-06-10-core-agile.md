@@ -68,7 +68,7 @@ categories:         agile
                                     <li>Requirements</li>
                                     <li>Estimation &amp; Planning</li>
                                     <li>Iterative Development</li>
-                                    <li>"Fixed-Scope" Projects</li>
+                                    <li>Scaling Agile: SAFe, LeSS &amp; DA</li>
                                     <li>Kanban</li>
                                     <li>Agile Engineering</li>
                                     </ul>
