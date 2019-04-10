@@ -57,15 +57,18 @@ categories:         other_courses
                                         </h3>
                                         <h5 class="course-title">Selenium IDE & Web Driver</h5>
                                         <ul class="course-outline">
+                                        <li>Overview of Test Automation</li>
                                         <li>Introduction to Selenium</li>
                                         <li>Using the Selenium IDE (record and playback)</li>
-                                        <li>JUnit</li>
+                                        <li>Unit Testing w/ JUnit</li>
+                                        <li>Mock Testing w/ Mockito</li>
+                                        <li>Review of CSS Locators</li>
+                                        <li>Review of XPath</li>
                                         <li>Programming Selenium Web Driver
                                             <ul>
                                                 <li>Setting up</li>
                                                 <li>Navigation</li>
-                                                <li>Web elements</li>
-                                                <li>Local web elements</li>
+                                                <li>Referencing Web Elements using Locators - Id, Name, CSS, XPath</li>
                                                 <li>Handling text boxes</li>
                                                 <li>Handling dropdown/select elements</li>
                                                 <li>Handling multiple select elements</li>
@@ -74,10 +77,11 @@ categories:         other_courses
                                                 <li>Handling keyboard and mouse events</li>
                                                 <li>Using Actions and Action</li>
                                                 <li>Handling Web Tables</li>
-                                                <li>Using XPath Locator</li>
                                                 <li>Handling Upload and Download</li>
                                             </ul>
                                         </li>
+                                        <li>Creating Libraries (PageObject Model)</li>
+                                        <li>Best Practices</li>
                                         </ul>
                                     </section>
                                 </div>
