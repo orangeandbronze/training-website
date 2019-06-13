@@ -107,6 +107,7 @@ categories:         other_courses
                                         <li>Routing</li>
                                     </ul>
                                 </section>
+                                <!--
                                 <section id="faq">
                                     <h3>Frequently Asked Questions</h3>
                                     <div class="faq-list" id="accordion">
@@ -144,7 +145,7 @@ categories:         other_courses
                                         </a>
 
                                     </div>
-                                </section>
+                                </section> -->
 
                             </div>
 
