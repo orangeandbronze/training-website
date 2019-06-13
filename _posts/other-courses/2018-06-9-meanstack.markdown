@@ -107,11 +107,9 @@ categories:         other_courses
                                         <li>Routing</li>
                                     </ul>
                                 </section>
-                                <!--
                                 <section id="faq">
                                     <h3>Frequently Asked Questions</h3>
                                     <div class="faq-list" id="accordion">
-
                                         <a class="faq-card">
                                             <div class="faq-header collapsed" id="heading-1" data-toggle="collapse" data-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">
                                                 <h4 class="title">
@@ -121,10 +119,10 @@ categories:         other_courses
                                             </div>
                                             <div id="collapse-1" class="collapse faq-body" aria-labelledby="heading-1" data-parent="#accordion">
                                                 <div class="content">
-                                                    <p>
-                                                        Kindly fill-out the online application form and then submit your resume to
-                                                        <a href="mailto:careers@orangeandbronze.com">careers@orangeandbronze.com</a> and indicate the position in the subject line.
-                                                    </p>
+                                                     <ul>
+                                                        <li>Previous web development experience using other technologies e.g. nodeJS, PHP, ASP.net, Java</li>
+                                                        <li>Basic JavaScript knowledge</li>
+                                                    </ul>
                                                 </div>
                                             </div>
                                         </a>
@@ -137,15 +135,19 @@ categories:         other_courses
                                             </div>
                                             <div id="collapse-2" class="collapse faq-body" aria-labelledby="heading-2" data-parent="#accordion">
                                                 <div class="content">
-                                                    <p>
-                                                        You will receive an e-mail acknowledgement about your job application. If you are qualified for the position, you will be contacted by a recruiter to invite you to take our examination.
-                                                    </p>
+                                                    <ul>
+                                                        <li>Be able to build a SPA (single page application) using Angular</li>
+                                                        <li>Understand the new compilation workflow of Angular using the CLI</li>
+                                                        <li>Build a web app using Angular components</li>
+                                                        <li>Understand the role of Angular with RESTful endpoints</li>
+                                                        <li>Understand how authentication works in Angular </li>
+                                                    </ul>
                                                 </div>
                                             </div>
                                         </a>
 
                                     </div>
-                                </section> -->
+                                </section>
 
                             </div>
 
