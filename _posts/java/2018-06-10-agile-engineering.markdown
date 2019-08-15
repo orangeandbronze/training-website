@@ -8,6 +8,7 @@ desc:               "This course goes beyond an academic discussion of Object-Or
 photo:              "https://university.orangeandbronze.com/assets/img/AgileEngineeringAndBestPractices-FbLinkPostPhoto.png"
 description:        This course goes beyond an academic discussion of Object-Oriented Design and goes into a deep discussion of its effects on practical software engineering concerns such as maintainability, testability and reuse.
 short_description:  This course goes beyond an academic discussion of Object-Oriented Design and goes into a deep discussion of its effects on practical software engineering concerns such as maintainability, testability and reuse.
+keywords:           Scrum Training Philippines, Agile Training Philippines, Agile Classes Philippines, Agile Courses Philippines, Business Analysis Training Philippines, Scrum Training Manila,  Agile Philippines, Scrum and Agile Training Philippines
 date:               2018-06-10 08:00:00 +0800
 categories:         java
 ---
