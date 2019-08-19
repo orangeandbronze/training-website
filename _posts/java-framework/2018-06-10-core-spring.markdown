@@ -8,6 +8,7 @@ desc:               "This course is designed for experienced developers who woul
 description:        This course is designed for experienced developers who would like to gain more depth on Spring and building loosely-coupled and testable applications, as well as aspect oriented programming.
 photo:              "https://university.orangeandbronze.com/assets/img/CoreSpringTraining-FbLinkPostPhoto.png.png"
 short_description:  This course is designed for experienced developers who would like to gain more depth on Spring and building loosely-coupled and testable applications, as well as aspect oriented programming.
+keywords:           Spring Training Philippines, Spring Training Manila, Spring Training Makati, Java Training Philippines, AOP Training Philippines
 date:               2018-06-10 08:00:00 +0800
 categories:         java-framework
 ---
