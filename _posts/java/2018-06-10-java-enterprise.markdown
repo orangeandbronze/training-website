@@ -8,6 +8,7 @@ desc:               "This course provides a rigorous introduction to enterprise 
 description:        This course provides a rigorous introduction to enterprise development, including solving common problems of persistence, concurrency, organizing business logic, and communication over the web.
 photo:              "https://university.orangeandbronze.com/assets/img/JavaEnterpriseFundamentalsAndBestPractices-FBLinkPostPhoto.png"
 short_description:  This course provides a rigorous introduction to enterprise development, including solving common problems of persistence, concurrency, organizing business logic, and communication over the web.
+keywords: JavaEE Training Philippines, JavaEE Training Manila, JavaEE Training Makati, Servlets Training Philippines,
 date:               2018-06-10 08:00:00 +0800
 categories:         java
 ---
