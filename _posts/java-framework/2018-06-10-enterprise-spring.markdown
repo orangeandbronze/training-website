@@ -8,6 +8,7 @@ desc:               "This course will discuss the important topics and technolog
 description:        This course will discuss the important topics and technologies related to enterprise application integration. This hands-on training teaches you how to apply Spring technologies to solve integration problems that face server-side developers.
 photo:              "https://university.orangeandbronze.com/assets/img/EnterpriseIntegrationWithSpring-FBLinkPostPhoto.png"
 short_description:  This course will discuss the important topics and technologies related to enterprise application integration. This hands-on training teaches you how to apply Spring technologies to solve integration problems that face server-side developers.
+keywords:           Integration with Spring Training Philippines, Integration with Spring Training Manila, Integration with Spring Training Makati, REST Web Services, Spring Integration Philippines, Spring Batch
 date:               2018-06-10 08:00:00 +0800
 categories:         java-framework
 ---
