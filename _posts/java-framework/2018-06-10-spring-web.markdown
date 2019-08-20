@@ -8,6 +8,7 @@ desc:               "This hands-on training teaches you how to apply Spring to c
 description:        This hands-on training teaches you how to apply Spring to create Web applications.
 photo:              "https://university.orangeandbronze.com/assets/img/SpringWeb-FBLinkPostPhoto.png"
 short_description:  MongoDB is a popular non-SQL database that stores data as JSON-like documents.
+keywords:           Spring Training Philippines, Java Training Philippines, Spring Training Manila, Spring Training Makati, Spring Frameworks Training
 date:               2018-06-10 08:00:00 +0800
 categories:         java-framework
 ---
