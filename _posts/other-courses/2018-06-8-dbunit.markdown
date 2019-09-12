@@ -6,6 +6,7 @@ title_seo:          BDUnit Training Philippines
 titles:             O&B Database Testing & Test Data Management with DB Unit
 desc:               "One of the toughest and most tedious part of enterprise testing is preparing the database with the right test data for each test, and then resetting the data after each test. This is exactly what DB Unit does. "
 description:        One of the toughest and most tedious part of enterprise testing is preparing the database with the right test data for each test, and then resetting the data after each test. This is exactly what DB Unit does. 
+keywords:           BDUnit Training Philippines, Database Testing & Test Data Management with DB Unit Training Course Philippines
 photo:              "https://university.orangeandbronze.com/assets/img/DatabaseTestingAndTestDataManagementWithDBUnit-FBLinkPostPhoto.png"
 short_description:  One of the toughest and most tedious part of enterprise testing is preparing the database with the right test data for each test, and then resetting the data after each test. This is exactly what DB Unit does. 
 image:              assets/img/course-jmeter.png

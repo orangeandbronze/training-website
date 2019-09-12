@@ -6,6 +6,7 @@ title_seo:          Java Testing Training Philippines
 titles:             O&B Agile Testing & Test Automation
 desc:               "Understand how business requirements become database designs, and the basics of reading and writing to a relational database using SQL (Structured Query Language)."
 description:        Understand how business requirements become database designs, and the basics of reading and writing to a relational database using SQL (Structured Query Language).
+keywords:           Java Testing Training Philippines, Java Testing Training Manila, Agile Testing and Test Automation Training Course Philippines
 photo:              "https://university.orangeandbronze.com/assets/img/AgileTestingAndTestAutomation-FBLinkPostPhoto.png"
 short_description:  Understand how business requirements become database designs, and the basics of reading and writing to a relational database using SQL.
 image:              assets/img/course-sql.png
