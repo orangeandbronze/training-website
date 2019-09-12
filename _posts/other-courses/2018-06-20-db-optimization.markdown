@@ -6,6 +6,7 @@ title_seo:          Database Training Philippines
 titles:             "O&B Database Optimization"
 desc:               "Prevention is better than cure.  This course covers common database performance problems and how to avoid them."
 description:        Prevention is better than cure.  This course covers common database performance problems and how to avoid them.
+keywords:           Database Training Philippines, Database Training Course Manila, Database Optimization Courses in Manila, Database Optimization Training Philippines
 photo:              "https://university.orangeandbronze.com/assets/img/DatabaseOptimization-FBLinkPostPhoto.png"
 short_description:  How to avoid common database problems.
 image:              assets/img/course-database-optimization.png

@@ -6,6 +6,7 @@ title_seo:          PostgreSQL Course Philippines
 titles:             "O&B PostgreSQL Course"
 desc:               "This course allows the developer to maximize usage of the PostgreSQL database, as well as avoid common pitfalls."
 description:        PostgreSQL is one of the few open source databases that are well-accepted in corporate environments. It is prized for its stability and performance.
+keywords:           PostgreSQL Course Philippines, PostgreSQL Course Manila, PostgreSQL Training Philippines, PostgreSQL Certification Philippines
 photo:              "https://university.orangeandbronze.com/assets/img/PostgreSQLTraining-FBLinkPostPhoto.png"
 short_description:  PostgreSQL is one of the few open source databases that are well-accepted in corporate environments. It is prized for its stability and performance.
 image:              assets/img/course-php.png

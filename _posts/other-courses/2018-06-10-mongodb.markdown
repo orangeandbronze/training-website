@@ -6,6 +6,7 @@ title_seo:          Mongo DB Training Philippines
 titles:             "O&B Mongo DB"
 desc:               "MongoDB is a popular non-SQL database that stores data as JSON-like documents. Schemas need not be defined upfront, providing developers with flexibility when dealing with often-changing data models. It is designed to easily support sharding (horizontal partitioning)."
 description:        MongoDB is a popular non-SQL database that stores data as JSON-like documents. Schemas need not be defined upfront, providing developers with flexibility when dealing with often-changing data models. It is designed to easily support sharding (horizontal partitioning).
+keywords:           MongoDB Training Philippines, MongoDB Training Manila, MongoDB Certification Training Course Philippines, MongoDB Fundamentals,
 photo:              "https://university.orangeandbronze.com/assets/img/MongoDB-FBLinkPostPhoto.png"
 short_description:  MongoDB is a popular non-SQL database that stores data as JSON-like documents.
 image:              assets/img/course-mongo.png
