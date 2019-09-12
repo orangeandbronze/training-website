@@ -6,6 +6,7 @@ title_seo:          Java TDD Training Philippines
 titles:             "O&B Advanced Test-Driven Development in Java"
 desc:               "This course covers more advance topics such as isolating code under test from its dependencies, using Mock Objects, testing when databases are involved, and testing with the Spring Framework."
 description:        This course covers more advance topics such as isolating code under test from its dependencies, using Mock Objects, testing when databases are involved, and testing with the Spring Framework.
+keywords:           Advance Test-Driven Development Philippines, Test-Driven Development (TDD) Training, Testing with Database Using DBUnit, Advance Test-Driven Development Manila, Advance Test-Driven Development Training Course Philippines 
 photo:              "https://university.orangeandbronze.com/assets/img/AdvancedTestDrivenDevelopment-FBLinkPostPhoto.png"
 short_description:  This course covers more advance topics such as isolating code under test from its dependencies, using Mock Objects, testing when databases are involved, and testing with the Spring Framework.
 date:               2018-06-10 08:00:00 +0800

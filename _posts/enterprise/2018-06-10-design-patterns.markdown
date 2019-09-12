@@ -6,6 +6,7 @@ title_seo:          Java Design Patterns Training Philippines
 titles:             O&B Design Patterns Training
 desc:               "The course teaches both the foundational (aka Gang of Four or GoF) design patterns as well as the Enterprise Application design patterns which focus on building enterprise applications, covering such topics as designing web components, business logic, and persistence."
 description:        The course teaches both the foundational (aka Gang of Four or GoF) design patterns as well as the Enterprise Application design patterns which focus on building enterprise applications, covering such topics as designing web components, business logic, and persistence.
+keywords:           Design Patterns Training Courses in Manila, Design Patterns Training Courses in Makati, Design Patterns Training Courses in Philippines
 photo:              "https://university.orangeandbronze.com/assets/img/DesignPatterns-FBLinkPostPhoto.png"
 short_description:  The course teaches both the foundational (aka Gang of Four or GoF) design patterns as well as the Enterprise Application design patterns which focus on building enterprise applications, covering such topics as designing web components, business logic, and persistence.
 date:               2018-06-10 08:00:00 +0800

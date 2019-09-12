@@ -6,6 +6,7 @@ title_seo:          OOAD Training Philippines
 titles:             O&B Object-Oriented Analysis & Design
 desc:               "This course is applicable for both Business Analysts and Software Engineers to understand the process of transforming business requirements into an initial system design."
 description:        This course is applicable for both Business Analysts and Software Engineers to understand the process of transforming business requirements into an initial system design.
+keywords:           OOAD Training Philippines, Object Oriented Analysis and Design Training Philippines, Object Oriented Analysis and Design Training Makati, 
 photo:              "https://university.orangeandbronze.com/assets/img/Object-Oriented-Analysis-_-Design-FBLinkPostPhoto.png"
 short_description:  This course is applicable for both Business Analysts and Software Engineers to understand the process of transforming business requirements into an initial system design.           
 date:               2018-06-10 08:00:00 +0800
