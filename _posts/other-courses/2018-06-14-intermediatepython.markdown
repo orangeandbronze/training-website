@@ -7,7 +7,8 @@ titles:             O&B Intermediate Python
 desc:               "Advanced topics include a discussion on the importing function, error handling, and basic
                     object oriented programming.  "
 description:        Advanced topics include a discussion on the importing function, error handling, and basic
-                    object oriented programming.  
+                    object oriented programming. 
+keywords:           Python Training Philippines, Python Training Course Philippines, Python Programming Course Philippines, Python Training Course in Manila 
 photo:              "https://university.orangeandbronze.com/assets/img/IntermediatePython-FBLinkPostPhoto.png"
 short_description:  Advanced topics include a discussion on the importing function, error handling, and basic
                     object oriented programming.  

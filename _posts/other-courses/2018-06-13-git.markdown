@@ -6,6 +6,7 @@ title_seo:          Git Training Philippines
 titles:             "O&B Introduction to GIT"
 desc:               "This course introduces version control best practices as well as best practices specific to Git, and introduces Git’s powerful features."
 description:        This course introduces version control best practices as well as best practices specific to Git, and introduces Git’s powerful features.
+keywords:           Git Training Philippines, Git Training Course Philippines, Git Course Philippines, Git Course Manila, Introduction to Git
 photo:              "https://university.orangeandbronze.com/assets/img/IntroductionToGit-FBLinkPostPhoto.png"
 short_description:  This course introduces version control best practices as well as best practices specific to Git, and introduces Git’s powerful features.
 image:              assets/img/course-git.png

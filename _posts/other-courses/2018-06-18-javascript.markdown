@@ -6,6 +6,7 @@ title_seo:          Javascript Training Philippines
 titles:             O&B Javascript
 desc:               "The course will cover both basic & advanced features of JavaScript and provide extensive exercises of the fundamentals."
 description:        The course will cover both basic & advanced features of JavaScript and provide extensive exercises of the fundamentals.
+keywords:           JavaScript Training Philippines, JavaScript Programming Philippines, JavaScript Training Course Philippines, JavaScript Courses in Manila, Core JavaScript Training, HTML DOM Training Philippines
 photo:              "https://university.orangeandbronze.com/assets/img/JavaScript-FBLinkPostPhoto.png"
 short_description:  The course will cover both basic & advanced features of JavaScript and provide extensive exercises of the fundamentals.
 image:              assets/img/course-js.png

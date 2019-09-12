@@ -6,6 +6,7 @@ title_seo:          HTML CSS Training Philippines
 titles:             O&B HTML / CSS
 desc:               "This training course will cover an introduction of HTML and CSS, along with a brief introduction of Javascript and Bootstrap."
 description:        This training course will cover an introduction of HTML and CSS, along with a brief introduction of Javascript and Bootstrap.
+keywords:           HTML CSS Training Philippines, HTML CSS Training Manila, HTML CSS Training Course Philippines, HTML Training Manila, HTML Training Philippines, Web Development Training Philippines, CSS Training Philippines, HTML Tutorial Philippines, HTML Training Course Philippines, CSS Fundamentals Training Manila
 photo:              "https://university.orangeandbronze.com/assets/img/HTML-CSS-FBLinkPostPhoto.png"
 short_description:  This training course will cover an introduction of HTML and CSS, along with a brief introduction of Javascript and Bootstrap.
 image:              assets/img/course-html.png

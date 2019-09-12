@@ -6,6 +6,7 @@ title_seo:          Angular JS Training Philippines
 titles:             O&B AngularJS
 desc:               "You will be able to create rich and powerful SPAs and communicate with RESTful services on the backend in order to retrieve and persist data."
 description:        You will be able to create rich and powerful SPAs and communicate with RESTful services on the backend in order to retrieve and persist data.
+keywords:           Angular JS Training Philippines, AngularJS Course Philippines, Angular JS Training Course Philippines, Fundamentals of AngularJS Training Course
 photo:              "https://university.orangeandbronze.com/assets/img/AngularJS-FBLinkPostPhoto.png"
 short_description:  You will be able to create rich and powerful SPAs and communicate with RESTful services on the backend in order to retrieve and persist data.
 image:              assets/img/course-angular.png
