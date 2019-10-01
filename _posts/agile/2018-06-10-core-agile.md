@@ -1,9 +1,9 @@
 ---
 layout:             training-tracks
 class:              trackdetails
-title:              Core Agile Workshop with Scrum, Extreme Programming, and Kanban
-title_seo:          Agile Scrum Training Philippines
-titles:             O&B Core Agile Workshop with Scrum, Extreme Programming, and Kanban
+title:              Core Agile Training with Scrum, Extreme Programming, and Kanban
+title_seo:          Agile and Scrum Training Philippines
+titles:             O&B Core Agile Training with Scrum, Extreme Programming, and Kanban
 desc:               "Our approach to Agile training is therefore pragmatic, not theoretical. It is not just a discussion of one methodology or another, but an analysis of why projects succeed or fail, and which practices can address specific issues."
 description:        Our approach to Agile training is therefore pragmatic, not theoretical. It is not just a discussion of one methodology or another, but an analysis of why projects succeed or fail, and which practices can address specific issues.
 photo:              "https://university.orangeandbronze.com/assets/img/CoreAgileWorkshopWithScrumExtremeProgrammingAndKanban-FBLinkPostPhoto.png"
@@ -23,7 +23,7 @@ categories:         agile
                             <h6>
                                 < beyond java />
                             </h6>
-                            <h2>Core Agile Workshop with Scrum, Extreme Programming, and Kanban</h2>
+                            <h2>Core Agile Training with Scrum, Extreme Programming, and Kanban</h2>
                         </div>
                     </div>
                     <div class="row" data-sticky-container>
