@@ -2,7 +2,7 @@
 layout:             training-tracks
 class:              trackdetails
 title:              Java Developer Track
-title_seo:          Java Training Tracks
+title_seo:          Java Training Philippines
 titles:             O&B Java Developer Track
 course_count:       4 courses
 course_duration:    4 weeks
