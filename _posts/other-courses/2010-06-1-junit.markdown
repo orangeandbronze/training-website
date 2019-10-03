@@ -2,7 +2,7 @@
 layout:             training-tracks
 class:              trackdetails
 title:              JUnit Fundamentals
-title_seo:          JUnit Training Philippines
+title_seo:          JUnit Fundamentals Philippines
 titles:             O&B JUnit Fundamentals
 desc:               "JUnit is the most popular Java test automation tool in the world, and the foundation for the majority of Java test automation tools, including Selenium Web Driver, Cucumber and DB Unit."
 description:        JUnit is the most popular Java test automation tool in the world, and the foundation for the majority of Java test automation tools, including Selenium Web Driver, Cucumber and DB Unit.
