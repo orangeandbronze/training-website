@@ -51,6 +51,9 @@ categories:         other_courses
                                         <p>
                                             <a href="/java/core-java/" target="_blank">Core Java</a>
                                         </p>
+                                        <p>
+                                            <a href="/other_courses/html-css/" target="_blank">HTML & CSS</a>
+                                        </p>
                                     </section>
                                     <section id="topic-outline">
                                         <h4>
@@ -60,12 +63,13 @@ categories:         other_courses
                                         <ul class="course-outline">
                                         <li>Project Set-Up</li>
                                         <li>Creating a Test Class</li>
-                                        <li>Running your Test</li>
+                                        <li>Running Your Test</li>
+                                        <li>Debugging with JUnit</li>
                                         <li>Adding Additional Scenarios</li>
                                         <li>DAMP vs DRY</li>
-                                        <li>Testing methods that throw exceptions</li>
-                                        <li>Preventing test executions form interfering with each other</li>
-                                        <li>Unit testing guidelines</li>
+                                        <li>Testing Methods that Throw Exceptions</li>
+                                        <li>Preventing Test Executions from Interfering with Each Other</li>
+                                        <li>Unit Testing Guidelines</li>
                                         </ul>
                                     </section>
                                 </div>
