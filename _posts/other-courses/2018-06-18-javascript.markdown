@@ -24,7 +24,7 @@ categories:         other_courses
                             <h6>
                                 < Beyond Java />
                             </h6>
-                            <h2>Javascript Course</h2>
+                            <h2>JavaScript Fundamentals</h2>
                         </div>
                     </div>
                     <div class="row" data-sticky-container>

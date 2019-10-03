@@ -24,7 +24,7 @@ categories:         other_courses
                             <h6>
                                 < beyond java />
                             </h6>
-                            <h2>MongoDB Course</h2>
+                            <h2>MongoDB Fundamentals</h2>
                         </div>
                     </div>
                     <div class="row" data-sticky-container>
