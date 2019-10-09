@@ -51,7 +51,7 @@ categories:         other_courses
                                     <p>
                                         <ul>
                                             <li><a href="/other_courses/mongodb/" target="_blank">MongoDB Fundamentals</a></li>
-                                            <li><a href="/java/java-enterprise/" targt="_blank">Java Enterprise Fundamentals and Best Practices</a></li>
+                                            <li><a href="/java/java-enterprise/" target="_blank">Java Enterprise Fundamentals and Best Practices</a></li>
                                         </ul>
                                     </p>
                                 </section>
