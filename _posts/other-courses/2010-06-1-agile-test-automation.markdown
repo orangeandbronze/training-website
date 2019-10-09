@@ -55,7 +55,7 @@ categories:         other_courses
                                             Prerequisite
                                         </h4>
                                         <p>
-                                            <a href="/java/core-java/" target="_blnak">Core Java and Commonly-Used Libraries</a><br/><a href="/other_courses/html-css/" target="_blank">HTML</a>
+                                            <a href="/java/core-java/" target="_blank">Core Java and Commonly-Used Libraries</a><br/><a href="/other_courses/html-css/" target="_blank">HTML</a>
                                         </p>
                                     </section>
                                     <section id="topic-outline">

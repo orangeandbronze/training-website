@@ -50,8 +50,8 @@ categories:         other_courses
                                     </h4>
                                     <p>
                                         <ul>
-                                            <li>MongoDB Fundamentals</li>
-                                            <li>Java Enterprise Development Fundamentals</li>
+                                            <li><a href="/other_courses/mongodb/" target="_blank">MongoDB Fundamentals</a></li>
+                                            <li><a href="/java/java-enterprise/" targt="_blank">Java Enterprise Fundamentals and Best Practices</a></li>
                                         </ul>
                                     </p>
                                 </section>
