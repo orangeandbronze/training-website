@@ -54,7 +54,7 @@ categories:         java
                                         Prerequisite
                                     </h4>
                                     <p>
-                                        Trainees must be familiar with <a href="http://localhost:4000/java/core-java/" target="_blank">Core Java & Commonly-Used Libraries.</a>
+                                        Trainees must be familiar with <a href="/java/core-java/" target="_blank">Core Java & Commonly-Used Libraries.</a>
                                     </p>
                                 </section>
                                 <section id="topic-outline">
