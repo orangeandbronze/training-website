@@ -42,7 +42,7 @@ categories:         enterprise
                                     <p>This class was developed and is taught by some of the Philippines' well-known and respected Java software engineers and architects, and uses the format trusted by some of the best companies in the Philippines.</p>
                                     <h4>Prerequisites</h4>
                                     <ul><li>Basic knowledge of test-driven development.</li>
-                                    <li>SQL</li>
+                                    <li><a href="/other_courses/sql/">SQL</a></li>
                                     <li>JDBC</li>
                                     <li>Spring Framework</li>
                                     </ul>
