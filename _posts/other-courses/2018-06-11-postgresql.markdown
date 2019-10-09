@@ -55,7 +55,7 @@ categories:         other_courses
                                         Prerequisite
                                     </h4>
                                     <p>
-                                        SQL Fundamentals
+                                        <a href="/other_courses/sql/">SQL Fundamentals</a>
                                     </p>
                                 </section>
                                 <section id="topic-outline">
