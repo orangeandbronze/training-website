@@ -6,7 +6,7 @@ title_seo:          Scrum and Agile Training Philippines
 titles:             O&B Agile Manager Track
 course_count:       4 courses
 course_duration:    3 weeks
-desc:               "The Agile Manager Track is meant to provide a wide view of the methodologies and practices available in Agile, and to which situation each is applicable."
+desc:               "Agile and Scrum Training Philippines - The Agile Manager Track is meant to provide a wide view of the methodologies and practices available in Agile, and to which situation each is applicable."
 photo:              "https://university.orangeandbronze.com/assets/img/AgileManagerTrack-FBLinkPostPhoto.png"
 short_description:  The Agile Manager Track is meant to provide a wide view of the methodologies and practices available in Agile, and to which situation each is applicable. It also tackles how Agile values affect requirements engineering by immersing participants in the entire project lifecycle - from initial project vision, to user roles, and to the first iteration and release.
 image:              assets/img/img-trainingcard-2.jpg
@@ -32,7 +32,7 @@ categories:         training_tracks
                             <div class="track-content">
                                 <section id="overview">
                                     <h3>Overview</h3>
-                                    <img class="mb30 img-fluid" src="{{ "assets/img/agile-course-cover.jpg" | relative_url }}" alt="">
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/agile-course-cover.jpg" | relative_url }}" alt="O&B instructor standing in front of his students discussing about O&B’s Disciplined Agile Process | Scrum and Agile Training Philippines">
                                     <p>
                                         Orange & Bronze is one of the first companies in Asia to use and advocate Agile Software Development. We have been using it since our inception in 2005, back when Agile was still an emerging movement.
                                     </p>
@@ -85,7 +85,7 @@ categories:         training_tracks
                                     <div class="course-list">
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/agile-course1.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/agile-course1.jpg" | relative_url }}" alt="A student writing a user story. | Scrum and Agile Training Philippines">
                                             </div>
                                             <div class="content">
                                                 <h5>Core Agile Workshop with Scrum, Extreme Programming, and Kanban</h5>
@@ -99,7 +99,7 @@ categories:         training_tracks
                                         </div>
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/agile-course2.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/agile-course2.jpg" | relative_url }}" alt="Participant arranges user stories on table. | Scrum and Agile Training Philippines">
                                             </div>
                                             <div class="content">
                                                 <h5>Agile Requirements, Estimation, and Planning</h5>
@@ -107,13 +107,13 @@ categories:         training_tracks
                                                     This 2-day workshop provides a hands-on simulation on effective requirements elicitation practices, inclusive of having effective discussions with stakeholders, translating vague business needs into specifications, writing of user stories & acceptance criteria, eliciting priorities & test cases, as well as basic Agile approaches to estimation and planning.
                                                 </p>
                                                 <a href="#" data-toggle="modal" data-target="#modalCourse2" class="btn -primary">
-                                                    <img src="{{ "assets/img/ico-arrow-white.svg" | relative_url }}" class="ico" alt=""> View Course Details
+                                                    <img src="{{ "assets/img/ico-arrow-white.svg" | relative_url }}" class="ico" alt="White arrow for course details"> View Course Details
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/agile-course3.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/agile-course3.jpg" | relative_url }}" alt="O&B instructor standing in front of his class talking about Java Best Practices. | Scrum and Agile Training Philippines">
                                             </div>
                                             <div class="content">
                                                 <h5>Agile Engineering & Java Best Practices</h5>
@@ -121,13 +121,13 @@ categories:         training_tracks
                                                     This course goes beyond an academic discussion of Object-Oriented Design and goes into a deep discussion of its effects on practical software engineering concerns such as maintainability, testability and reuse. The course then proceeds to discuss critical Java best practices which affect performance and correctness.
                                                 </p>
                                                 <a href="#" data-toggle="modal" data-target="#modalCourse3" class="btn -primary">
-                                                    <img src="{{ "assets/img/ico-arrow-white.svg" | relative_url }}" class="ico" alt=""> View Course Details
+                                                    <img src="{{ "assets/img/ico-arrow-white.svg" | relative_url }}" class="ico" alt="White arrow for course details"> View Course Details
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/agile-course4.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/agile-course4.jpg" | relative_url }}" alt="Two teams are having a hands-on exercise. | Scrum and Agile Training Philippines">
                                             </div>
                                             <div class="content">
                                                 <h5>Agile Testing & Test Automation</h5>
@@ -138,7 +138,7 @@ categories:         training_tracks
                                                     Automated tests can be written even before modules are built. Also, functional tests do not break even with large changes to the UI, or even complete changes in UI technology.
                                                 </p>
                                                 <a href="#" data-toggle="modal" data-target="#modalCourse4" class="btn -primary">
-                                                    <img src="{{ "assets/img/ico-arrow-white.svg" | relative_url }}" class="ico" alt=""> View Course Details
+                                                    <img src="{{ "assets/img/ico-arrow-white.svg" | relative_url }}" class="ico" alt="White arrow for course details"> View Course Details
                                                 </a>
                                             </div>
                                         </div>
