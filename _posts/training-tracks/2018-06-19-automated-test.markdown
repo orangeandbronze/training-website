@@ -10,6 +10,7 @@ desc:               "This track is is meant for engineers who want to pursue a c
 short_description:  This track is is meant for engineers who want to pursue a career in automation testing, and for quality assurance professionals who want to shift from manual testing to automation testing.
 photo:              "https://university.orangeandbronze.com/assets/img/AutomatedTestingTrack-FBLinkPostPhoto.png"
 image:              assets/img/img-trainingcard-5.jpg
+alt:                Orange & Bronze trainee, displays his code on the monitor screen while doing an automation testing. | Automated Testing Training Philippines
 date:               2018-06-19 08:00:00 +0800
 categories:         training_tracks
 ---

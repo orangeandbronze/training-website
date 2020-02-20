@@ -10,6 +10,7 @@ desc:               "This track is designed to prepare senior software developer
 short_description:  This track is designed to prepare senior software developers to assume the role of enterprise application architect, introducing him or her to the heuristics of designing and leading a software project for enterprise software projects. The heart of the course is the Enterprise Design Patterns course, a class that tackles known approaches to designing business applications.
 photo:              "https://university.orangeandbronze.com/assets/img/EnterpriseArchitectTrack-FBLinkPostPhoto.png"
 image:              assets/img/img-trainingcard-4.jpg
+alt:                An Orange & Bronze employee writing his design for software project on whiteboard. | Enterprise Architect Track | Software Training Philippines
 date:               2018-06-19 07:00:00 +0800
 categories:         training_tracks
 ---
