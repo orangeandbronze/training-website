@@ -65,20 +65,30 @@ categories:         other_courses
                                     <h5 class="course-title">Day 1 : Basic Python</h5>
                                     <ul class="course-outline">
                                         <li>Data Types</li>
-                                        <li>Functions</li>
-                                        <li>Parameters</li>
-                                        <li>Boolean</li>
-                                        <li>Lists</li>
-                                        <li>Code blocks</li>
-                                        <li>If statement</li>
-                                        <li>Random Library</li>
-                                        <li>Python Manual</li>
-                                        <li>Turtle / Logo Programming</li>
+                                        <li>Built-In Functions</li>
+                                        <li>Operators</li>
+                                        <li>String Functions</li>
+                                        <li>If Statement</li>
+                                        <li>List Data Type</li>
+                                        <li>For Loops</li>
+                                        <li>Code Blocks</li>
+                                        <li>File Manipulation</li>
+                                        <li>Built-In Libraries</li>
+                                        <li>Making a function</li>
+                                        <li>Basic Object Oriented Programming</li>
+                                        <li>Dictionary</li>
+                                        <li>Lambda</li>
+                                        <li>Error handling</li>
+                                        <li>Python debugger</li>
+                                        <li>Python IDEs</li>
                                         <h5 class="course-title">Day 2 : Practical Python</h5>
+                                        <p>Any libraries or topics requested by audience. Recommended topics:</p>
                                         <ul class="course-outline">
                                             <li>Web programming using Flask</li>
-                                            <li>Database (csv, sqlite, sqlalchemy, etc.)</li>
-                                            <li>Customized libraries or topics upon request by corporate clients</li>
+                                            <li>Internet API connectivity (request)</li>
+                                            <li>Database (csv, sqlite, peewee, etc)</li>
+                                            <li>GUI programming (tkinter, Kivy)</li>
+                                            <li>Basic Data Analysis and Visualization (numpy, matplotlib, jupyter)</li>
                                         </ul>
                                     </ul>
                                     <h5 class="course-title">Day 3: Hackathon</h5>
