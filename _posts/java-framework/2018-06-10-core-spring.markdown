@@ -4,10 +4,10 @@ class:              trackdetails
 title:              Core Spring Training
 title_seo:          Spring Development Training Philippines
 titles:             O&B Core Spring Training
-desc:               "This course is designed for experienced developers who would like to gain more depth on Spring and building loosely-coupled and testable applications, as well as aspect oriented programming."
-description:        This course is designed for experienced developers who would like to gain more depth on Spring and building loosely-coupled and testable applications, as well as aspect oriented programming.
+desc:               "Spring Development Training Philippines - This course is designed for experienced developers who would like to gain more depth on Spring and building loosely-coupled and testable applications, as well as aspect oriented programming."
+description:        Spring Development Training Philippines - This course is designed for experienced developers who would like to gain more depth on Spring and building loosely-coupled and testable applications, as well as aspect oriented programming.
 photo:              "https://university.orangeandbronze.com/assets/img/CoreSpringTraining-FbLinkPostPhoto.png.png"
-short_description:  This course is designed for experienced developers who would like to gain more depth on Spring and building loosely-coupled and testable applications, as well as aspect oriented programming.
+short_description:  Spring Development Training Philippines - This course is designed for experienced developers who would like to gain more depth on Spring and building loosely-coupled and testable applications, as well as aspect oriented programming.
 keywords:           Spring Training Philippines, Spring Training Manila, Spring Training Makati, Java Training Philippines, AOP Training Philippines
 date:               2018-06-10 08:00:00 +0800
 categories:         java-framework

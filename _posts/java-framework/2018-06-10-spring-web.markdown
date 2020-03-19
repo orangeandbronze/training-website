@@ -4,10 +4,10 @@ class:              trackdetails
 title:              Spring Web Training
 title_seo:          Spring Web Training Philippines
 titles:             O&B Spring Web Training
-desc:               "This hands-on training teaches you how to apply Spring to create Web applications."
-description:        This hands-on training teaches you how to apply Spring to create Web applications.
+desc:               "Spring Web Training Philippines - This hands-on training teaches you how to apply Spring to create Web applications."
+description:        Spring Web Training Philippines - This hands-on training teaches you how to apply Spring to create Web applications.
 photo:              "https://university.orangeandbronze.com/assets/img/SpringWeb-FBLinkPostPhoto.png"
-short_description:  MongoDB is a popular non-SQL database that stores data as JSON-like documents.
+short_description:  Spring Web Training Philippines - This hands-on training teaches you how to apply Spring to create Web applications.
 keywords:           Spring Training Philippines, Java Training Philippines, Spring Training Manila, Spring Training Makati, Spring Frameworks Training
 date:               2018-06-10 08:00:00 +0800
 categories:         java-framework

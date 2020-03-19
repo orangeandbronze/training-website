@@ -4,10 +4,10 @@ class:              trackdetails
 title:              Java Enterprise Fundamentals and Best Practices
 title_seo:          Java Enterprise Training Philippines
 titles:             O&B Java Enterprise Fundamentals and Best Practices
-desc:               "This course provides a rigorous introduction to enterprise development, including solving common problems of persistence, concurrency, organizing business logic, and communication over the web."
-description:        This course provides a rigorous introduction to enterprise development, including solving common problems of persistence, concurrency, organizing business logic, and communication over the web.
+desc:               "Java Enterprise Training Philippines - This course provides a rigorous introduction to enterprise development, including solving common problems of persistence, concurrency, organizing business logic, and communication over the web."
+description:        Java Enterprise Training Philippines - This course provides a rigorous introduction to enterprise development, including solving common problems of persistence, concurrency, organizing business logic, and communication over the web.
 photo:              "https://university.orangeandbronze.com/assets/img/JavaEnterpriseFundamentalsAndBestPractices-FBLinkPostPhoto.png"
-short_description:  This course provides a rigorous introduction to enterprise development, including solving common problems of persistence, concurrency, organizing business logic, and communication over the web.
+short_description:  Java Enterprise Training Philippines - This course provides a rigorous introduction to enterprise development, including solving common problems of persistence, concurrency, organizing business logic, and communication over the web.
 keywords:           JavaEE Training Philippines, JavaEE Training Manila, JavaEE Training Makati, Servlets Training Philippines,
 date:               2018-06-10 08:00:00 +0800
 categories:         java

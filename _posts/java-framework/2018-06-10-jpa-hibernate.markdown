@@ -4,10 +4,10 @@ class:              trackdetails
 title:              JPA/Hibernate Training
 title_seo:          Hibernate Training Philippines
 titles:             O&B JPA/Hibernate Training
-desc:               "This course is designed for experienced developers who would like to gain more depth on JPA/Hibernate and ORM frameworks in general."
-description:        This course is designed for experienced developers who would like to gain more depth on JPA/Hibernate and ORM frameworks in general.
+desc:               "Hibernate Training Philippines - This course is designed for experienced developers who would like to gain more depth on JPA/Hibernate and ORM frameworks in general."
+description:        Hibernate Training Philippines - This course is designed for experienced developers who would like to gain more depth on JPA/Hibernate and ORM frameworks in general.
 photo:              "https://university.orangeandbronze.com/assets/img/JPAHibernate-FBLinkPostPhoto.png"
-short_description:  This course is designed for experienced developers who would like to gain more depth on JPA/Hibernate and ORM frameworks in general.
+short_description:  Hibernate Training Philippines - This course is designed for experienced developers who would like to gain more depth on JPA/Hibernate and ORM frameworks in general.
 keywords:           Hibernate Training Philippines, Java Training Philippines, JPA Training Philippines, Hibernate Training Classes, JPA/Hibernate Training Manila, JPA/Hibernate Training Makati
 date:               2018-06-10 08:00:00 +0800
 categories:         java-framework

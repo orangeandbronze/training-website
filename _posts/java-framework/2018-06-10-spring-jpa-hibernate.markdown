@@ -4,10 +4,10 @@ class:              trackdetails
 title:              Combined Spring and JPA/Hibernate Training
 title_seo:          Spring Courses Philippines
 titles:             O&B Combined Spring and JPA/Hibernate Training
-desc:               "This course is designed for experienced developers who would like to gain more depth on Spring and building loosely-coupled and testable applications, as well as aspect oriented programming."
-description:        This course is designed for experienced developers who would like to gain more depth on Spring and building loosely-coupled and testable applications, as well as aspect oriented programming.
+desc:               "Spring Courses Philippines - This course is designed for experienced developers who would like to gain more depth on Spring and building loosely-coupled and testable applications, as well as aspect oriented programming."
+description:        Spring Courses Philippines - This course is designed for experienced developers who would like to gain more depth on Spring and building loosely-coupled and testable applications, as well as aspect oriented programming.
 photo:              "https://university.orangeandbronze.com/assets/img/CombinedSpringAndJPAHibernate-FBLinkPostPhoto.png"
-short_description:  This course is designed for experienced developers who would like to gain more depth on Spring and building loosely-coupled and testable applications, as well as aspect oriented programming.
+short_description:  Spring Courses Philippines - This course is designed for experienced developers who would like to gain more depth on Spring and building loosely-coupled and testable applications, as well as aspect oriented programming.
 keywords:           Hibernate Training Philippines, Java Training Philippines, JPA Training Philippines, Hibernate Training Classes, JPA/Hibernate Training Manila, JPA/Hibernate Training Makati
 date:               2018-06-10 08:00:00 +0800
 categories:         java-framework
