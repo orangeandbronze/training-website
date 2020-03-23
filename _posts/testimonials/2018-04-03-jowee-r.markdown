@@ -13,6 +13,6 @@ categories:   testimonial
         <span>Executive Director, Pointwest Technologies</span>
     </div>
     <div class="testimonial-image">
-        <img src="{{ "assets/img/client-1.png" | relative_url }}" alt="">
+        <img src="{{ "assets/img/client-1.png" | relative_url }}" alt="O&B client photo, Jowee Reyes. Executive Director, Pointwest Technologies">
     </div>
 </div>

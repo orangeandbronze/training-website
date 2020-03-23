@@ -13,6 +13,6 @@ categories:   testimonial
         <span>Platforms Development, Solutions Delivery - Smart Communications</span>
     </div>
     <div class="testimonial-image">
-        <img src="{{ "assets/img/client-3.png" | relative_url }}" alt="">
+        <img src="{{ "assets/img/client-3.png" | relative_url }}" alt="O&B client photo, Richard Salcedo. Platforms Development, Solutions Delivery - Smart Communications">
     </div>
 </div>

@@ -13,6 +13,6 @@ categories:   testimonial
         <span>Systems Analyst, Philippine Airlines</span>
     </div>
     <div class="testimonial-image">
-        <img src="{{ "assets/img/client-2.png" | relative_url }}" alt="">
+        <img src="{{ "assets/img/client-2.png" | relative_url }}" alt="O&B client logo,Philippine Airlines">
     </div>
 </div>
