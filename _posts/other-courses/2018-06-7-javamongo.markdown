@@ -10,6 +10,7 @@ keywords:           Java MongoDB Training Philippines, Java MongoDB Training Man
 photo:              "https://university.orangeandbronze.com/assets/img/UsingJavaWithMongoDB-FBLinkPostPhoto.png"
 short_description:  This course covers the Java API of MongoDB. This training course was developed and is taught by some of the Philippines’ well-known and respected web developers.
 image:              assets/img/course-javamongo.png
+alt:                Java and Mongo Logo | Java Mongo DB Training Philippines
 date:               2018-06-7 08:00:00 +0800
 categories:         other_courses
 ---

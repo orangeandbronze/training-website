@@ -10,6 +10,7 @@ keywords:           Database Training Philippines, Database Training Course Mani
 photo:              "https://university.orangeandbronze.com/assets/img/DatabaseOptimization-FBLinkPostPhoto.png"
 short_description:  How to avoid common database problems.
 image:              assets/img/course-database-optimization.png
+alt:                Vector graphics, 4 layers of gray database | Database Training Philippines | Orange & Bronze Software Labs
 date:               2018-06-19 08:00:00 +0800
 categories:         other_courses
 ---

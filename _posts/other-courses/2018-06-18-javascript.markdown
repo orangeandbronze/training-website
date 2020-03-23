@@ -10,6 +10,7 @@ keywords:           JavaScript Training Philippines, JavaScript Programming Phil
 photo:              "https://university.orangeandbronze.com/assets/img/JavaScript-FBLinkPostPhoto.png"
 short_description:  The course will cover both basic & advanced features of JavaScript and provide extensive exercises of the fundamentals.
 image:              assets/img/course-js.png
+alt:                Java Script Logo | Javascript Training Philippines | Orange and Bronze Software Labs
 date:               2018-06-18 08:00:00 +0800
 categories:         other_courses
 ---

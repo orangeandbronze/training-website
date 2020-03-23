@@ -10,6 +10,7 @@ keywords:           MongoDB Training Philippines, MongoDB Training Manila, Mongo
 photo:              "https://university.orangeandbronze.com/assets/img/MongoDB-FBLinkPostPhoto.png"
 short_description:  MongoDB is a popular non-SQL database that stores data as JSON-like documents.
 image:              assets/img/course-mongo.png
+alt:                MongoDB Logo | MongoDB Training Philippines  | Orange and Bronze Software Labs
 date:               2018-06-10 08:00:00 +0800
 categories:         other_courses
 ---

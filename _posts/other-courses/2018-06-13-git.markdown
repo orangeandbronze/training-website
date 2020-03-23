@@ -10,6 +10,7 @@ keywords:           Git Training Philippines, Git Training Course Philippines, G
 photo:              "https://university.orangeandbronze.com/assets/img/IntroductionToGit-FBLinkPostPhoto.png"
 short_description:  This course introduces version control best practices as well as best practices specific to Git, and introduces Git’s powerful features.
 image:              assets/img/course-git.png
+alt:                Git Logo | Git Training Philippines | Orange and Bronze Software Labs
 date:               2018-06-13 08:00:00 +0800
 categories:         other_courses
 ---

@@ -10,6 +10,7 @@ keywords:           Python Training Philippines, Python Training Course Philippi
 photo:              "https://university.orangeandbronze.com/assets/img/PythonForBeginners-FBLinkPostPhoto.png"
 short_description:  Learn the basics of Python development. 
 image:              assets/img/course-python.png
+alt:                Python Logo | Python Training Philippines | Orange and Bronze Software Labs
 date:               2018-06-14 08:00:00 +0800
 categories:         other_courses
 ---

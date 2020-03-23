@@ -10,6 +10,7 @@ keywords:           PostgreSQL Course Philippines, PostgreSQL Course Manila, Pos
 photo:              "https://university.orangeandbronze.com/assets/img/PostgreSQLTraining-FBLinkPostPhoto.png"
 short_description:  PostgreSQL is one of the few open source databases that are well-accepted in corporate environments. It is prized for its stability and performance.
 image:              assets/img/course-php.png
+alt:                PostgreSQL Logo | PostrgreSQL Course Philippines | Orange and Bronze Software Labs
 date:               2018-06-11 08:00:00 +0800
 categories:         other_courses
 ---

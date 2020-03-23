@@ -10,6 +10,7 @@ keywords:           Java Testing Training Philippines, Java Testing Training Man
 photo:              "https://university.orangeandbronze.com/assets/img/AgileTestingAndTestAutomation-FBLinkPostPhoto.png"
 short_description:  Understand how business requirements become database designs, and the basics of reading and writing to a relational database using SQL.
 image:              assets/img/course-sql.png
+alt:                SQL Logo | Agile Testing & Test Automation | Java Testing Training Philippines | Orange and Bronze Software Labs
 date:               2018-06-12 08:00:00 +0800
 categories:         other_courses
 ---

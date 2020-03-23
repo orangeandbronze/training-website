@@ -10,6 +10,7 @@ keywords:           Selenium Training Philippines, Selenium Training Manila, Sel
 photo:              "https://university.orangeandbronze.com/assets/img/SeleniumIDEAnsWebDriver-FBLinkPostPhoto.png"
 short_description:  The course is pragmatic, focusing on realistic exercises to apply the learned knowledge against scenarios that would be similar to what the tester might encounter in the real-world.
 image:              assets/img/course-sql.png
+alt:                SQL Logo | Selenium IDE & Web Driver | Selenium Training Philippines | Orange and Bronze Software Labs
 date:               2018-06-12 08:00:00 +0800
 categories:         other_courses
 ---
