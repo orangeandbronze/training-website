@@ -2,5 +2,6 @@
 date:         2018-04-03 08:04:00 +0800
 categories:   workshops
 image:        assets/img/gallery-4.jpg
+alt:          A group of students doing their workshop in Agile Requrements, Estimation, and Planning Course class. | Java and Agile Training Philippines
 description:  Agile Requirements, Estimation, and Planning for Sofgen SA
 ---

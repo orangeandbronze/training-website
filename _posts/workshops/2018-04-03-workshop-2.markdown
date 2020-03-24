@@ -2,5 +2,6 @@
 date:         2018-04-03 08:02:00 +0800
 categories:   workshops
 image:        assets/img/gallery-2.jpg
+alt:          Design Pattern class by Orange & Bronze VP Lorenzo Dee for Medlink. |  Java and Agile Scrum Training Philippines
 description:  Design Patterns for Medlink
 ---
