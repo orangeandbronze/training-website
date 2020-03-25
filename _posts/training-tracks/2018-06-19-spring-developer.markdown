@@ -33,7 +33,7 @@ categories:         training_tracks
                             <div class="track-content">
                                 <section id="overview">
                                     <h3>Overview</h3>
-                                    <img class="mb30 img-fluid" src="{{ "assets/img/spring-course-cover.jpg" | relative_url }}" alt="">
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/spring-course-cover.jpg" | relative_url }}" alt="A large class of java developers listening to their instructor while in front of their computer. | Java Spring Training Philippine ">
                                     <p>
                                         The Spring Developer Track is designed for experienced Java developers who would like to gain more depth on Spring, know how to build loosely-coupled and testable applications, as well as learn aspect oriented programming.
                                     </p>
@@ -80,7 +80,7 @@ categories:         training_tracks
                                     <div class="course-list">
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/spring-course1.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/spring-course1.jpg" | relative_url }}" alt="O&B instructor pointing on the big screen teaches to his class the aspect-oriented programming. | Java Spring Training Philippine | Orange and Bronze Software Labs">
                                             </div>
                                             <div class="content">
                                                 <h5>Core Spring Training</h5>
@@ -97,7 +97,7 @@ categories:         training_tracks
                                         </div>
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/spring-course2.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/spring-course2.jpg" | relative_url }}" alt="Student listening to his instructor while doing his hands-on training. | Java Spring Training Philippine">
                                             </div>
                                             <div class="content">
                                                 <h5>Enterprise Integration with Spring Training</h5>
@@ -114,7 +114,7 @@ categories:         training_tracks
                                         </div>
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/spring-course3.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/spring-course3.jpg" | relative_url }}" alt="A student having a one on one discussion with his instructor. | Java Spring Training Philippine | Orange and Bronze Software Labs">
                                             </div>
                                             <div class="content">
                                                 <h5>Spring Web Training</h5>
