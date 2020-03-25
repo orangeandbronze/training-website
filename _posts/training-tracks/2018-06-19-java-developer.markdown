@@ -33,7 +33,7 @@ categories:         training_tracks
                             <div class="track-content">
                                 <section id="overview">
                                     <h3>Overview</h3>
-                                    <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="">
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/java-course-cover.jpg" | relative_url }}" alt="O&B instructor standing in front of his class discussed the machine problem to his students. | Java Training Track | Orange and Bronze Software Labs">
                                     <p>
                                         O&B, the trusted Java development consulting and training facility in the Philippines, developed these courses to address the need for well-trained Java developers who can build web applications and have a good grasp of the requirements and environment for enterprise systems development. The program is rich with exercises, machine problems, cases, and exams that will ensure that participants gain experience developing relatively complex systems in a commercial environment.
                                     </p>
@@ -57,7 +57,7 @@ categories:         training_tracks
                                     <div class="course-list">
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/java-course1.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/java-course1.jpg" | relative_url }}" alt="A student in front of her laptop that shows her code. | Java Training Track | Orange and Bronze Software Labs">
                                             </div>
                                             <div class="content">
                                                 <h5>Core Java & Commonly-Used Libraries</h5>
@@ -71,7 +71,7 @@ categories:         training_tracks
                                         </div>
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/java-course2.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/java-course2.jpg" | relative_url }}" alt="O&B instructor pointing on the screen with his code. | Java Training Track | Orange and Bronze Software Labs">
                                             </div>
                                             <div class="content">
                                                 <h5>Agile Engineering & Java Best Practices</h5>
@@ -85,7 +85,7 @@ categories:         training_tracks
                                         </div>
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/java-course3.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/java-course3.jpg" | relative_url }}" alt="A student in front of his laptop that shows his code. | Java Training Track | Orange and Bronze Software Labs">
                                             </div>
                                             <div class="content">
                                                 <h5>Java Enterprise Fundamentals and Best Practices</h5>
@@ -99,7 +99,7 @@ categories:         training_tracks
                                         </div>
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/java-course4.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/java-course4.jpg" | relative_url }}" alt="A student draws a graph on the whiteboard. | Java Training Track | Orange and Bronze Software Labs">
                                             </div>
                                             <div class="content">
                                                 <h5>Combined Spring & JPA/Hibernate Training</h5>
