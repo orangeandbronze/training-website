@@ -33,7 +33,7 @@ categories:         training_tracks
                             <div class="track-content">
                                 <section id="overview">
                                     <h3>Overview</h3>
-                                    <img class="mb30 img-fluid" src="{{ "assets/img/architect-course-cover.jpg" | relative_url }}" alt="">
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/architect-course-cover.jpg" | relative_url }}" alt="Four groups of senior software engineers introduced on leading a software project for business applications by O&B instructor Calen Legaspi.">
                                     <p>
                                         The Enterprise Architect training track is meant to prepare senior software developers to assume the role of enterprise application architect, introducing him or her to the heuristics of designing and leading a software project for business applications.
                                     </p>
@@ -80,7 +80,7 @@ categories:         training_tracks
                                     <div class="course-list">
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/agile-course1.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/agile-course1.jpg" | relative_url }}" alt="A student writing a user story. | Software Training Philippines | Orange and Bronze Software Labs">
                                             </div>
                                             <div class="content">
                                                 <h5>Core Agile Workshop with Scrum, Extreme Programming, and Kanban</h5>
@@ -94,7 +94,7 @@ categories:         training_tracks
                                         </div>
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/agile-course2.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/agile-course2.jpg" | relative_url }}" alt="Participant arranges user stories on table. | Software Training Philippines | Orange and Bronze Software Labs">
                                             </div>
                                             <div class="content">
                                                 <h5>Agile Requirements, Estimation, and Planning</h5>
@@ -108,7 +108,7 @@ categories:         training_tracks
                                         </div>
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/agile-course3.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/agile-course3.jpg" | relative_url }}" alt="O&B instructor standing in front of his class talking about Java Best Practices. | Software Training Philippines">
                                             </div>
                                             <div class="content">
                                                 <h5>Agile Engineering & Java Best Practices</h5>
@@ -122,7 +122,7 @@ categories:         training_tracks
                                         </div>
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/agile-course4.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/agile-course4.jpg" | relative_url }}" alt="Two teams are having a hands-on exercise. | Software Training Philippines">
                                             </div>
                                             <div class="content">
                                                 <h5>Design Patterns Training</h5>

@@ -33,7 +33,7 @@ categories:         training_tracks
                             <div class="track-content">
                                 <section id="overview">
                                     <h3>Overview</h3>
-                                    <img class="mb30 img-fluid" src="{{ "assets/img/spring-course-cover.jpg" | relative_url }}" alt="">
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/spring-course-cover.jpg" | relative_url }}" alt="A large class of java developers listening to their instructor while in front of their computer. | Java Spring Training Philippines ">
                                     <p>
                                         This track is is meant for engineers who want to pursue a career in automation testing, and for quality assurance professionals who want to shift from manual testing to automation testing.
                                     </p>
@@ -45,7 +45,7 @@ categories:         training_tracks
                                     <div class="course-list">
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/spring-course1.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/spring-course1.jpg" | relative_url }}" alt="O&B instructor pointing on the big screen teaches to his class the aspect-oriented programming. | Java Spring Training Philippines | Orange and Bronze Software Labs">
                                             </div>
                                             <div class="content">
                                                 <h5>Core Java & Commonly-Used Libraries</h5>
@@ -59,7 +59,7 @@ categories:         training_tracks
                                         </div>
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/test-course-4.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/test-course-4.jpg" | relative_url }}" alt="O&B instructor teaches his class a brief introduction to User Experience. | HTML Training Philippines | Orange and Bronze Software Labs">
                                             </div>
                                             <div class="content">
                                                 <h5>HTML / CSS Course</h5>
@@ -73,7 +73,7 @@ categories:         training_tracks
                                         </div>
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/spring-course3.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/spring-course3.jpg" | relative_url }}" alt="A student having a one on one discussion with his instructor. | Java Spring Training Philippines | Orange and Bronze Software Labs">
                                             </div>
                                             <div class="content">
                                                 <h5>Javascript Course</h5>
@@ -87,7 +87,7 @@ categories:         training_tracks
                                         </div>
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/spring-course2.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/spring-course2.jpg" | relative_url }}" alt="Student listening to his instructor while doing his hands-on training.  | Automated Testing Training Philippines ">
                                             </div>
                                             <div class="content">
                                                 <h5>JUnit Fundamentals</h5>
@@ -101,7 +101,7 @@ categories:         training_tracks
                                         </div>
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/test-course-1.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/test-course-1.jpg" | relative_url }}" alt="O&B instructor assisting his two students with their codes. | Automated Testing Training Philippines">
                                             </div>
                                             <div class="content">
                                                 <h5>Selenium IDE & Web Driver</h5>
@@ -115,7 +115,7 @@ categories:         training_tracks
                                         </div>
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/test-course-2.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/test-course-2.jpg" | relative_url }}" alt="A computer screen that shows the student code.  | Automated Testing Training Philippines ">
                                             </div>
                                             <div class="content">
                                                 <h5>Behavior Driven Development (BDD) using Cucumber & Concordion</h5>
@@ -129,7 +129,7 @@ categories:         training_tracks
                                         </div>
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/test-course-3.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/test-course-3.jpg" | relative_url }}" alt="An O&B instructor in front of his class where his code displayed on-screen.| Automated Testing Training Philippines ">
                                             </div>
                                             <div class="content">
                                                 <h5>JMeter</h5>
@@ -143,7 +143,7 @@ categories:         training_tracks
                                         </div>
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/test-course-5.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/test-course-5.jpg" | relative_url }}" alt="A computer screen that shows the student code.  | Automated Testing Training Philippines | Orange and Bronze Software Labs">
                                             </div>
                                             <div class="content">
                                                 <h5>Web Services API Testing with SoapUI</h5>
@@ -157,7 +157,7 @@ categories:         training_tracks
                                         </div>
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/test-course-6.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/test-course-6.jpg" | relative_url }}" alt="O&B instructor assisting his students with their machine problems. | Automated Testing Training Philippines">
                                             </div>
                                             <div class="content">
                                                 <h5>Git</h5>
@@ -171,7 +171,7 @@ categories:         training_tracks
                                         </div>
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/test-course-7.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/test-course-7.jpg" | relative_url }}" alt="Students in front of their computer screen doing their hands-on training.  | Automated Testing Training Philippines ">
                                             </div>
                                             <div class="content">
                                                 <h5>SQL Fundamentals</h5>
@@ -185,7 +185,7 @@ categories:         training_tracks
                                         </div>
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/test-course-8.jpg" | relative_url }}" alt="">
+                                                <img src="{{ "assets/img/test-course-8.jpg" | relative_url }}" alt="Students in front of their computer screen doing their machine problems with the assistance of the O&B instructor.  | Automated Testing Training Philippines">
                                             </div>
                                             <div class="content">
                                                 <h5>DB Unit</h5>
