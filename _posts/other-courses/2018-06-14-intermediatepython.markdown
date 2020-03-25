@@ -98,7 +98,7 @@ categories:         other_courses
                                             <div id="collapse-1" class="collapse faq-body" aria-labelledby="heading-1" data-parent="#accordion">
                                                 <div class="content">
                                                     <p>
-                                                       No programming knowledge is required to take this course.
+                                                       Trainees must already have some programming background, such as through school, basic training courses, or work experience.
                                                     </p>
                                                 </div>
                                             </div>
