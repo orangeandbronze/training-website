@@ -33,7 +33,7 @@ categories:         other_courses
                                 <div class="track-content">
                                     <section id="overview">
                                         <h3>Overview</h3>
-                                        <img class="mb30 img-fluid" src="{{ "assets/img/SeleniumIDEAnsWebDriver-cover.png" | relative_url }}" alt="">
+                                        <img class="mb30 img-fluid" src="{{ "assets/img/SeleniumIDEAnsWebDriver-cover.png" | relative_url }}" alt="O&B instructor assisting a trainee with hands-on exercise. | Selenium Training Philippines">
                                         <div class="track-details">
                                         <div class="details mr40">
                                             <img src="/assets/img/ico-calendar.svg" alt="">

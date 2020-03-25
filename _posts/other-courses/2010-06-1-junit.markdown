@@ -33,7 +33,7 @@ categories:         other_courses
                                 <div class="track-content">
                                     <section id="overview">
                                         <h3>Overview</h3>
-                                        <img class="mb30 img-fluid" src="{{ "assets/img/JUnitFundamentals-cover.png" | relative_url }}" alt="">
+                                        <img class="mb30 img-fluid" src="{{ "assets/img/JUnitFundamentals-cover.png" | relative_url }}" alt="O&B instructor standing in front of his class talked about the JUnit fundamentals. | JUnit Fundamentals Philippines">
                                         <div class="track-details">
                                         <div class="details mr40">
                                             <img src="/assets/img/ico-calendar.svg" alt="">

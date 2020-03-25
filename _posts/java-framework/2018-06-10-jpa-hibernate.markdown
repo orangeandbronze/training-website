@@ -31,7 +31,7 @@ categories:         java-framework
                             <div class="track-content">
                                 <section id="overview">
                                     <h3>Overview</h3>
-                                    <img class="mb30 img-fluid" src="{{ "assets/img/JPAHibernate-cover.png" | relative_url }}" alt="">
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/JPAHibernate-cover.png" | relative_url }}" alt="O&B instructor with his JPA/Hibernate class in front of their computer monitors. | Hibernate Training Philippines">
                                     <div class="track-details">
                                         <div class="details mr40">
                                             <img src="/assets/img/ico-calendar.svg" alt="">

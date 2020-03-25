@@ -31,10 +31,10 @@ categories:         java
                             <div class="track-content">
                                 <section id="overview">
                                     <h3>Overview</h3>
-                                    <img class="mb30 img-fluid" src="{{ "assets/img/AgileEngineeringAndBestPractices-cover.png" | relative_url }}" alt="">
+                                    <img class="mb30 img-fluid" src="/assets/img/AgileEngineeringAndBestPractices-cover.png" alt="Calen Legaspi in front of his Agile Engineering & Java Best Practices class | Java Agile Class Philippines | Orange and Bronze Software Labs" />
                                     <div class="track-details">
                                         <div class="details mr40">
-                                            <img src="/assets/img/ico-calendar.svg" alt="">
+                                            <img src="/assets/img/ico-calendar.svg" alt="" />
                                             <h6>DURATION: 5 Days</h6>
                                         </div>
                                     </div>

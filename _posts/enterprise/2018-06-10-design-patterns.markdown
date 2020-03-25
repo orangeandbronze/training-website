@@ -31,7 +31,7 @@ categories:         enterprise
                             <div class="track-content">
                                 <section id="overview">
                                     <h3>Overview</h3>
-                                    <img class="mb30 img-fluid" src="{{ "assets/img/DesignPatterns-cover.png" | relative_url }}" alt="">
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/DesignPatterns-cover.png" | relative_url }}" alt="Students in front of their computer monitors are having a hands-on exercises on commonly-used GoF design patterns.">
                                     <div class="track-details">
                                         <div class="details mr40">
                                             <img src="/assets/img/ico-calendar.svg" alt="">

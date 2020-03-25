@@ -31,7 +31,7 @@ categories:         java-framework
                             <div class="track-content">
                                 <section id="overview">
                                     <h3>Overview</h3>
-                                    <img class="mb30 img-fluid" src="{{ "assets/img/EnterpriseIntegrationWithSpring.cover.png" | relative_url }}" alt="">
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/EnterpriseIntegrationWithSpring.cover.png" | relative_url }}" alt="Lorenzo Dee in front of the big monitor talking to his class about the Enterprise Integration with Sprin. | Enterprise Spring Training Philippines">
                                     <div class="track-details">
                                         <div class="details mr40">
                                             <img src="/assets/img/ico-calendar.svg" alt="">

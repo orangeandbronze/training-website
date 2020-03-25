@@ -31,7 +31,7 @@ categories:         java
                             <div class="track-content">
                                 <section id="overview">
                                     <h3>Overview</h3>
-                                    <img class="mb30 img-fluid" src="{{ "assets/img/CoreJavaAndCommonlyUsedLibraries-cover.png" | relative_url }}" alt="">
+                                    <img class="mb30 img-fluid" src="{{ "assets/img/CoreJavaAndCommonlyUsedLibraries-cover.png" | relative_url }}" alt="An O&B instructor in front of his Core Java & Commonly-Used Libraries class | Java Training Philippines | Orange and Bronze Software Labs">
                                     <div class="track-details">
                                         <div class="details mr40">
                                             <img src="/assets/img/ico-calendar.svg" alt="">
