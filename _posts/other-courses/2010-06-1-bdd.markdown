@@ -4,11 +4,11 @@ class:              trackdetails
 title:              Behavior Driven Development (BDD) using Cucumber & Concordion
 title_seo:          Behavior Driven Development Philippines
 titles:             O&B Behavior Driven Development (BDD) using Cucumber & Concordion
-desc:               "This course will take through the principles of Agile Testing, then provide testers with the tools to automate an Agile Testing approach."
-description:        This course will take through the principles of Agile Testing, then provide testers with the tools to automate an Agile Testing approach.
+desc:               "Behavior Driven Development Philippines | This course will take through the principles of Agile Testing, then provide testers with the tools to automate an Agile Testing approach."
+description:        Behavior Driven Development Philippines | This course will take through the principles of Agile Testing, then provide testers with the tools to automate an Agile Testing approach.
 keywords:           Behavior Driven Development Philippines, Behavior Driven Development Training Philippines, Behavior Driven Development (BDD) using Cucumber & Concordion, BDD Training Course Manila, BDD Training Course Makati, Behavior-driven Development
 photo:              "https://university.orangeandbronze.com/assets/img/BehaviorDrivenDevelopmentUsingCucumberAndConcordion-FBLinkPostPhoto.png"
-short_description:  This course will take through the principles of Agile Testing, then provide testers with the tools to automate an Agile Testing approach.
+short_description:  Behavior Driven Development Philippines | This course will take through the principles of Agile Testing, then provide testers with the tools to automate an Agile Testing approach.
 image:              assets/img/course-sql.png
 alt:                SQL Logo | Behavior Driven Development (BDD) using Cucumber & Concordion |  Behavior Driven Development Philippines
 date:               2018-06-12 08:00:00 +0800

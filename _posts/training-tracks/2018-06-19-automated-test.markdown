@@ -6,8 +6,8 @@ title_seo:          Automated Testing Training Philippines
 titles:             O&B Automated Testing Track
 course_count:       11 courses
 course_duration:    4 weeks
-desc:               "This track is is meant for engineers who want to pursue a career in automation testing, and for quality assurance professionals who want to shift from manual testing to automation testing."
-short_description:  This track is is meant for engineers who want to pursue a career in automation testing, and for quality assurance professionals who want to shift from manual testing to automation testing.
+desc:               "Automated Testing Training Philippines | This track is is meant for engineers who want to pursue a career in automation testing, and for quality assurance professionals who want to shift from manual testing to automation testing."
+short_description:  Automated Testing Training Philippines | This track is is meant for engineers who want to pursue a career in automation testing, and for quality assurance professionals who want to shift from manual testing to automation testing.
 photo:              "https://university.orangeandbronze.com/assets/img/AutomatedTestingTrack-FBLinkPostPhoto.png"
 image:              assets/img/img-trainingcard-5.jpg
 alt:                Orange & Bronze trainee, displays his code on the monitor screen while doing an automation testing. | Automated Testing Training Philippines

@@ -4,10 +4,10 @@ class:              trackdetails
 title:              DevOps Training
 title_seo:          DevOps Training Philippines
 title:              O&B DevOps Training
-desc:               "O&B’s DevOps Training course is designed to provide an introduction to the tools, cloud platforms, and best practices for continuous and efficient delivery of software development projects."
-description:        O&B’s DevOps Training course is designed to provide an introduction to the tools, cloud platforms, and best practices for continuous and efficient delivery of software development projects.
+desc:               "DevOps Training Philippines - O&B’s DevOps Training course is designed to provide an introduction to the tools, cloud platforms, and best practices for continuous and efficient delivery of software development projects."
+description:        DevOps Training Philippines - O&B’s DevOps Training course is designed to provide an introduction to the tools, cloud platforms, and best practices for continuous and efficient delivery of software development projects.
 photo:              "https://university.orangeandbronze.com/assets/img/DevOps-FBLinkPostPhoto.png"
-short_description:  This training course is designed to provide an introduction to the tools, cloud platforms, and best practices for continuous and efficient delivery of software development projects.
+short_description:  DevOps Training Philippines - This training course is designed to provide an introduction to the tools, cloud platforms, and best practices for continuous and efficient delivery of software development projects.
 keywords:           DevOps Training Philippines, DevOps Training Makati, Agile Training Philippines, Business Analaysis Training Philippines,
 image:              assets/img/course-devops.png
 alt:                Vector graphics orange wrench tool, gray gear and orange arrows in clockwise direction. | DevOps Training Philippines.

@@ -4,11 +4,11 @@ class:              trackdetails
 title:              Spring Developer Track
 title_seo:          Java Spring Training Philippines
 titles:             O&B Spring Developer Track
-desc:               "The Spring Developer Track is designed for experienced Java developers who would like to gain more depth on Spring, know how to build loosely-coupled and testable applications, as well as learn aspect oriented programming."
+desc:               "Java Spring Training Philippines | The Spring Developer Track is designed for experienced Java developers who would like to gain more depth on Spring, know how to build loosely-coupled and testable applications, as well as learn aspect oriented programming."
 photo:              "https://university.orangeandbronze.com/assets/img/SpringDeveloperTrack-FBLinkPostPhoto.png"
 course_count:       3 courses
 course_duration:    3 weeks
-short_description:  The Spring Developer Track is designed for experienced Java developers who would like to gain more depth on Spring, know how to build loosely-coupled and testable applications, as well as learn aspect oriented programming.
+short_description:  Java Spring Training Philippines | The Spring Developer Track is designed for experienced Java developers who would like to gain more depth on Spring, know how to build loosely-coupled and testable applications, as well as learn aspect oriented programming.
 image:              assets/img/img-trainingcard-3.jpg
 alt:                O&B student in front of his laptop developing a Java application using spring frameworks. | Java Spring Training Philippines
 date:               2018-06-19 08:00:00 +0800

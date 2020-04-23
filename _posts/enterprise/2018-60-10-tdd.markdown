@@ -4,11 +4,11 @@ class:              trackdetails
 title:              Test-Driven Development in Java
 title_seo:          Java TDD Training Philippines
 titles:             "O&B Test-Driven Development in Java"
-desc:               "This course not only introduces unit testing and the use of JUnit, but helps developers truly embrace Test-Driven Development, by teaching them how to design their code to be testable, and to embrace a more disciplined workflow."
-description:        This course not only introduces unit testing and the use of JUnit, but helps developers truly embrace Test-Driven Development, by teaching them how to design their code to be testable, and to embrace a more disciplined workflow.
+desc:               "Java TDD Training Philippines - This course not only introduces unit testing and the use of JUnit, but helps developers truly embrace Test-Driven Development, by teaching them how to design their code to be testable, and to embrace a more disciplined workflow."
+description:        Java TDD Training Philippines - This course not only introduces unit testing and the use of JUnit, but helps developers truly embrace Test-Driven Development, by teaching them how to design their code to be testable, and to embrace a more disciplined workflow.
 keywords:           TDD Manila, TDD Training in Java Philippines, Java Test-Driven Development with JUnit, Test-Driven Development Training Course, Java TDD Training Philippines
 photo:              "https://university.orangeandbronze.com/assets/img/TestDrivenDevelopmentInJava-FBLinkPostPhoto.png"
-short_description:  This course not only introduces unit testing and the use of JUnit, but helps developers truly embrace Test-Driven Development, by teaching them how to design their code to be testable, and to embrace a more disciplined workflow.
+short_description:  Java TDD Training Philippines - This course not only introduces unit testing and the use of JUnit, but helps developers truly embrace Test-Driven Development, by teaching them how to design their code to be testable, and to embrace a more disciplined workflow.
 date:               2018-06-10 08:00:00 +0800
 categories:         enterprise
 ---

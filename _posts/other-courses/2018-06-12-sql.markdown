@@ -4,11 +4,11 @@ class:              trackdetails
 title:              SQL (Structured Query Language)
 title_seo:          SQL Course Philippines
 titles:             "O&B SQL Fundamentals"
-desc:               "Understand how business requirements become database designs, and the basics of reading and writing to a relational database using SQL."
-description:         Understand how business requirements become database designs, and the basics of reading and writing to a relational database using SQL.
+desc:               "SQL Training Philippines | Understand how business requirements become database designs, and the basics of reading and writing to a relational database using SQL."
+description:         SQL Training Philippines | Understand how business requirements become database designs, and the basics of reading and writing to a relational database using SQL.
 keywords:           SQL Course Philippines, SQL Training Course Philippines, SQL Training Manila, SQL Fundamentals
 photo:              "https://university.orangeandbronze.com/assets/img/SQLFundamentals-FBLinkPostPhotos.png"
-short_description:  Understand how business requirements become database designs, and the basics of reading and writing to a relational database using SQL.
+short_description:  SQL Training Philippines | Understand how business requirements become database designs, and the basics of reading and writing to a relational database using SQL.
 image:              assets/img/course-sql.png
 alt:                SQL Logo | SQL Course Philippines | Orange and Bronze Software Labs
 date:               2018-06-12 08:00:00 +0800

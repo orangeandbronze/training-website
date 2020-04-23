@@ -4,11 +4,11 @@ class:              trackdetails
 title:              Java with MongoDB
 title_seo:          Java Mongo DB Training Philippines
 titles:             O&B Using Java with MongoDB Training
-desc:               "This course covers the Java API of MongoDB. This training course was developed and is taught by some of the Philippines’ well-known and respected web developers."          
-description:        This course covers the Java API of MongoDB. This training course was developed and is taught by some of the Philippines’ well-known and respected web developers.
+desc:               "Java Mongo DB Training Philippines | This course covers the Java API of MongoDB. This training course was developed and is taught by some of the Philippines’ well-known and respected web developers."          
+description:        Java Mongo DB Training Philippines | This course covers the Java API of MongoDB. This training course was developed and is taught by some of the Philippines’ well-known and respected web developers.
 keywords:           Java MongoDB Training Philippines, Java MongoDB Training Manila, MongoDB Training Philippines, MongoDB Training Manila, MongoDB Certification Training Course Philippines, MongoDB Fundamentals,
 photo:              "https://university.orangeandbronze.com/assets/img/UsingJavaWithMongoDB-FBLinkPostPhoto.png"
-short_description:  This course covers the Java API of MongoDB. This training course was developed and is taught by some of the Philippines’ well-known and respected web developers.
+short_description:  Java Mongo DB Training Philippines | This course covers the Java API of MongoDB. This training course was developed and is taught by some of the Philippines’ well-known and respected web developers.
 image:              assets/img/course-javamongo.png
 alt:                Java and Mongo Logo | Java Mongo DB Training Philippines
 date:               2018-06-7 08:00:00 +0800

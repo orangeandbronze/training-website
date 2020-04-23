@@ -4,11 +4,11 @@ class:              trackdetails
 title:              jQuery
 title_seo:          JQuery Training Philippines
 titles:             O&B jQuery
-desc:               "The course will provide a thorough grounding in the use of the jQuery framework."
-description:        The course will provide a thorough grounding in the use of the jQuery framework.
+desc:               "JQuery Training Philippines | The course will provide a thorough grounding in the use of the jQuery framework."
+description:        JQuery Training Philippines | The course will provide a thorough grounding in the use of the jQuery framework.
 keywords:           JQuery Training Philippines, JavaScript Training Course Philippines, JQuery Web Design and Development, JavaScript Training Philippines, JQuery Course, JQuery Training, JQuery Training in Philippines, JQuery Core, JQuery UI and Ajax, JQuery Advance
 photo:              "https://university.orangeandbronze.com/assets/img/jQuery-FBLinkPostPhoto.png"
-short_description:  The course will provide a thorough grounding in the use of the jQuery framework.
+short_description:  JQuery Training Philippines | The course will provide a thorough grounding in the use of the jQuery framework.
 image:              assets/img/course-jquery.png
 alt:                jQuery logo | jQuery Training Philippines | Orange and Bronze Software Labs
 date:               2018-06-17 08:00:00 +0800

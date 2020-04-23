@@ -4,11 +4,11 @@ class:              trackdetails
 title:              Intermediate Python
 title_seo:          Python Course Philippines
 titles:             O&B Intermediate Python
-desc:               "Advanced topics include a discussion on the importing function, error handling, and basic object oriented programming."
-description:        Advanced topics include a discussion on the importing function, error handling, and basic object oriented programming. 
+desc:               "Python Course Philippines | Advanced topics include a discussion on the importing function, error handling, and basic object oriented programming."
+description:        Python Course Philippines | Advanced topics include a discussion on the importing function, error handling, and basic object oriented programming. 
 keywords:           Python Training Philippines, Python Training Course Philippines, Python Programming Course Philippines, Python Training Course in Manila 
 photo:              "https://university.orangeandbronze.com/assets/img/IntermediatePython-FBLinkPostPhoto.png"
-short_description:  Advanced topics include a discussion on the importing function, error handling, and basic object oriented programming.  
+short_description:  Python Course Philippines | Advanced topics include a discussion on the importing function, error handling, and basic object oriented programming.  
 image:              assets/img/course-python.png
 alt:                Python Logo | Python Training Philippines | Orange and Bronze Software Labs
 date:               2018-06-14 08:00:00 +0800

@@ -4,11 +4,11 @@ class:              trackdetails
 title:              JUnit Fundamentals
 title_seo:          JUnit Fundamentals Philippines
 titles:             O&B JUnit Fundamentals
-desc:               "JUnit is the most popular Java test automation tool in the world, and the foundation for the majority of Java test automation tools, including Selenium Web Driver, Cucumber and DB Unit."
-description:        JUnit is the most popular Java test automation tool in the world, and the foundation for the majority of Java test automation tools, including Selenium Web Driver, Cucumber and DB Unit.
+desc:               "JUnit Fundamentals Philippines | JUnit is the most popular Java test automation tool in the world, and the foundation for the majority of Java test automation tools, including Selenium Web Driver, Cucumber and DB Unit."
+description:        JUnit Fundamentals Philippines | JUnit is the most popular Java test automation tool in the world, and the foundation for the majority of Java test automation tools, including Selenium Web Driver, Cucumber and DB Unit.
 keywords:           JUnit Training Philippines, JUnit Fundamentals Training Course Philippines, JUnit Training Manila 
 photo:              "https://university.orangeandbronze.com/assets/img/JUnitFundamentals-FBLinkPostPhoto.png"
-short_description:  JUnit is the most popular Java test automation tool in the world, and the foundation for the majority of Java test automation tools, including Selenium Web Driver, Cucumber and DB Unit.
+short_description:  JUnit Fundamentals Philippines | JUnit is the most popular Java test automation tool in the world, and the foundation for the majority of Java test automation tools, including Selenium Web Driver, Cucumber and DB Unit.
 image:              assets/img/course-sql.png
 alt:                SQL Logo | JUnit Fundamentals Philippines | Orange and Bronze Software Labs
 date:               2018-06-12 08:00:00 +0800

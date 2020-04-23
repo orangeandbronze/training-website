@@ -4,11 +4,11 @@ class:              trackdetails
 title:              Python for Beginners
 title_seo:          Python Training Philippines
 titles:             O&B Python for Beginners
-desc:               "Learn the basics of Python development."
-description:        Learn the basics of Python development. 
+desc:               "Python Training Philippines | Learn the basics of Python development."
+description:        Python Training Philippines | Learn the basics of Python development. 
 keywords:           Python Training Philippines, Python Training Course Philippines, Python Programming Course Philippines, Python Training Course in Manila
 photo:              "https://university.orangeandbronze.com/assets/img/PythonForBeginners-FBLinkPostPhoto.png"
-short_description:  Learn the basics of Python development. 
+short_description:  Python Training Philippines | Learn the basics of Python development. 
 image:              assets/img/course-python.png
 alt:                Python Logo | Python Training Philippines | Orange and Bronze Software Labs
 date:               2018-06-14 08:00:00 +0800

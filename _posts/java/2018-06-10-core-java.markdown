@@ -4,11 +4,11 @@ class:              trackdetails
 title:              Core Java & Commonly-Used Libraries
 title_seo:          Java Training Philippines
 titles:             O&B Core Java & Commonly-Used Libraries
-desc:               "Java Training Philippines - This course is an introduction to Java and the most commonly used libraries of the Java Standard Edition (Java SE). Covers Java 8."
-description:        Java Training Philippines - This course is an introduction to Java and the most commonly used libraries of the Java Standard Edition (Java SE). Covers Java 8.
+desc:               "Java Training Philippines | Java Training Philippines - This course is an introduction to Java and the most commonly used libraries of the Java Standard Edition (Java SE). Covers Java 8."
+description:        Java Training Philippines | Java Training Philippines - This course is an introduction to Java and the most commonly used libraries of the Java Standard Edition (Java SE). Covers Java 8.
 keywords: Java Training Philippines, Java Boot Camp Philippines, Java Programming Philippines, Java Training Company Philippines,  Java Classes Philippines, Java Classes Manila, Java Courses Philippines, Java Philippines, Spring Training Philippines, Hibernate Training Philippines, Java Courses Philippines, Spring Courses Philippines, Hibernate Courses Philippines,
 photo:              "https://university.orangeandbronze.com/assets/img/CoreJavaAndCommonlyUsedLibraries-FBLinkPostPhoto.png"
-short_description:  Java Training Philippines - This course is an introduction to Java and the most commonly used libraries of the Java Standard Edition (Java SE). Covers Java 8.
+short_description:  Java Training Philippines | Java Training Philippines - This course is an introduction to Java and the most commonly used libraries of the Java Standard Edition (Java SE). Covers Java 8.
 date:               2018-06-10 08:00:00 +0800
 categories:         java
 ---

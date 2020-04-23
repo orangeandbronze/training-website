@@ -4,11 +4,11 @@ class:              trackdetails
 title:              Web Services API Testing with SoapUI
 title_seo:          SOAP UI Training Philippines
 titles:             "O&B Web Services API Testing with SoapUI"
-desc:               "Web services APIs are ubiquitous in modern enterprise applications, and SoapUI is the most popular tool for automating the testing of web services APIs."
-description:        Web services APIs are ubiquitous in modern enterprise applications, and SoapUI is the most popular tool for automating the testing of web services APIs.
+desc:               "SOAP UI Training Philippines | Web services APIs are ubiquitous in modern enterprise applications, and SoapUI is the most popular tool for automating the testing of web services APIs."
+description:        SOAP UI Training Philippines | Web services APIs are ubiquitous in modern enterprise applications, and SoapUI is the most popular tool for automating the testing of web services APIs.
 keywords:           SOAP UI Training Philippines, Web Services API Testing with SoapUI Training Course Philippines, SOAP UI Training Course Manila
 photo:              "https://university.orangeandbronze.com/assets/img/WebServicesAPITestingWithSoaUI-FBLinkPostPhoto.png"
-short_description:  Web services APIs are ubiquitous in modern enterprise applications, and SoapUI is the most popular tool for automating the testing of web services APIs.
+short_description:  SOAP UI Training Philippines | Web services APIs are ubiquitous in modern enterprise applications, and SoapUI is the most popular tool for automating the testing of web services APIs.
 image:              assets/img/course-jmeter.png
 alt:                JMeter Logo | SOAP UI Training Philippines | Orange and Bronze Software Labs
 date:               2018-06-9 08:00:00 +0800

@@ -4,10 +4,10 @@ class:              trackdetails
 title:              Core Agile Training with Scrum, Extreme Programming, and Kanban
 title_seo:          Agile and Scrum Training Philippines
 titles:             O&B Core Agile Training with Scrum, Extreme Programming, and Kanban
-desc:               "Our approach to Agile training is therefore pragmatic, not theoretical. It is not just a discussion of one methodology or another, but an analysis of why projects succeed or fail, and which practices can address specific issues."
-description:        Our approach to Agile training is therefore pragmatic, not theoretical. It is not just a discussion of one methodology or another, but an analysis of why projects succeed or fail, and which practices can address specific issues.
+desc:               "Agile and Scrum Training Philippines | Our approach to Agile training is therefore pragmatic, not theoretical. It is not just a discussion of one methodology or another, but an analysis of why projects succeed or fail, and which practices can address specific issues."
+description:        Agile and Scrum Training Philippines | Our approach to Agile training is therefore pragmatic, not theoretical. It is not just a discussion of one methodology or another, but an analysis of why projects succeed or fail, and which practices can address specific issues.
 photo:              "https://university.orangeandbronze.com/assets/img/CoreAgileWorkshopWithScrumExtremeProgrammingAndKanban-FBLinkPostPhoto.png"
-short_description:  Our approach to Agile training is therefore pragmatic, not theoretical. It is not just a discussion of one methodology or another, but an analysis of why projects succeed or fail, and which practices can address specific issues.
+short_description:  Agile and Scrum Training Philippines | Our approach to Agile training is therefore pragmatic, not theoretical. It is not just a discussion of one methodology or another, but an analysis of why projects succeed or fail, and which practices can address specific issues.
 keywords:           Scrum Training Philippines, Agile Training Philippines, Agile Classes Philippines, Agile Course Philippines, Business Analysis Training Philippines, Scrum Training Manila,  Agile Philippines, Scrum and Agile Training Philippines
 date:               2018-06-10 08:00:00 +0800
 categories:         agile

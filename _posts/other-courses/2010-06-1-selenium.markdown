@@ -4,11 +4,11 @@ class:              trackdetails
 title:              Selenium IDE & Web Driver
 title_seo:          Selenium Training Philippines
 titles:             "O&B Selenium IDE & Web Driver"
-desc:               "The course is pragmatic, focusing on realistic exercises to apply the learned knowledge against scenarios that would be similar to what the tester might encounter in the real-world."
-description:        The course is pragmatic, focusing on realistic exercises to apply the learned knowledge against scenarios that would be similar to what the tester might encounter in the real-world.
+desc:               "Selenium Training Philippines | The course is pragmatic, focusing on realistic exercises to apply the learned knowledge against scenarios that would be similar to what the tester might encounter in the real-world."
+description:        Selenium Training Philippines | The course is pragmatic, focusing on realistic exercises to apply the learned knowledge against scenarios that would be similar to what the tester might encounter in the real-world.
 keywords:           Selenium Training Philippines, Selenium Training Manila, Selenium IDE & Web Driver Training Course Philippines, Selenium IDE & Web Driver, Test Automation
 photo:              "https://university.orangeandbronze.com/assets/img/SeleniumIDEAnsWebDriver-FBLinkPostPhoto.png"
-short_description:  The course is pragmatic, focusing on realistic exercises to apply the learned knowledge against scenarios that would be similar to what the tester might encounter in the real-world.
+short_description:  Selenium Training Philippines | The course is pragmatic, focusing on realistic exercises to apply the learned knowledge against scenarios that would be similar to what the tester might encounter in the real-world.
 image:              assets/img/course-sql.png
 alt:                SQL Logo | Selenium IDE & Web Driver | Selenium Training Philippines | Orange and Bronze Software Labs
 date:               2018-06-12 08:00:00 +0800

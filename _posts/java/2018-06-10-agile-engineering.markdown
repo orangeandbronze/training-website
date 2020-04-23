@@ -4,10 +4,10 @@ class:              trackdetails
 title:              Agile Engineering & Java Best Practices
 title_seo:          Java Agile Class Philippines
 titles:             O&B Agile Engineering & Java Best Practices
-desc:               "Java and Agile Class Philippines - This course goes beyond an academic discussion of Object-Oriented Design and goes into a deep discussion of its effects on practical software engineering concerns such as maintainability, testability and reuse."
+desc:               "Java Agile Class Philippines | Java and Agile Class Philippines - This course goes beyond an academic discussion of Object-Oriented Design and goes into a deep discussion of its effects on practical software engineering concerns such as maintainability, testability and reuse."
 photo:              "https://university.orangeandbronze.com/assets/img/AgileEngineeringAndBestPractices-FbLinkPostPhoto.png"
-description:        Java and Agile Class Philippines - This course goes beyond an academic discussion of Object-Oriented Design and goes into a deep discussion of its effects on practical software engineering concerns such as maintainability, testability and reuse.
-short_description:  Java and Agile Class Philippines - This course goes beyond an academic discussion of Object-Oriented Design and goes into a deep discussion of its effects on practical software engineering concerns such as maintainability, testability and reuse.
+description:        Java and Agile Class Philippines | This course goes beyond an academic discussion of Object-Oriented Design and goes into a deep discussion of its effects on practical software engineering concerns such as maintainability, testability and reuse.
+short_description:  Java and Agile Class Philippines | This course goes beyond an academic discussion of Object-Oriented Design and goes into a deep discussion of its effects on practical software engineering concerns such as maintainability, testability and reuse.
 keywords:           Scrum Training Philippines, Agile Training Philippines, Agile Classes Philippines, Agile Courses Philippines, Business Analysis Training Philippines, Scrum Training Manila,  Agile Philippines, Scrum and Agile Training Philippines
 date:               2018-06-10 08:00:00 +0800
 categories:         java

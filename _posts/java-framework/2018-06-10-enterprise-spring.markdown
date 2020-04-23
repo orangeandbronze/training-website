@@ -4,10 +4,10 @@ class:              trackdetails
 title:              Enterprise Integration with Spring Training
 title_seo:          Enterprise Spring Training Philippines
 titles:             O&B Enterprise Integration with Spring Training
-desc:               "Enterprise Spring Training Philippines - This course will discuss the important topics and technologies related to enterprise application integration. This hands-on training teaches you how to apply Spring technologies to solve integration problems that face server-side developers."
-description:        Enterprise Spring Training Philippines - This course will discuss the important topics and technologies related to enterprise application integration. This hands-on training teaches you how to apply Spring technologies to solve integration problems that face server-side developers.
+desc:               "Enterprise Spring Training Philippines | This course will discuss the important topics and technologies related to enterprise application integration. This hands-on training teaches you how to apply Spring technologies to solve integration problems that face server-side developers."
+description:        Enterprise Spring Training Philippines | This course will discuss the important topics and technologies related to enterprise application integration. This hands-on training teaches you how to apply Spring technologies to solve integration problems that face server-side developers.
 photo:              "https://university.orangeandbronze.com/assets/img/EnterpriseIntegrationWithSpring-FBLinkPostPhoto.png"
-short_description:  Enterprise Spring Training Philippines - This course will discuss the important topics and technologies related to enterprise application integration. This hands-on training teaches you how to apply Spring technologies to solve integration problems that face server-side developers.
+short_description:  Enterprise Spring Training Philippines | This course will discuss the important topics and technologies related to enterprise application integration. This hands-on training teaches you how to apply Spring technologies to solve integration problems that face server-side developers.
 keywords:           Integration with Spring Training Philippines, Integration with Spring Training Manila, Integration with Spring Training Makati, REST Web Services, Spring Integration Philippines, Spring Batch
 date:               2018-06-10 08:00:00 +0800
 categories:         java-framework
