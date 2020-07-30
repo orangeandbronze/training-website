@@ -8,7 +8,7 @@ course_count:       4 courses
 course_duration:    3 weeks
 desc:               "Agile and Scrum Training Philippines | The Agile Manager Track is meant to provide a wide view of the methodologies and practices available in Agile, and to which situation each is applicable."
 photo:              "https://university.orangeandbronze.com/assets/img/AgileManagerTrack-FBLinkPostPhoto.png"
-short_description:  Agile and Scrum Training Philippines | The Agile Manager Track is meant to provide a wide view of the methodologies and practices available in Agile, and to which situation each is applicable. It also tackles how Agile values affect requirements engineering by immersing participants in the entire project lifecycle - from initial project vision, to user roles, and to the first iteration and release.
+short_description:  The Agile Manager Track is meant to provide a wide view of the methodologies and practices available in Agile, and to which situation each is applicable. It also tackles how Agile values affect requirements engineering by immersing participants in the entire project lifecycle - from initial project vision, to user roles, and to the first iteration and release.
 image:              assets/img/img-trainingcard-2.jpg
 alt:                Orange & Bronze instructor with his three students standing around the table evaluating user stories. | Agile Manager Track | Scrum and Agile Training Philippines
 date:               2018-06-19 09:00:00 +0800

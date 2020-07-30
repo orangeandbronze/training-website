@@ -6,8 +6,8 @@ title_seo:          Automated Testing Training Philippines
 titles:             O&B Automated Testing Track
 course_count:       11 courses
 course_duration:    4 weeks
-desc:               "Automated Testing Training Philippines | This track is is meant for engineers who want to pursue a career in automation testing, and for quality assurance professionals who want to shift from manual testing to automation testing."
-short_description:  Automated Testing Training Philippines | This track is is meant for engineers who want to pursue a career in automation testing, and for quality assurance professionals who want to shift from manual testing to automation testing.
+desc:               "Automated Testing Training Philippines | This track is meant for engineers who want to pursue a career in automation testing, and for quality assurance professionals who want to shift from manual testing to automation testing."
+short_description:  This track is meant for engineers who want to pursue a career in automation testing, and for quality assurance professionals who want to shift from manual testing to automation testing.
 photo:              "https://university.orangeandbronze.com/assets/img/AutomatedTestingTrack-FBLinkPostPhoto.png"
 image:              assets/img/img-trainingcard-5.jpg
 alt:                Orange & Bronze trainee, displays his code on the monitor screen while doing an automation testing. | Automated Testing Training Philippines
@@ -35,7 +35,7 @@ categories:         training_tracks
                                     <h3>Overview</h3>
                                     <img class="mb30 img-fluid" src="{{ "assets/img/spring-course-cover.jpg" | relative_url }}" alt="A large class of java developers listening to their instructor while in front of their computer. | Java Spring Training Philippines ">
                                     <p>
-                                        This track is is meant for engineers who want to pursue a career in automation testing, and for quality assurance professionals who want to shift from manual testing to automation testing.
+                                        This track is meant for engineers who want to pursue a career in automation testing, and for quality assurance professionals who want to shift from manual testing to automation testing.
                                     </p>
                                 </section>
                                 <section id="topic-outline">
