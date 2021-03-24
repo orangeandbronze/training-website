@@ -95,7 +95,7 @@ categories:         training_tracks
                                                 </a>
                                             </div>
                                         </div>
-                                        <div class="card-course">
+                                        <!-- <div class="card-course">
                                             <div class="image">
                                                 <img src="{{ "assets/img/spring-course2.jpg" | relative_url }}" alt="Student listening to his instructor while doing his hands-on training. | Java Spring Training Philippine">
                                             </div>
@@ -128,7 +128,7 @@ categories:         training_tracks
                                                     <img src="{{ "assets/img/ico-arrow-white.svg" | relative_url }}" class="ico" alt=""> View Course Details
                                                 </a>
                                             </div>
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </section>
 

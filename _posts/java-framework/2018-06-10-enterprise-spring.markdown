@@ -1,4 +1,4 @@
----
+<!-- ---
 layout:             training-tracks
 class:              trackdetails
 title:              Enterprise Integration with Spring Training
@@ -11,7 +11,7 @@ short_description:  Enterprise Spring Training Philippines | This course will di
 keywords:           Integration with Spring Training Philippines, Integration with Spring Training Manila, Integration with Spring Training Makati, REST Web Services, Spring Integration Philippines, Spring Batch
 date:               2018-06-10 08:00:00 +0800
 categories:         java-framework
----
+--- -->
 <div class="section-content">
     <div class="container-fluid auto-1110">
         <div class="row">

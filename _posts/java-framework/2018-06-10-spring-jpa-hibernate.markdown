@@ -95,7 +95,7 @@ categories:         java-framework
                                     <li>JPA in Web Applications (open entity manager in view)</li>
                                     </ul>
                                 </section>
-                                <section id="topic-outline">
+                                <!-- <section id="topic-outline">
                                     <h3>
                                         Related Courses:
                                     </h3>
@@ -103,7 +103,7 @@ categories:         java-framework
                                     <li><a href="/java-framework/spring-web/" target="_blank">Spring Web Training</a></li>
                                     <li><a href="/java-framework/enterprise-spring/" target="_blank">Enterprise Integration with Spring Training</a></li>
                                     </ul>
-                                </section>
+                                </section> -->
                                 <!-- <section id="faq">
                                     <h3>Frequently Asked Questions</h3>
                                     <div class="faq-list" id="accordion">

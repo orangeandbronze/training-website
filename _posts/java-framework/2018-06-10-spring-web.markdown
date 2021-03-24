@@ -1,4 +1,4 @@
----
+<!-- ---
 layout:             training-tracks
 class:              trackdetails
 title:              Spring Web Training
@@ -11,7 +11,7 @@ short_description:  Spring Web Training Philippines | This hands-on training tea
 keywords:           Spring Training Philippines, Java Training Philippines, Spring Training Manila, Spring Training Makati, Spring Frameworks Training
 date:               2018-06-10 08:00:00 +0800
 categories:         java-framework
----
+--- -->
 <div class="section-content">
     <div class="container-fluid auto-1110">
         <div class="row">
