@@ -68,7 +68,6 @@ categories:         java-framework
                                     <h3>
                                         Course Outline:
                                     </h3>
-                                    <h5 class="course-title">Core Spring Training</h5>
                                     <ul class="course-outline">
                                     <li>Annotation-based Dependency Injection</li>
                                     <li>Understanding Bean Lifecycle</li>
@@ -79,17 +78,18 @@ categories:         java-framework
                                     <li>JPA/Hibernate with Spring and Spring Data</li>
                                     <li>Spring MVC Architecture and Overview</li>
                                     <li>REST with Spring MVC</li>
+                                    <li>Spring Security</li>
+                                    <li>Spring Boot Testing Enhancements</li>
                                     </ul>
                                 </section>
-                                <!-- <section>
+                                <section>
                                     <h3>
                                         Related Course:
                                     </h3>
                                     <ul class="course-outline">
-                                    <li><a href="/java-framework/spring-web/" target="_blank">Spring Web Training</a></li>
-                                    <li><a href="/java-framework/enterprise-spring/" target="_blank">Enterprise Integration with Spring Training</a></li>
+                                    <li><a href="/java-framework/spring-jpa-hibernate//">Combined Core Spring and JPA/Hibernate</a></li>
                                     </ul>
-                                </section> -->
+                                </section>
                                 <!-- <section id="faq">
                                     <h3>Frequently Asked Questions</h3>
                                     <div class="faq-list" id="accordion">

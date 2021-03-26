@@ -6,8 +6,8 @@ title_seo:          Java Spring Training Philippines
 titles:             O&B Spring Developer Track
 desc:               "Java Spring Training Philippines | The Spring Developer Track is designed for experienced Java developers who would like to gain more depth on Spring, know how to build loosely-coupled and testable applications, as well as learn aspect oriented programming."
 photo:              "https://university.orangeandbronze.com/assets/img/SpringDeveloperTrack-FBLinkPostPhoto.png"
-course_count:       3 courses
-course_duration:    3 weeks
+course_count:       2 courses
+course_duration:    1 week
 short_description:  The Spring Developer Track is designed for experienced Java developers who would like to gain more depth on Spring, know how to build loosely-coupled and testable applications, as well as learn aspect oriented programming.
 image:              assets/img/img-trainingcard-3.jpg
 alt:                O&B student in front of his laptop developing a Java application using spring frameworks. | Java Spring Training Philippines
@@ -95,9 +95,23 @@ categories:         training_tracks
                                                 </a>
                                             </div>
                                         </div>
+                                        <div class="card-course">
+                                            <div class="image">
+                                                <img src="{{ "assets/img/spring-course2.jpg" | relative_url }}" alt="Student listening to his instructor while doing his hands-on training.">
+                                            </div>
+                                            <div class="content">
+                                                <h5>Spring Cloud Developer: Microservices Training</h5>
+                                                <p>
+                                                    Microservices is a software and organization pattern for delivering business value quickly. Spring Boot and Spring Cloud are a powerful combination for building modern microservices architectures that leverage industry-tested technology like distributed configuration, services discovery and circuit breakers.
+                                                </p>
+                                                <a href="#" data-toggle="modal" data-target="#modalCourse2" class="btn -primary">
+                                                    <img src="{{ "assets/img/ico-arrow-white.svg" | relative_url }}" class="ico" alt=""> View Course Details
+                                                </a>
+                                            </div>
+                                        </div>
                                         <!-- <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/spring-course2.jpg" | relative_url }}" alt="Student listening to his instructor while doing his hands-on training. | Java Spring Training Philippine">
+                                                <img src="{{ "assets/img/spring-course2.jpg" | relative_url }}" alt="Student listening to his instructor while doing his hands-on training.">
                                             </div>
                                             <div class="content">
                                                 <h5>Enterprise Integration with Spring Training</h5>
@@ -308,7 +322,7 @@ categories:         training_tracks
                 <H6>
                     &lt; Spring Developer Track/&gt;
                 </H6>
-                <H3>Enterprise Integration with Spring Training</H3>
+                <H3>Spring Cloud Developer: Microservices Training</H3>
             </div>
             <div class="modal-body">
                 <section>
@@ -318,25 +332,35 @@ categories:         training_tracks
                     <div class="track-details">
                         <div class="details mr40">
                             <img src="/assets/img/ico-calendar.svg" alt="">
-                            <h6>DURATION: 3 Days</h6>
+                            <h6>DURATION: 2 Days</h6>
                         </div>
                     </div>
                     <p>
-                        Spring is a dependency injection framework that simplifies Java EE development and testing.
+                        Microservices is a software and organization pattern for delivering business value quickly. Spring Boot and Spring Cloud are a powerful combination for building modern microservices architectures that leverage industry-tested technology like distributed configuration, services discovery and circuit breakers.
                     </p>
                     <p>
-                        This course is designed for experienced developers who would like to gain more depth on Spring and building loosely-coupled and testable applications, as well as aspect oriented programming.
-                    </p>
-                    <p>
-                        O&B is the first SpringSource partner based in the Philippines. Many of our engineers and architects have been using Spring Framework since its first stable release in 2004, and have built massive global systems as well as innovative products using Spring.
+                        The 2-day Spring Cloud Developer course provides participants with a background on why Cloud Native and microservices are important to adding business value quickly. The course leverages Spring Boot and Spring Cloud to solve the challenges associated with running a distributed, microservice-based architecture.
                     </p>
                 </section>
                 <section>
                     <h4>
-                        Prerequisite:
+                        Benefits of the Program:
                     </h4>
-                    <p>
-                        <a href="/java-framework/core-spring/" target="_blank">Core Spring Training</a> or <a href="/java-framework/spring-jpa-hibernate/" target="_blank">Combined Spring & JPA/Hibernate Training</a>
+                    <p>Participants will understand the following:
+                        <ul>
+                            <li>Cloud computing and distributed systems</li>
+                            <li>The Twelve-Factor App <a href="https://12factor.net/" target="_blank">(https://12factor.net/)</a></li>
+                            <li>Cloud computing design considerations
+                                <ul>
+                                    <li>Eventual consistency (#dddesign, event sourcing, CQRS, transactional outbox), REST API</li>
+                                    <li>Microservices patterns (e.g. service registry/discover, circuit breaker, API gateway, etc)</li>
+                                    <li>Operations (e.g. blue-green deployment, distributed tracing/logging)</li>
+                                    <li>Hands-on labs for discussed patterns (using Spring Cloud)</li>
+                                </ul>
+                            </li>
+                            <li>Utilize AWS services (like EC2, S3, RDS) with Spring Cloud AWS</li>
+                            <li>Emulate the cloud locally (for development and testing)</li>
+                        </ul>
                     </p>
                 </section>
                 <section>
@@ -344,50 +368,18 @@ categories:         training_tracks
                         Audience:
                     </h4>
                     <p>
-                        Experienced enterprise Java developers and architects who want to learn how to take advantage of the Spring Framework in integrating their server-side applications.
+                        Developers interested in learning how to construct cloud-native applications using the Spring Cloud family of projects.
                     </p>
                 </section>
                 <section>
                     <h4>
-                        Benefits of the Program:
+                        Prerequisites:
                     </h4>
-                    <p>
-                    From this workshop, trainees will learn:
                         <ul>
-                            <li>Create concurrent applications and schedule tasks using Spring</li>
-                            <li>Create SOAP and REST Web services</li>
-                            <li>Use JMS for asynchronous communication</li>
-                            <li>Understand and use distributed transactions</li>
-                            <li>Use Spring Batch for Enterprise Integration based on batch processing</li>
-                            <li>Use Spring Integration for Pipes-and-Filters integration</li>
-                        </ul>
-                    </p>
-                </section>
-                <section>
-                    <h4>
-                        Course Outline:
-                    </h4>
-                    <h5 class="course-title">Day 1-3 : Enterprise Integration with Spring Training</h5>
-                    <ul class="course-outline">
-                        <li>Styles of Enterprise Integration</li>
-                        <li>Tasks and Scheduling</li>
-                        <li>Spring Remoting</li>
-                        <li>Spring Web Services</li>
-                        <li>REST Web Services</li>
-                        <li>Spring JMS</li>
-                        <li>Global Transactions using XA, JTA and Spring</li>
-                        <li>Spring Integration</li>
-                        <li>Spring Batch</li>
-                    </ul>
-                </section>
-                <section>
-                    <h4>
-                        Related Course:
-                    </h4>
-                        <ul class="course-outline">
-                            <li><a href="/java-framework/spring-web/" target="_blank">Spring Web Training</a></li>
-                            <li><a href="/java-framework/core-spring/" target="-blank">Core Spring Training</a></li>
-                         </ul>
+                            <li>Basic understanding of Spring</li>
+                            <li>Completion of the <a href="/java-framework/core-spring">Core Spring Training</a> course (strongly recommended)</li>
+                            <li>Spring Boot experience </li>
+                        </ul>   
                 </section>
             </div>
         </div>
