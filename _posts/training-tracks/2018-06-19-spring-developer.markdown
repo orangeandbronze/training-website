@@ -301,9 +301,8 @@ categories:         training_tracks
                         Related Course:
                     </h4>
                         <ul class="course-outline">
-                            <li><a href="/java-framework/spring-web/" target="_blank">Spring Web Training</a></li>
-                            <li><a href="/java-framework/enterprise-spring/" target="_blank">Enterprise Integration with Spring Training</a></li>
-                                    </ul>
+                            <li><a href="/java-framework/spring-jpa-hibernate//">Combined Core Spring and JPA/Hibernate</a></li>
+                        </ul>
                 </section>
             </div>
         </div>
@@ -474,7 +473,7 @@ categories:         training_tracks
                     <h4>Related Courses</h4>
                     <ul class="course-outline">
                         <li><a href="/java-framework/core-spring/" target="_blank">Core Spring Training</a></li>
-                        <li><a href="/java-framework/enterprise-spring/" target="_blank">Enterprise Integration with Spring Training</a></li>
+                        <li><a href="/java-framework/spring-jpa-hibernate//">Combined Core Spring and JPA/Hibernate</a></li>
                     </ul>
                 </section>
             </div>
