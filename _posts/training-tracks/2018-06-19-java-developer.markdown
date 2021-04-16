@@ -540,13 +540,13 @@ categories:         training_tracks
                     </ul>
                     <h5 class="course-title">Day 5 : Machine problem (web application) and code review</h5>
                 </section><section id="topic-outline">
-                    <!--<h4>
+                    <h4>
                         Related Courses:
                     </h4>
                         <ul class="course-outline">
-                            <li><a href="/java-framework/spring-web/" target="_blank">Spring Web Training</a></li>
-                            <li><a href="/java-framework/enterprise-spring/" target="_blank">Enterprise Integration with Spring Training</a></li>
-                        </ul> -->
+                            <li><a href="/java-framework/core-spring/" target="_blank">Core Spring Training</a></li>
+                            <!--<li><a href="/java-framework/enterprise-spring/" target="_blank">Enterprise Integration with Spring Training</a></li>-->
+                        </ul>
                 </section>
             </div>
         </div>
