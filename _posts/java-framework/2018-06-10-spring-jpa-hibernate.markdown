@@ -52,9 +52,6 @@ categories:         java-framework
                                             <p style="display: inline-block; margin: 0; vertical-align: middle; line-height: 21px;">JPA/Hibernate (starting with basic JPA/Hibernate mapping and EntityManager operations, and ending with more advanced mapping)</p>
                                         </div>
                                     </div>
-                                    <h3>
-                                        Course Overview:
-                                    </h3>
                                     <p>Spring is a dependency injection framework that simplifies Java EE development and testing.</p>
                                     <p>Java Persistence API (JPA) is a specification that describes the management of relational data. Hibernate is an open source object-relational mapping framework that implements the JPA specification.</p>
                                     <p>This combined 5-day course enhances the 3-day Core Spring course with topics to cover JPA/Hibernate basic and advanced concepts. This is designed for experienced developers who would like to gain a solid foundation in JPA, and use it effectively within the Spring framework.</p>
