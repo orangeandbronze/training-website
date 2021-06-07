@@ -35,64 +35,56 @@ categories:         java-framework
                                     <div class="track-details">
                                         <div class="details mr40">
                                             <img src="/assets/img/ico-calendar.svg" alt="">
-                                            <h6>DURATION: 3 Days</h6>&nbsp;
+                                            <h6>DURATION: 5 days total</h6>
+                                        </div>
+                                    </div>
+                                    <div class="track-details">
+                                        <div class="details mr40">
+                                            <img src="/assets/img/ico-calendar.svg" alt="">
+                                            <h6>3 days</h6>&nbsp;
                                             <p style="display: inline-block; margin: 0; vertical-align: middle; line-height: 21px;">Core Spring (lecture and exercises)</p>
                                         </div>
                                     </div>
                                     <div class="track-details">
                                         <div class="details mr40">
                                             <img src="/assets/img/ico-calendar.svg" alt="">
-                                            <h6>DURATION: 1 Day</h6>&nbsp;
-                                            <p style="display: inline-block; margin: 0; vertical-align: middle; line-height: 21px;">JPA/Hibernate (more JPA/Hibernate configuration and internals)</p>
+                                            <h6>2 days</h6>&nbsp;
+                                            <p style="display: inline-block; margin: 0; vertical-align: middle; line-height: 21px;">JPA/Hibernate (starting with basic JPA/Hibernate mapping and EntityManager operations, and ending with more advanced mapping)</p>
                                         </div>
                                     </div>
-                                    <div class="track-details">
-                                        <div class="details mr40">
-                                            <img src="/assets/img/ico-calendar.svg" alt="">
-                                            <h6>DURATION: 1 Day</h6>&nbsp;
-                                            <p style="display: inline-block; margin: 0; vertical-align: middle; line-height: 21px;">Machine problem (web application) and code review</p>
-                                        </div>
-                                    </div>
+                                    <h3>
+                                        Course Overview:
+                                    </h3>
                                     <p>Spring is a dependency injection framework that simplifies Java EE development and testing.</p>
-                                    <p>This course is designed for experienced developers who would like to gain more depth on Spring and building loosely-coupled and testable applications, as well as aspect oriented programming.</p>
-                                    <p>Java Persistence API (JPA) is a specification that describes the management of relational data. Hibernate is an open source object-relational mapping framework that implements the JPA specification (starting with version 3.2 and later).</p>
-                                    <p>This 5-day course is designed for experienced developers who would like to gain more depth on Spring and JPA/Hibernate, and learn about building loosely-coupled and testable applications. Students will also learn about aspect oriented programming and integrating with other frameworks.</p>
+                                    <p>Java Persistence API (JPA) is a specification that describes the management of relational data. Hibernate is an open source object-relational mapping framework that implements the JPA specification.</p>
+                                    <p>This combined 5-day course enhances the 3-day Core Spring course with topics to cover JPA/Hibernate basic and advanced concepts. This is designed for experienced developers who would like to gain a solid foundation in JPA, and use it effectively within the Spring framework.</p>
                                     <h4>Benefits of the Program</h4>
                                     <p>Trainees will learn to do the following:</p>
-                                    <ul>
-                                    <li>Use the Spring Framework to develop Java applications</li>
-                                    <li>Use dependency injection to setup and configure applications</li>
-                                    <li>Test Spring-based applications</li>
-                                    <li>Configure Spring applications using Java configuration, annotations, or XML</li>
-                                    <li>Use JPA/Hibernate and JDBC with Spring to access relational databases</li>
-                                    <li>Use Spring support for transactions</li>
-                                    <li>Use aspect-oriented programming (AOP) to declaratively add behavior to applications</li>
-                                    <li>Develop a basic Web application with Spring MVC</li>
-                                    <li>Advanced JPA/Hibernate mapping</li>
-                                    <li>Use JPA/Hibernate with Spring in web applications</li>
-                                    </ul>
+                                        <ul>
+                                            <li>Spring configuration using Java Configuration and Annotations</li>
+                                            <li>Aspect-oriented programming (AOP) with Spring</li>
+                                            <li>Test Spring-based applications using JUnit 5</li>
+                                            <li>Use Spring to access relational databases - JDBC</li>
+                                            <li>Use Spring support for transactions</li>
+                                            <li>Use JPA to map Java objects to relational data</li>
+                                            <li>Use JPA to persist, merge, and remove entities</li>
+                                            <li>Use JPA with Spring and Spring Data</li>
+                                            <li>Simplifying applications with Spring Boot auto-configuration, and starters</li>
+                                            <li>Build a simple MVC application using Spring Boot</li>
+                                            <li>Implement REST with Spring MVC and RestTemplate</li>
+                                            <li>Spring Security</li>
+                                            <li>Utilize Spring Boot enhancements to testing</li>
+                                        </ul>
                                     <h4>Audience</h4>
-                                    <p>Experienced enterprise Java developers and architects who want to learn how to take advantage of the Spring Framework in their own applications.</p>
+                                    <p>Experienced enterprise Java developers and architects who want to learn how to take advantage of JPA/Hibernate and the Spring Framework in their own applications.</p>
                                     <h4>Prerequisite</h4>
-                                    <p><a href="/java/agile-engineering/" target="_blank">Agile Engineering & Java Best Practices</a>, <a href="/java/java-enterprise/" target="_blank">Java Enterprise Fundamentals and Best Practices</a></p>
-                                </section>
-                                <section id="topic-outline">
-                                    <h3>
-                                        Course Outline:
-                                    </h3>
-                                    <h5 class="course-title">Combined Spring and JPA/Hibernate Training</h5>
-                                    <ul class="course-outline">
-                                    <li>Annotation-based and XML Dependency Injection</li>
-                                    <li>Understanding Bean Lifecycle</li>
-                                    <li>Testing a Spring-based application</li>
-                                    <li>Aspect-Oriented Programming (AOP)</li>
-                                    <li>Data Access, Transactions, and JDBC with Spring</li>
-                                    <li>Integrating Spring with JPA and Hibernate</li>
-                                    <li>Spring in a Web Application</li>
-                                    <li>JPA Mapping (Annotations and XML)</li>
-                                    <li>Lazy Loading and Detached Objects</li>
-                                    <li>Optimistic and Pessimistic Locking</li>
-                                    <li>JPA in Web Applications (open entity manager in view)</li>
+                                        <ul>
+                                            <li><a href="/java/agile-engineering/">Agile Engineering & Java Best Practices</a></li>
+                                            <li><a href="/java/java-enterprise/">Java Enterprise Fundamentals and Best Practices</a></li>
+                                        </ul>
+                                    <h4>Related Course</h4>
+                                    <ul>
+                                        <li><a href="/java-framework/core-spring/">Core Spring</a></li>
                                     </ul>
                                 </section>
                                 <!-- <section id="topic-outline">
