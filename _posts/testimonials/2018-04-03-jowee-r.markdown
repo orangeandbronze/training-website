@@ -7,7 +7,7 @@ categories:   testimonial
     <div class="testimonial-content">
         <img class="design-element1" src="{{ "assets/img/ico-blockquote.svg" | relative_url }}" alt="">
         <blockquote>
-            For a long time, Pointwest has been looking for a training provider who has a comprehensive Java training program. Orange and Bronze fills that void. O&B people have the passion, competence, energy and pizzazz proven by their training methodology, mentoring skills, and team of Java professionals. O&B trained individuals are a testimony to their teaching prowess
+            For a long time, Pointwest has been looking for a training provider who has a comprehensive Java training program. Orange and Bronze fills that void. O&B people have the passion, competence, energy and pizzazz proven by their training methodology, mentoring skills, and team of Java professionals. O&B trained individuals are a testimony to their teaching prowess.
         </blockquote>
         <h6 class="name">Jowee Reyes</h6>
         <span>Executive Director, Pointwest Technologies</span>
