@@ -1,7 +1,7 @@
 ---
 layout:             training-tracks
 class:              trackdetails
-title:              Test-Driven Development in Java
+title:              Introduction to Test-Driven Development Training
 title_seo:          Java TDD Training Philippines
 titles:             "O&B Test-Driven Development in Java"
 desc:               "Java TDD Training Philippines - This course not only introduces unit testing and the use of JUnit, but helps developers truly embrace Test-Driven Development, by teaching them how to design their code to be testable, and to embrace a more disciplined workflow."
@@ -23,7 +23,7 @@ categories:         enterprise
                             <h6>
                                 < beyond java />
                             </h6>
-                            <h2>Test-Driven Development in Java</h2>
+                            <h2>Introduction to Test-Driven Development Training</h2>
                         </div>
                     </div>
                     <div class="row" data-sticky-container>
@@ -38,27 +38,51 @@ categories:         enterprise
                                             <h6>DURATION: 2 Days</h6>
                                         </div>
                                     </div>
-                                    <p>Many development teams try to adopt unit testing, but fail, because their developers do not not how to write testable code. This course not only introduces unit testing and the use of JUnit, but helps developers truly embrace Test-Driven Development, by teaching them how to design their code to be testable, and to embrace a more disciplined workflow. The result should be higher quality products, happy customers, and a happier team, since they’re spending their time productively creating new features instead of hunting and fixing bugs.</p>
+                                    <p>Many development teams try to adopt unit testing, but fail, because their developers do not know how to write testable code. This course not only introduces unit testing and the use of JUnit, but helps developers truly embrace Test-Driven Development, by teaching them how to design their code to be testable, and to embrace a more disciplined workflow. The result should be higher quality products, happy customers, and a happier team, since they’re spending their time productively creating new features instead of hunting and fixing bugs.</p>
                                     <p>This class was developed and is taught by some of the Philippines' well-known and respected Java software engineers and architects, and uses the format trusted by some of the best companies in the Philippines.</p>
+                                    <h4>Prerequisite</h4>
+                                        <ul>
+                                            <li>Basic Java knowledge</li>
+                                        </ul>
                                     <h4>Benefits of the program</h4>
-                                    <ul>
-                                    <li>Improve code quality</li>
-                                    <li>Improve team satisfaction, by reducing the frustrating effort of finding and fixing bugs.</li>
-                                    <li>Improve productivity, by reducing bug-hunting time.</li>
-                                    <li>Make code easy to change and enhance, due to a comprehensive suite of automated tests.</li>
-                                    </ul>
+                                        <ul>
+                                            <li>Improve code quality</li>
+                                            <li>Improve team satisfaction, by reducing the frustrating effort of finding and fixing bugs.</li>
+                                            <li>Improve productivity, by reducing bug-hunting time.</li>
+                                            <li>Make code easy to change and enhance, due to a comprehensive suite of automated tests.</li>
+                                        </ul>
                                 </section>
                                 <section id="topic-outline">
                                     <h3>
                                         Course Outline:
                                     </h3>
-                                    <h5 class="course-title">Test-Driven Development in Java</h5>
-                                    <ul class="course-outline">
-                                    <li>Unit Testing Concepts</li>
-                                    <li>JUnit</li>
-                                    <li>Test-Driven Development</li>
-                                    <li>Mock Testing</li>
-                                    </ul>
+                                    <h5 class="course-title">Introduction to Test-Driven Development Training</h5>
+                                        <ul class="course-outline">
+                                            <li>Using JUnit</li>
+                                            <li>Testing Concepts
+                                                <ul>
+                                                    <li>Risk-Based Testing</li>
+                                                    <li>Agile Testing</li>
+                                                    <li>Unit Testing vs. Integration Testing vs. End-to-End Testing</li>
+                                                    <li>Test Automation Challenges</li>
+                                                </ul>
+                                            </li>
+                                            <li>Good Coding Practices Crash Course
+                                                <ul>
+                                                    <li>Information Expert</li>
+                                                    <li>Domain Driven Design</li>
+                                                    <li>Avoiding Invalid States</li>
+                                                    <li>Other Good Coding Practices</li>
+                                                </ul>
+                                            </li>
+                                            <li>Test-Driven Development Methodology
+                                                <ul>
+                                                    <li>Typical Workflow</li>
+                                                    <li>Refactoring</li>
+                                                </ul>
+                                            </li>
+                                            <li>TDD Katas (Exercises, from simple to complex examples)</li>
+                                        </ul>
                                 </section>
                                 <!-- <section id="faq">
                                     <h3>Frequently Asked Questions</h3>
