@@ -55,35 +55,98 @@ categories:         other_courses
                                         Course Outline:
                                     </h3>
                                     <h5 class="course-title">Basic Python</h5>
-                                    <ul class="course-outline">
+                                    <ul>
+                                        <li>Visual Studio Code overview</li>
                                         <li>Data Types</li>
-                                        <li>Functions</li>
-                                        <li>Parameters</li>
-                                        <li>Boolean</li>
-                                        <li>Lists</li>
+                                        <li>Function: print</li>
+                                        <li>Math operators: + - / *</li>
+                                        <li>String operator +</li>
+                                        <li>Function: input</li>
+                                        <li>Functions: int, str</li>
+                                        <li>Function: format</li>
+                                        <li>Optional parameters</li>
+                                        <li>String functions, upper, lower, swapcase, title, format</li>
+                                        <li>multi-line string</li>
+                                        <li>Boolean
+                                            <ul>                                                    
+                                                <li>Boolean operators: and, or, not</li>
+                                            </ul>
+                                         </li>
+                                        <li>If statement
+                                            <ul>
+                                                <li>conditional operators: > < >= <= == !=</li>
+                                                <li>else</li>
+                                                <li>elif</li>
+                                            </ul>                                                
+                                        </li>
+                                        <li>Lists
+                                            <ul>
+                                                <li>list element assignment (list[] = element)</li>
+                                                <li>list functions: append, remove, len, extend, index</li>
+                                            </ul>
+                                        </li>
+                                        <li>for-loops.</li>
                                         <li>Code blocks</li>
-                                        <li>If statement</li>
-                                        <li>Random Library</li>
-                                        <li>Python Manual</li>
-                                        <li>Turtle / Logo Programming</li>
+                                        <li>list comprehension</li>
+                                        <li>range function</li>
+                                        <li>list slicing.</li>
+                                        <li>in operator.</li>
+                                        <li>list function: sort, reverse</li>
+                                        <li>Unpacking</li>
+                                        <li>tuple</li>
+                                        <li>string functions: count, split, join.</li>
+                                        <li>file function: open()</li>
+                                        <li>with statement</li>
+                                        <li>random library
+                                            <ul>
+                                                <li>shuffle, choice, randint</li>
+                                                <li>help() and dir()</li>
+                                                <li>from import</li>
+                                            </ul>
+                                        </li>
+                                        <li>making a function
+                                            <ul>
+                                                <li>optional parameter</li>
+                                                <li>named parameter</li>
+                                            </ul>
+                                        </li>
+                                        <li>importing function from other files</li>
+                                        <li>while, continue, break</li>
+                                        <li> introduction to help() and python manual</li>
+                                        <li>turtle/logo programming</li>
                                     </ul>
                                     <h5 class="course-title">Intermediate Python</h5>
-                                    <ul class="course-outline">
-                                        <li>Dictionary</li>
-                                        <li>Unpacking</li>
+                                    <ul>
+                                        <li>enumerate(), zip()</li>
                                         <li>Set</li>
-                                        <li>Importing Function</li>
+                                        <li>Dictionary</li>
+                                        <li>items(), keys(), get(), values()</li>
+                                        <li>None datatype</li>
                                         <li>Error handling</li>
+                                        <li>string.punctuation, digits, ascii_letters</li>
+                                        <li>f-strings</li>
+                                        <li>datetime library</li>
                                         <li>Basic Object Oriented Programming</li>
+                                        <li>dir introspection</li>
+                                        <li>breakpoint()</li>
+                                        <li>Function data type</li>
+                                        <li>Libraries
+                                            <ul>
+                                                <li>Pretty Print</li>
+                                                <li>Argument Parser</li>
+                                                <li>csv</li>
+                                                <li>Pathlib</li>
+                                            </ul>
+                                        </li>
+                                        <li>Internet API: requests</li>
                                     </ul>
                                     <h5 class="course-title">Practical Python</h5>
-                                    <p>One of the following will be discussed:</p>
-                                    <ul class="course-outline">
+                                    <p>One of the following will be discussed, as requested by the class:</p>
+                                    <ul>
                                         <li>Web programming using Flask</li>
-                                        <li>Database (csv, sqlite, sqlalchemy, etc.)</li>
+                                        <li>Database (sqlite, sqlalchemy, etc.)</li>
                                         <li>Customized libraries or topics upon request</li>
                                     </ul>
-                                    <h5 class="course-title">Hackathon</h5>
                                 </section>
                                 <section id="faq">
                                     <h3>Frequently Asked Questions</h3>
