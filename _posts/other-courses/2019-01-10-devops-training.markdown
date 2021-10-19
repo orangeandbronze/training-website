@@ -41,13 +41,21 @@ categories:         other_courses
                                         </div>
                                     </div>
                                     <p>
-                                        O&B’s DevOps Training course is designed to provide an introduction to the tools, cloud platforms, and best practices for continuous and efficient delivery of software development projects.
+                                    O&B’s DevOps Training course is designed to provide an introduction to the tools, cloud platforms, and best practices for continuous and efficient delivery of software development projects.
                                     </p>
-                                    <p>After this course, participants are expected to know the fundamentals of utilizing an integrated process for delivering software, with a deeper understanding of an engineering culture focused on communication and collaboration between the development and IT operations teams. The end goal is to improve reliability of product releases, speed up time-to-market, and increase productivity.
+                                    <p>
+                                    After this course, participants are expected to know the fundamentals of utilizing an integrated process for delivering software, with a deeper understanding of an engineering culture focused on communication and collaboration between the development and IT operations teams. The end goal is to improve reliability of product releases, speed up time-to-market, and increase productivity.
                                     </p>
                                     <p>
                                     This training course was developed and is taught by some of the Philippines' well-known and respected software engineers and architects, and uses the format trusted by some of the best companies in the Philippines.
                                     </p>
+                                    <h4>
+                                        Prerequisite
+                                    </h4>
+                                    <ul>
+                                        <li><a href="https://university.orangeandbronze.com/other_courses/git/">Git Training</a></li>
+                                        <li><a href="https://university.orangeandbronze.com/enterprise/tdd/">Test- Driven Development Training</a></li>
+                                    </ul>
                                 </section>
                                 <section id="topic-outline">
                                     <h3>
@@ -55,42 +63,24 @@ categories:         other_courses
                                     </h3>
                                     <h5 class="course-title">Foundation</h5>
                                     <ul class="course-outline">
-                                        <li>Introduction to Cloud</li>
                                         <li>Introduction to DevOps</li>
-                                        <li>Source code management using Git</li>
-                                        <li>Configuration Management using Ansible</li>
+                                        <li>Introduction to Cloud</li>
                                         <li>Cloud Native Architecture
                                             <ul>
-                                                <li>12 Factor App</li>
                                                 <li>Microservices</li>
+                                                <li>The Twelve-Factor Application</li>
                                             </ul>
                                         </li>
-                                    </ul>
-                                    <h5 class="course-title">Cloud Native Infrastructure</h5>
-                                    <ul class="course-outline">
-                                        <li>Introduction to AWS/GCP/Azure
+                                        <li>Docker
                                             <ul>
-                                                <li>Launching and provisioning virtual machines</li>
-                                                <li>Basic load balancing</li>
+                                                <li>Images and Containers</li>
+                                                <li>Docker Registry</li>
                                             </ul>
                                         </li>
-                                        <li>Advanced AWS/GCP/Azure</li>
-                                        <li>Packaging and Deploying Applications in Containers</li>
-                                        <li>Basic Kubernetes</li>
-                                        <li>Distributed systems
-                                            <ul>
-                                                <li>Databases</li>
-                                                <li>Distributed cache/key-value stores</li>
-                                                <li>Service mesh</li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                    <h5 class="course-title">Continuous Integration & Delivery</h5>
-                                    <ul class="course-outline">
-                                        <li>Automated Unit Testing</li>
-                                        <li>Static Code Analysis</li>
-                                        <li>Continuous Integration</li>
-                                        <li>Continuous Delivery onto Kubernetes</li>
+                                        <li>Ansible</li>
+                                        <li>Kubernetes</li>
+                                        <li>CI/CD</li>
+                                        <li>Automating AWS Deployment Using Ansible</li>
                                     </ul>
                                 </section>
                             </div>
