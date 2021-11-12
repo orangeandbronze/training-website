@@ -1,9 +1,9 @@
 ---
 layout:             training-tracks
 class:              trackdetails
-title:              Java Enterprise Fundamentals and Best Practices
+title:              Enterprise Java Best Practices
 title_seo:          Java Enterprise Training Philippines
-titles:             O&B Java Enterprise Fundamentals and Best Practices
+titles:             O&B Enterprise Java Best Practices
 desc:               "Java Enterprise Training Philippines | This course provides a rigorous introduction to enterprise development, including solving common problems of persistence, concurrency, organizing business logic, and communication over the web."
 description:        Java Enterprise Training Philippines | This course provides a rigorous introduction to enterprise development, including solving common problems of persistence, concurrency, organizing business logic, and communication over the web.
 photo:              "https://university.orangeandbronze.com/assets/img/JavaEnterpriseFundamentalsAndBestPractices-FBLinkPostPhoto.png"
@@ -23,7 +23,7 @@ categories:         java
                             <h6>
                                 < beyond java />
                             </h6>
-                            <h2>Java Enterprise Fundamentals and Best Practices</h2>
+                            <h2>Enterprise Java Best Practices</h2>
                         </div>
                     </div>
                     <div class="row" data-sticky-container>
