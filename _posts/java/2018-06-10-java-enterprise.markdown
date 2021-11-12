@@ -39,33 +39,30 @@ categories:         java
                                         </div>
                                     </div>
                                     <p>
-                                        This course provides a rigorous introduction to enterprise development, including solving common problems of persistence, concurrency, organizing business logic, and communication over the web. It uses the core Java enterprise technologies of JDBC, Servlets & JSP. Regardless of which framework your team uses, this course is a valuable introduction to not just the underlying technologies behind the frameworks, but the best practices for dealing with common enterprise challenges.
+                                        Trainees will extend a simple Spring Boot application to learn and apply enterprise development best practices.
                                     </p>
                                     <h4>
                                         Prerequisite
                                     </h4>
-                                    <p><a href="/java/core-java/" target="_blank">Core Java & Commonly-Used Java Libraries</a>, <a href="/java/agile-engineering/" target="_blank">Agile Engineering and Best Practices</a>, <a href="/other_courses/sql/" target="_blank">SQL</a>, <a href="/other_courses/html-css/" target="_blank">HTML</a></p>
+                                    <p><a href="/other_courses/html-css/" target="_blank">HTML</a>,<a href="/other_courses/sql/" target="_blank">SQL</a>,<a href="/other_courses/junit/" target="_blank">JUnit,</a>, <a href="/java-framework/core-spring/" target="_blank">Spring</a> or <a href="/java/agile-engineering/" target="_blank">Java EE</a>,<a href="/java-framework/spring-jpa-hibernate/" target="_blank">JPA</a> </p>
                                 </section>
                                 <section id="topic-outline">
                                     <h3>
                                         Course Outline:
                                     </h3>
-                                    <h5 class="course-title">Java Enterprise Fundamentals and Best Practices</h5>
                                     <ul class="course-outline">
-                                    <li>Application Layers &amp; Domain Modeling</li>
-                                    <li>JDBC</li>
-                                    <li>Automated Database Testing</li>
-                                    <li>Servlets</li>
+                                    <li>Domain Driven Design</li>
+                                    <li>Mock Testing</li>
+                                    <li>Integration Testing</li>
+                                    <li>TestContainers</li>
                                     <li>POST-GET-Redirect (PRG) Pattern</li>
-                                    <li>JSP &amp; JSTL</li>
-                                    <li>Model-View-Controller</li>
                                     <li>REST</li>
-                                    <li>Application Services</li>
-                                    <li>Transactions</li>
-                                    <li>Concurrency</li>
-                                    <li>Performance</li>
-                                    <li>Testing with Mock Objects</li>
+                                    <li>Transactions & Concurrency</li>
+                                    <li>Database Performance </li>
                                     <li>Database Migration</li>
+                                    <li>Load Testing w/ JMeter</li>
+                                    <li>Command Query Responsibility Separation (CQRS)</li>
+                                    <li>UI Testing w/ Selenium</li>
                                     </ul>
                                 </section>
                                 <!-- <section id="faq">

@@ -85,20 +85,6 @@ categories:         training_tracks
                                         </div>
                                         <div class="card-course">
                                             <div class="image">
-                                                <img src="{{ "assets/img/java-course3.jpg" | relative_url }}" alt="A student in front of his laptop that shows his code. | Java Training Track | Orange and Bronze Software Labs">
-                                            </div>
-                                            <div class="content">
-                                                <h5>Java Enterprise Fundamentals and Best Practices</h5>
-                                                <p>
-                                                    This course provides a rigorous introduction to enterprise development, including solving common problems of persistence, concurrency, organizing business logic, and communication over the web. It uses the core Java enterprise technologies of JDBC, Servlets & JSP. Regardless of which framework your team uses, this course is a valuable introduction to not just the underlying technologies behind the frameworks, but the best practices for dealing with common enterprise challenges.
-                                                </p>
-                                                <a href="#" data-toggle="modal" data-target="#modalCourse3" class="btn -primary">
-                                                    <img src="{{ "assets/img/ico-arrow-white.svg" | relative_url }}" class="ico" alt=""> View Course Details
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="card-course">
-                                            <div class="image">
                                                 <img src="{{ "assets/img/java-course4.jpg" | relative_url }}" alt="A student draws a graph on the whiteboard. | Java Training Track | Orange and Bronze Software Labs">
                                             </div>
                                             <div class="content">
@@ -107,6 +93,20 @@ categories:         training_tracks
                                                     Spring is a dependency injection framework that simplifies Java EE development and testing. This course is designed for experienced developers who would like to gain more depth on Spring and building loosely-coupled and testable applications, as well as aspect oriented programming.
                                                 </p>
                                                 <a href="#" data-toggle="modal" data-target="#modalCourse4" class="btn -primary">
+                                                    <img src="{{ "assets/img/ico-arrow-white.svg" | relative_url }}" class="ico" alt=""> View Course Details
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="card-course">
+                                            <div class="image">
+                                                <img src="{{ "assets/img/java-course3.jpg" | relative_url }}" alt="A student in front of his laptop that shows his code. | Java Training Track | Orange and Bronze Software Labs">
+                                            </div>
+                                            <div class="content">
+                                                <h5>Java Enterprise Fundamentals and Best Practices</h5>
+                                                <p>
+                                                    This course provides a rigorous introduction to enterprise development, including solving common problems of persistence, concurrency, organizing business logic, and communication over the web. It uses the core Java enterprise technologies of JDBC, Servlets & JSP. Regardless of which framework your team uses, this course is a valuable introduction to not just the underlying technologies behind the frameworks, but the best practices for dealing with common enterprise challenges.
+                                                </p>
+                                                <a href="#" data-toggle="modal" data-target="#modalCourse3" class="btn -primary">
                                                     <img src="{{ "assets/img/ico-arrow-white.svg" | relative_url }}" class="ico" alt=""> View Course Details
                                                 </a>
                                             </div>
@@ -486,7 +486,7 @@ categories:         training_tracks
                         Prerequisite:
                     </h4>
                     <p>
-                        Trainees must be familiar with <a href="/java/agile-engineering/" target="_blank">Agile Engineering & Java Best Practices</a>, <a href="/java/java-enterprise/" target="_blank">Java Enterprise Fundamentals and Best Practices</a>
+                        Trainees must be familiar with <a href="/java/agile-engineering/" target="_blank">Agile Engineering & Java Best Practices</a>
                     </p>
                 </section>
                 <section>

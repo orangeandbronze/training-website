@@ -77,7 +77,6 @@ categories:         java-framework
                                     <h4>Prerequisite</h4>
                                         <ul>
                                             <li><a href="/java/agile-engineering/">Agile Engineering & Java Best Practices</a></li>
-                                            <li><a href="/java/java-enterprise/">Java Enterprise Fundamentals and Best Practices</a></li>
                                         </ul>
                                     <h4>Related Course</h4>
                                     <ul>
