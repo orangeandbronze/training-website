@@ -58,7 +58,7 @@ categories:         java
                                     <li>POST-GET-Redirect (PRG) Pattern</li>
                                     <li>REST</li>
                                     <li>Transactions & Concurrency</li>
-                                    <li>Database Performance </li>
+                                    <li>Database Optimization </li>
                                     <li>Database Migration</li>
                                     <li>Load Testing w/ JMeter</li>
                                     <li>Command Query Responsibility Separation (CQRS)</li>
