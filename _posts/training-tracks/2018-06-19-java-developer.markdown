@@ -88,7 +88,7 @@ categories:         training_tracks
                                                 <img src="{{ "assets/img/java-course4.jpg" | relative_url }}" alt="A student draws a graph on the whiteboard. | Java Training Track | Orange and Bronze Software Labs">
                                             </div>
                                             <div class="content">
-                                                <h5>Combined Spring & JPA/Hibernate Training</h5>
+                                                <h5>Spring Boot Training</h5>
                                                 <p>
                                                     Spring is a dependency injection framework that simplifies Java EE development and testing. This course is designed for experienced developers who would like to gain more depth on Spring and building loosely-coupled and testable applications, as well as aspect oriented programming.
                                                 </p>
@@ -452,7 +452,7 @@ categories:         training_tracks
                 <H6>
                     &lt; Java Developer Track/&gt;
                 </H6>
-                <H3>Combined Spring & JPA/Hibernate Training</H3>
+                <H3>Spring Boot Training</H3>
             </div>
             <div class="modal-body">
                 <section>

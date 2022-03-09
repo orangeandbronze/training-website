@@ -1,9 +1,9 @@
 ---
 layout:             training-tracks
 class:              trackdetails
-title:              Combined Spring and JPA/Hibernate Training
+title:              Spring Boot Training
 title_seo:          Spring Courses Philippines
-titles:             O&B Combined Spring and JPA/Hibernate Training
+titles:             O&B Spring Boot Training
 desc:               "Spring Courses Philippines | This course is designed for experienced developers who would like to gain more depth on Spring and building loosely-coupled and testable applications, as well as aspect oriented programming."
 description:        Spring Courses Philippines | This course is designed for experienced developers who would like to gain more depth on Spring and building loosely-coupled and testable applications, as well as aspect oriented programming.
 photo:              "https://university.orangeandbronze.com/assets/img/CombinedSpringAndJPAHibernate-FBLinkPostPhoto.png"
@@ -23,7 +23,7 @@ categories:         java-framework
                             <h6>
                                 < beyond java />
                             </h6>
-                            <h2>Combined Spring and JPA/Hibernate Training</h2>
+                            <h2>Spring Boot Training</h2>
                         </div>
                     </div>
                     <div class="row" data-sticky-container>
